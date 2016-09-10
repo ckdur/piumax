@@ -1,0 +1,105 @@
+﻿Build started 6/04/2016 10:03:31 a. m..
+     1>Project "D:\piumax2\maxedit\maxeditwin.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _USING_V110_SDK71_ /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MaxGenericBGA.cpp
+         MaxGenericBGA.cpp
+     1>d:\piumax2\maxedit\maxgenericbga.cpp(108): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\piumax2\maxedit\fft.hpp(62): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+                 d:\piumax2\maxedit\fft.hpp(56) : while compiling class template member function 'void DanielsonLanczos<1024,T>::apply(T *)'
+                 with
+                 [
+                     T=float
+                 ]
+                 d:\piumax2\maxedit\fft.hpp(161) : see reference to function template instantiation 'void DanielsonLanczos<1024,T>::apply(T *)' being compiled
+                 with
+                 [
+                     T=float
+                 ]
+                 d:\piumax2\maxedit\fft.hpp(137) : see reference to class template instantiation 'DanielsonLanczos<1024,T>' being compiled
+                 with
+                 [
+                     T=float
+                 ]
+                 d:\piumax2\maxedit\maxgenericbga.h(32) : see reference to class template instantiation 'GFFT<10,float>' being compiled
+     1>d:\piumax2\maxedit\fft.hpp(26): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+                 d:\piumax2\maxedit\fft.hpp(25) : while compiling class template member function 'float Sin<1024,1,T>::value(void)'
+                 with
+                 [
+                     T=float
+                 ]
+                 d:\piumax2\maxedit\fft.hpp(61) : see reference to function template instantiation 'float Sin<1024,1,T>::value(void)' being compiled
+                 with
+                 [
+                     T=float
+                 ]
+                 d:\piumax2\maxedit\fft.hpp(61) : see reference to class template instantiation 'Sin<1024,1,T>' being compiled
+                 with
+                 [
+                     T=float
+                 ]
+                 d:\piumax2\maxedit\fft.hpp(56) : while compiling class template member function 'void DanielsonLanczos<1024,T>::apply(T *)'
+                 with
+                 [
+                     T=float
+                 ]
+                 d:\piumax2\maxedit\fft.hpp(161) : see reference to function template instantiation 'void DanielsonLanczos<1024,T>::apply(T *)' being compiled
+                 with
+                 [
+                     T=float
+                 ]
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\piumax2\maxedit\maxeditwin.exe" /INCREMENTAL /NOLOGO "glib-2.0.lib" "gtk-win32-2.0.lib" "gdk-win32-2.0.lib" "gobject-2.0.lib" "gdk_pixbuf-2.0.lib" "gthread-2.0.lib" "gmodule-2.0.lib" "pango-1.0.lib" "atk-1.0.lib" zdll.lib cairo.lib libpng.lib Shell32.lib sdl2.lib fmodex_vc.lib avcodec.lib avformat.lib swscale.lib avutil.lib glew32.lib OpenGL32.lib glu32.lib libiconv.lib libcharset.lib pcre.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\piumax2\maxedit\maxeditwin.pdb" /SUBSYSTEM:CONSOLE,"5.01" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\piumax2\maxedit\maxeditwin.lib" /MACHINE:X86 Debug\BeatSplitDlg.obj
+         Debug\ChangeBPMDlg.obj
+         Debug\ChangeVelDlg.obj
+         Debug\cmnpiu.obj
+         Debug\ComandOptionsDlg.obj
+         Debug\IncrStepDlg.obj
+         Debug\libc_max_common.obj
+         Debug\main_document.obj
+         Debug\main_document_conv.obj
+         Debug\main_view.obj
+         Debug\main_window.obj
+         Debug\main_window2.obj
+         Debug\MaxDataExchange.obj
+         Debug\MaxDialog.obj
+         Debug\maxedit.obj
+         Debug\MaxGenericBGA.obj
+         Debug\MaxSMConvChoose.obj
+         Debug\MaxStepSmu.obj
+         Debug\MaxStepSmuBS.obj
+         Debug\MaxStepSmuBSDraw.obj
+         Debug\MaxStepSmuBSRekon.obj
+         Debug\MaxStepSmuDraw.obj
+         Debug\MaxStepSmuRekon.obj
+         Debug\step.obj
+         Debug\basutil.obj
+         Debug\GLFont.obj
+         Debug\GLFont2.obj
+         Debug\GraphMain.obj
+         Debug\GraphTexture.obj
+         Debug\MaxLua.obj
+         Debug\MovieStream2.obj
+         Debug\OGLSprite.obj
+         Debug\Skin.obj
+         Debug\SkinBS.obj
+         Debug\SkinCommon.obj
+         Debug\SoundChannel.obj
+         Debug\SoundRes.obj
+         Debug\SoundStream.obj
+         Debug\SoundSys.obj
+         Debug\StdInput.obj
+         Debug\SetSizeDlg.obj
+         Debug\signals.obj
+         Debug\signalst.obj
+         Debug\signalstr.obj
+         Debug\stdafx.obj
+         Debug\MsdFile.obj
+         Debug\StepOptionsDlg.obj
+         Debug\TickCountDlg.obj
+         Debug\TypeNoteDlg.obj
+         maxeditwin.vcxproj -> D:\piumax2\maxedit\maxeditwin.exe
+     1>Done Building Project "D:\piumax2\maxedit\maxeditwin.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:15.54

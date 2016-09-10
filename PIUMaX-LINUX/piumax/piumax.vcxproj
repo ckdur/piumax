@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{18DAB690-6668-4CA1-8C22-FBAB0C6EC57B}</ProjectGuid>
+    <RootNamespace>piumax</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <IncludePath>D:\usr\include;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\usr\lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <IncludePath>D:\usr\include;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\usr\lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>zlib.lib;swscale.lib;swresample.lib;SDL.lib;pthreadVC2.lib;postproc.lib;libpng.lib;libiconv.lib;glew32.lib;fmodex_vc.lib;avutil.lib;avformat.lib;avfilter.lib;avdevice.lib;avcodec.lib;opengl32.lib;glu32.lib;libusb.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalDependencies>zlib.lib;swscale.lib;swresample.lib;SDL.lib;pthreadVC2.lib;postproc.lib;libpng.lib;libiconv.lib;glew32.lib;fmodex_vc.lib;avutil.lib;avformat.lib;avfilter.lib;avdevice.lib;avcodec.lib;opengl32.lib;glu32.lib;libusb.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <ImageHasSafeExceptionHandlers>false</ImageHasSafeExceptionHandlers>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\src\Anu.cpp" />
+    <ClCompile Include="..\src\cmnpiu.cpp" />
+    <ClCompile Include="..\src\config.cpp" />
+    <ClCompile Include="..\src\game1.cpp" />
+    <ClCompile Include="..\src\Game1Res.cpp" />
+    <ClCompile Include="..\src\Game2.cpp" />
+    <ClCompile Include="..\src\Game2Res.cpp" />
+    <ClCompile Include="..\src\Game3.cpp" />
+    <ClCompile Include="..\src\Game3Res.cpp" />
+    <ClCompile Include="..\src\Game4.cpp" />
+    <ClCompile Include="..\src\Game4Res.cpp" />
+    <ClCompile Include="..\src\Game5.cpp" />
+    <ClCompile Include="..\src\Game5Res.cpp" />
+    <ClCompile Include="..\src\GLFont.cpp" />
+    <ClCompile Include="..\src\GLFont2.cpp" />
+    <ClCompile Include="..\src\History.cpp" />
+    <ClCompile Include="..\src\HistoryLoader.cpp" />
+    <ClCompile Include="..\src\libc_max_common.cpp" />
+    <ClCompile Include="..\src\MissionLoader.cpp" />
+    <ClCompile Include="..\src\MovieStream.cpp" />
+    <ClCompile Include="..\src\MovieStream2.cpp" />
+    <ClCompile Include="..\src\MWayLoader.cpp" />
+    <ClCompile Include="..\src\OGLSprite.cpp" />
+    <ClCompile Include="..\src\OperStr.cpp" />
+    <ClCompile Include="..\src\piu.cpp" />
+    <ClCompile Include="..\src\PortBuf.cpp" />
+    <ClCompile Include="..\src\Skin.cpp" />
+    <ClCompile Include="..\src\SkinBS.cpp" />
+    <ClCompile Include="..\src\SkinCommon.cpp" />
+    <ClCompile Include="..\src\stdafx.cpp" />
+    <ClCompile Include="..\src\stepeval.cpp" />
+    <ClCompile Include="..\src\StepEvalRes.cpp" />
+    <ClCompile Include="..\src\stepsmu.cpp" />
+    <ClCompile Include="..\src\UnlockLoader.cpp" />
+    <ClCompile Include="..\src\UnlockRes.cpp" />
+    <ClCompile Include="..\src\UnlockSys.cpp" />
+    <ClCompile Include="..\src\UsbRes.cpp" />
+    <ClCompile Include="..\src\USBsys.cpp" />
+    <ClCompile Include="..\src\welcome.cpp" />
+    <ClCompile Include="..\src\WelcomeRes.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\src\Anu.h" />
+    <ClInclude Include="..\src\cmnpiu.h" />
+    <ClInclude Include="..\src\cmnpiu_ex.h" />
+    <ClInclude Include="..\src\config.h" />
+    <ClInclude Include="..\src\defbas.h" />
+    <ClInclude Include="..\src\deflate.h" />
+    <ClInclude Include="..\src\eventdef.h" />
+    <ClInclude Include="..\src\game1.h" />
+    <ClInclude Include="..\src\Game1Res.h" />
+    <ClInclude Include="..\src\game2.h" />
+    <ClInclude Include="..\src\Game2Res.h" />
+    <ClInclude Include="..\src\Game3.h" />
+    <ClInclude Include="..\src\Game3Res.h" />
+    <ClInclude Include="..\src\Game4.h" />
+    <ClInclude Include="..\src\Game4Res.h" />
+    <ClInclude Include="..\src\Game5.h" />
+    <ClInclude Include="..\src\Game5Res.h" />
+    <ClInclude Include="..\src\GLFont.h" />
+    <ClInclude Include="..\src\GLFont2.h" />
+    <ClInclude Include="..\src\History.h" />
+    <ClInclude Include="..\src\HistoryLoader.h" />
+    <ClInclude Include="..\src\intdef.h" />
+    <ClInclude Include="..\src\libc_max_common.h" />
+    <ClInclude Include="..\src\MissionLoader.h" />
+    <ClInclude Include="..\src\MovieStream.h" />
+    <ClInclude Include="..\src\MovieStream2.h" />
+    <ClInclude Include="..\src\MWayLoader.h" />
+    <ClInclude Include="..\src\OGLSprite.h" />
+    <ClInclude Include="..\src\OperStr.h" />
+    <ClInclude Include="..\src\PortBuf.h" />
+    <ClInclude Include="..\src\resdef.h" />
+    <ClInclude Include="..\src\Skin.h" />
+    <ClInclude Include="..\src\SkinBS.h" />
+    <ClInclude Include="..\src\SkinCommon.h" />
+    <ClInclude Include="..\src\stdafx.h" />
+    <ClInclude Include="..\src\StdString.h" />
+    <ClInclude Include="..\src\stepeval.h" />
+    <ClInclude Include="..\src\StepEvalRes.h" />
+    <ClInclude Include="..\src\stepsmu.h" />
+    <ClInclude Include="..\src\UnlockLoader.h" />
+    <ClInclude Include="..\src\UnlockRes.h" />
+    <ClInclude Include="..\src\UnlockSys.h" />
+    <ClInclude Include="..\src\UsbRes.h" />
+    <ClInclude Include="..\src\USBsys.h" />
+    <ClInclude Include="..\src\welcome.h" />
+    <ClInclude Include="..\src\WelcomeRes.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

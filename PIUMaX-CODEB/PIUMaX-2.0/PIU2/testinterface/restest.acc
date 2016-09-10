@@ -1,0 +1,11 @@
+#SPRITE:
+test.png,6,1,500
+downleft.png,6,1,500
+upleft.png,6,1,500
+upright.png,6,1,500
+downright.png,6,1,500
+#VIDEO:
+#SOUND:
+test.wav,0
+#FONT:
+#STRING:

@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de código fuente">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado\PIUMaX2">
+      <UniqueIdentifier>{c05c64d5-3dae-4079-8190-1415c7f91d71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de código fuente\PIUMaX2">
+      <UniqueIdentifier>{2e4a3939-ad38-4a8c-9dae-50876eb72db1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\PIUMaX2_MaxEdit">
+      <UniqueIdentifier>{76bd5cc4-1802-4829-9c92-68f83b6078bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de código fuente\PIUMaX2_MaxEdit">
+      <UniqueIdentifier>{fc9982ae-dc19-4bc6-97d2-13838e1a691a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de código fuente\SM_MaxEdit">
+      <UniqueIdentifier>{ec687bbc-f6b0-4a88-bf60-28009a34cde3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\SM_MaxEdit">
+      <UniqueIdentifier>{76849a2d-172d-4e68-9c82-745a69e2044e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de código fuente\NX2SRC">
+      <UniqueIdentifier>{94f672f6-8638-47f6-81f2-547f5045d0cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\NX2SRC">
+      <UniqueIdentifier>{17ec8237-db4d-4827-a7b8-b04a58463bf1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="maxedit.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="main_document.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="main_view.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="main_window.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="main_window2.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxDataExchange.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxDialog.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxStepSmu.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="SetSizeDlg.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="signals.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="signalst.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="signalstr.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="StepOptionsDlg.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="TickCountDlg.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="TypeNoteDlg.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="BeatSplitDlg.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="ChangeBPMDlg.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="ChangeVelDlg.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="ComandOptionsDlg.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="IncrStepDlg.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="libc_max_common.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="cmnpiu.cpp">
+      <Filter>Archivos de código fuente\PIUMaX2_MaxEdit</Filter>
+    </ClCompile>
+    <ClCompile Include="PIUMAX2\basutil.cpp">
+      <Filter>Archivos de código fuente\PIUMaX2</Filter>
+    </ClCompile>
+    <ClCompile Include="PIUMAX2\GLFont.cpp">
+      <Filter>Archivos de código fuente\PIUMaX2</Filter>
+    </ClCompile>
+    <ClCompile Include="PIUMAX2\GLFont2.cpp">
+      <Filter>Archivos de código fuente\PIUMaX2</Filter>
+    </ClCompile>
+    <ClCompile Include="PIUMAX2\GraphMain.cpp">
+      <Filter>Archivos de código fuente\PIUMaX2</Filter>
+    </ClCompile>
+    <ClCompile Include="PIUMAX2\GraphTexture.cpp">
+      <Filter>Archivos de código fuente\PIUMaX2</Filter>
+    </ClCompile>
+    <ClCompile Include="PIUMAX2\MaxLua.cpp">
+      <Filter>Archivos de código fuente\PIUMaX2</Filter>
+    </ClCompile>
+    <ClCompile Include="PIUMAX2\MovieStream2.cpp">
+      <Filter>Archivos de código fuente\PIUMaX2</Filter>
+    </ClCompile>
+    <ClCompile Include="PIUMAX2\OGLSprite.cpp">
+      <Filter>Archivos de código fuente\PIUMaX2</Filter>
+    </ClCompile>
+    <ClCompile Include="PIUMAX2\Skin.cpp">
+      <Filter>Archivos de código fuente\PIUMaX2</Filter>
+    </ClCompile>
+    <ClCompile Include="PIUMAX2\SkinBS.cpp">
+      <Filter>Archivos de código fuente\PIUMaX2</Filter>
+    </ClCompile>
+    <ClCompile Include="PIUMAX2\SkinCommon.cpp">
+      <Filter>Archivos de código fuente\PIUMaX2</Filter>
+    </ClCompile>
+    <ClCompile Include="PIUMAX2\SoundChannel.cpp">
+      <Filter>Archivos de código fuente\PIUMaX2</Filter>
+    </ClCompile>
+    <ClCompile Include="PIUMAX2\SoundStream.cpp">
+      <Filter>Archivos de código fuente\PIUMaX2</Filter>
+    </ClCompile>
+    <ClCompile Include="PIUMAX2\SoundSys.cpp">
+      <Filter>Archivos de código fuente\PIUMaX2</Filter>
+    </ClCompile>
+    <ClCompile Include="PIUMAX2\StdInput.cpp">
+      <Filter>Archivos de código fuente\PIUMaX2</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxStepSmuDraw.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxStepSmuRekon.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxStepSmuBS.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxStepSmuBSDraw.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxStepSmuBSRekon.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="PIUMAX2\SoundRes.cpp">
+      <Filter>Archivos de código fuente\PIUMaX2</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="StepMania\MsdFile.cpp">
+      <Filter>Archivos de código fuente\SM_MaxEdit</Filter>
+    </ClCompile>
+    <ClCompile Include="main_document_conv.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxSMConvChoose.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="NX2SRC\step.cpp">
+      <Filter>Archivos de código fuente\NX2SRC</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxGenericBGA.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IncrStepDlg.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="main_document.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="main_view.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="main_window.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="MaxDataExchange.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="MaxDialog.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="MaxStepSmu.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="SetSizeDlg.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="SKSFv1.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="StdString.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="StepOptionsDlg.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="TickCountDlg.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="TypeNoteDlg.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="argstep.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="BeatSplitDlg.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="ChangeBPMDlg.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="ChangeVelDlg.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="ComandOptionsDlg.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="cmnpiu.h">
+      <Filter>Archivos de encabezado\PIUMaX2_MaxEdit</Filter>
+    </ClInclude>
+    <ClInclude Include="defbas.h">
+      <Filter>Archivos de encabezado\PIUMaX2_MaxEdit</Filter>
+    </ClInclude>
+    <ClInclude Include="defcomp.h">
+      <Filter>Archivos de encabezado\PIUMaX2_MaxEdit</Filter>
+    </ClInclude>
+    <ClInclude Include="libc_max_common.h">
+      <Filter>Archivos de encabezado\PIUMaX2_MaxEdit</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Archivos de encabezado\PIUMaX2_MaxEdit</Filter>
+    </ClInclude>
+    <ClInclude Include="PIUMAX2\basutil.h">
+      <Filter>Archivos de encabezado\PIUMaX2</Filter>
+    </ClInclude>
+    <ClInclude Include="PIUMAX2\eventdef.h">
+      <Filter>Archivos de encabezado\PIUMaX2</Filter>
+    </ClInclude>
+    <ClInclude Include="PIUMAX2\GLFont.h">
+      <Filter>Archivos de encabezado\PIUMaX2</Filter>
+    </ClInclude>
+    <ClInclude Include="PIUMAX2\GLFont2.h">
+      <Filter>Archivos de encabezado\PIUMaX2</Filter>
+    </ClInclude>
+    <ClInclude Include="PIUMAX2\GraphMain.h">
+      <Filter>Archivos de encabezado\PIUMaX2</Filter>
+    </ClInclude>
+    <ClInclude Include="PIUMAX2\GraphTexture.h">
+      <Filter>Archivos de encabezado\PIUMaX2</Filter>
+    </ClInclude>
+    <ClInclude Include="PIUMAX2\MaxLua.h">
+      <Filter>Archivos de encabezado\PIUMaX2</Filter>
+    </ClInclude>
+    <ClInclude Include="PIUMAX2\MID.h">
+      <Filter>Archivos de encabezado\PIUMaX2</Filter>
+    </ClInclude>
+    <ClInclude Include="PIUMAX2\MovieStream2.h">
+      <Filter>Archivos de encabezado\PIUMaX2</Filter>
+    </ClInclude>
+    <ClInclude Include="PIUMAX2\OGLSprite.h">
+      <Filter>Archivos de encabezado\PIUMaX2</Filter>
+    </ClInclude>
+    <ClInclude Include="PIUMAX2\Skin.h">
+      <Filter>Archivos de encabezado\PIUMaX2</Filter>
+    </ClInclude>
+    <ClInclude Include="PIUMAX2\SkinBS.h">
+      <Filter>Archivos de encabezado\PIUMaX2</Filter>
+    </ClInclude>
+    <ClInclude Include="PIUMAX2\SkinCommon.h">
+      <Filter>Archivos de encabezado\PIUMaX2</Filter>
+    </ClInclude>
+    <ClInclude Include="PIUMAX2\SoundChannel.h">
+      <Filter>Archivos de encabezado\PIUMaX2</Filter>
+    </ClInclude>
+    <ClInclude Include="PIUMAX2\SoundStream.h">
+      <Filter>Archivos de encabezado\PIUMaX2</Filter>
+    </ClInclude>
+    <ClInclude Include="PIUMAX2\SoundSys.h">
+      <Filter>Archivos de encabezado\PIUMaX2</Filter>
+    </ClInclude>
+    <ClInclude Include="PIUMAX2\StdInput.h">
+      <Filter>Archivos de encabezado\PIUMaX2</Filter>
+    </ClInclude>
+    <ClInclude Include="PIUMAX2\SoundRes.h">
+      <Filter>Archivos de encabezado\PIUMaX2</Filter>
+    </ClInclude>
+    <ClInclude Include="StepMania\MsdFile.h">
+      <Filter>Archivos de encabezado\SM_MaxEdit</Filter>
+    </ClInclude>
+    <ClInclude Include="MaxSMConvChoose.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="NX2SRC\step.h">
+      <Filter>Archivos de encabezado\NX2SRC</Filter>
+    </ClInclude>
+    <ClInclude Include="NX2SRC\pump.h">
+      <Filter>Archivos de encabezado\NX2SRC</Filter>
+    </ClInclude>
+    <ClInclude Include="MaxGenericBGA.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="fft.hpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

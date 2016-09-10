@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BeatSplitDlg.cpp" />
+    <ClCompile Include="ChangeBPMDlg.cpp" />
+    <ClCompile Include="ChangeVelDlg.cpp" />
+    <ClCompile Include="cmnpiu.cpp" />
+    <ClCompile Include="ComandOptionsDlg.cpp" />
+    <ClCompile Include="IncrStepDlg.cpp" />
+    <ClCompile Include="libc_max_common.cpp" />
+    <ClCompile Include="main_document.cpp" />
+    <ClCompile Include="main_document_conv.cpp" />
+    <ClCompile Include="main_view.cpp" />
+    <ClCompile Include="main_window.cpp">
+      <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClCompile Include="main_window2.cpp" />
+    <ClCompile Include="MaxDataExchange.cpp" />
+    <ClCompile Include="MaxDialog.cpp" />
+    <ClCompile Include="maxedit.cpp" />
+    <ClCompile Include="MaxGenericBGA.cpp" />
+    <ClCompile Include="MaxSMConvChoose.cpp" />
+    <ClCompile Include="MaxStepSmu.cpp" />
+    <ClCompile Include="MaxStepSmuBS.cpp" />
+    <ClCompile Include="MaxStepSmuBSDraw.cpp" />
+    <ClCompile Include="MaxStepSmuBSRekon.cpp" />
+    <ClCompile Include="MaxStepSmuDraw.cpp" />
+    <ClCompile Include="MaxStepSmuRekon.cpp" />
+    <ClCompile Include="NX2SRC\step.cpp" />
+    <ClCompile Include="PIUMAX2\basutil.cpp" />
+    <ClCompile Include="PIUMAX2\GLFont.cpp" />
+    <ClCompile Include="PIUMAX2\GLFont2.cpp" />
+    <ClCompile Include="PIUMAX2\GraphMain.cpp" />
+    <ClCompile Include="PIUMAX2\GraphTexture.cpp" />
+    <ClCompile Include="PIUMAX2\MaxLua.cpp" />
+    <ClCompile Include="PIUMAX2\MovieStream2.cpp" />
+    <ClCompile Include="PIUMAX2\OGLSprite.cpp" />
+    <ClCompile Include="PIUMAX2\Skin.cpp" />
+    <ClCompile Include="PIUMAX2\SkinBS.cpp" />
+    <ClCompile Include="PIUMAX2\SkinCommon.cpp" />
+    <ClCompile Include="PIUMAX2\SoundChannel.cpp" />
+    <ClCompile Include="PIUMAX2\SoundRes.cpp" />
+    <ClCompile Include="PIUMAX2\SoundStream.cpp" />
+    <ClCompile Include="PIUMAX2\SoundSys.cpp" />
+    <ClCompile Include="PIUMAX2\StdInput.cpp" />
+    <ClCompile Include="SetSizeDlg.cpp" />
+    <ClCompile Include="signals.cpp" />
+    <ClCompile Include="signalst.cpp" />
+    <ClCompile Include="signalstr.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="StepMania\MsdFile.cpp" />
+    <ClCompile Include="StepOptionsDlg.cpp" />
+    <ClCompile Include="TickCountDlg.cpp" />
+    <ClCompile Include="TypeNoteDlg.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="argstep.h" />
+    <ClInclude Include="BeatSplitDlg.h" />
+    <ClInclude Include="ChangeBPMDlg.h" />
+    <ClInclude Include="ChangeVelDlg.h" />
+    <ClInclude Include="cmnpiu.h" />
+    <ClInclude Include="ComandOptionsDlg.h" />
+    <ClInclude Include="defbas.h" />
+    <ClInclude Include="defcomp.h" />
+    <ClInclude Include="fft.hpp" />
+    <ClInclude Include="IncrStepDlg.h" />
+    <ClInclude Include="libc_max_common.h" />
+    <ClInclude Include="main_document.h" />
+    <ClInclude Include="main_view.h" />
+    <ClInclude Include="main_window.h" />
+    <ClInclude Include="MaxDataExchange.h" />
+    <ClInclude Include="MaxDialog.h" />
+    <ClInclude Include="MaxGenericBGA.h" />
+    <ClInclude Include="MaxSMConvChoose.h" />
+    <ClInclude Include="MaxStepSmu.h" />
+    <ClInclude Include="NX2SRC\pump.h" />
+    <ClInclude Include="NX2SRC\step.h" />
+    <ClInclude Include="PIUMAX2\basutil.h" />
+    <ClInclude Include="PIUMAX2\eventdef.h" />
+    <ClInclude Include="PIUMAX2\GLFont.h" />
+    <ClInclude Include="PIUMAX2\GLFont2.h" />
+    <ClInclude Include="PIUMAX2\GraphMain.h" />
+    <ClInclude Include="PIUMAX2\GraphTexture.h" />
+    <ClInclude Include="PIUMAX2\MaxLua.h" />
+    <ClInclude Include="PIUMAX2\MID.h" />
+    <ClInclude Include="PIUMAX2\MovieStream2.h" />
+    <ClInclude Include="PIUMAX2\OGLSprite.h" />
+    <ClInclude Include="PIUMAX2\Skin.h" />
+    <ClInclude Include="PIUMAX2\SkinBS.h" />
+    <ClInclude Include="PIUMAX2\SkinCommon.h" />
+    <ClInclude Include="PIUMAX2\SoundChannel.h" />
+    <ClInclude Include="PIUMAX2\SoundRes.h" />
+    <ClInclude Include="PIUMAX2\SoundStream.h" />
+    <ClInclude Include="PIUMAX2\SoundSys.h" />
+    <ClInclude Include="PIUMAX2\StdInput.h" />
+    <ClInclude Include="SetSizeDlg.h" />
+    <ClInclude Include="SKSFv1.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="StdString.h" />
+    <ClInclude Include="StepMania\MsdFile.h" />
+    <ClInclude Include="StepOptionsDlg.h" />
+    <ClInclude Include="TickCountDlg.h" />
+    <ClInclude Include="TypeNoteDlg.h" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{9FF76C97-8C42-45A2-AE26-F618D9906975}</ProjectGuid>
+    <RootNamespace>maxeditwin</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120_xp</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120_xp</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ExecutablePath>$(ExecutablePath)</ExecutablePath>
+    <IncludePath>D:\piumax2\maxedit\PIUMAX2;C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Include;D:\usr\include;D:\piumax2\maxedit;D:\usr\gtk+-bundle_2.24.10-20120208_win32\include;D:\usr\gtk+-bundle_2.24.10-20120208_win32\include\atk-1.0;D:\usr\gtk+-bundle_2.24.10-20120208_win32\lib\gtk-2.0\include;D:\usr\gtk+-bundle_2.24.10-20120208_win32\include\pango-1.0;D:\usr\gtk+-bundle_2.24.10-20120208_win32\include\cairo;D:\usr\gtk+-bundle_2.24.10-20120208_win32\lib\glib-2.0\include;D:\usr\gtk+-bundle_2.24.10-20120208_win32\include\glib-2.0;D:\usr\gtk+-bundle_2.24.10-20120208_win32\include\gtk-2.0;D:\usr\gtk+-bundle_2.24.10-20120208_win32\include\gdk-pixbuf-2.0;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\usr\gtk+-bundle_2.24.10-20120208_win32\lib;D:\usr\lib;C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Lib\x86;$(LibraryPath)</LibraryPath>
+    <OutDir>$(SolutionDir)</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ExecutablePath>$(ExecutablePath)</ExecutablePath>
+    <IncludePath>D:\piumax2\maxedit\PIUMAX2;C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Include;D:\usr\include;D:\piumax2\maxedit;D:\usr\gtk+-bundle_2.24.10-20120208_win32\include;D:\usr\gtk+-bundle_2.24.10-20120208_win32\include\atk-1.0;D:\usr\gtk+-bundle_2.24.10-20120208_win32\lib\gtk-2.0\include;D:\usr\gtk+-bundle_2.24.10-20120208_win32\include\pango-1.0;D:\usr\gtk+-bundle_2.24.10-20120208_win32\include\cairo;D:\usr\gtk+-bundle_2.24.10-20120208_win32\lib\glib-2.0\include;D:\usr\gtk+-bundle_2.24.10-20120208_win32\include\glib-2.0;D:\usr\gtk+-bundle_2.24.10-20120208_win32\include\gtk-2.0;D:\usr\gtk+-bundle_2.24.10-20120208_win32\include\gdk-pixbuf-2.0;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\usr\gtk+-bundle_2.24.10-20120208_win32\lib;D:\usr\lib;C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Lib\x86;$(LibraryPath)</LibraryPath>
+    <OutDir>$(SolutionDir)</OutDir>
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>glib-2.0.lib;gtk-win32-2.0.lib;gdk-win32-2.0.lib;gobject-2.0.lib;gdk_pixbuf-2.0.lib;gthread-2.0.lib;gmodule-2.0.lib;pango-1.0.lib;atk-1.0.lib;zdll.lib;cairo.lib;libpng.lib;Shell32.lib;sdl2.lib;fmodex_vc.lib;avcodec.lib;avformat.lib;swscale.lib;avutil.lib;glew32.lib;OpenGL32.lib;glu32.lib;libiconv.lib;libcharset.lib;pcre.lib</AdditionalDependencies>
+      <SubSystem>Console</SubSystem>
+      <IgnoreSpecificDefaultLibraries>
+      </IgnoreSpecificDefaultLibraries>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <DebugInformationFormat>OldStyle</DebugInformationFormat>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalDependencies>glib-2.0.lib;gtk-win32-2.0.lib;gdk-win32-2.0.lib;gobject-2.0.lib;gdk_pixbuf-2.0.lib;gthread-2.0.lib;gmodule-2.0.lib;pango-1.0.lib;atk-1.0.lib;zdll.lib;cairo.lib;libpng.lib;Shell32.lib;sdl2.lib;fmodex_vc.lib;avcodec.lib;avformat.lib;swscale.lib;avutil.lib;glew32.lib;OpenGL32.lib;glu32.lib;libiconv.lib;libcharset.lib;pcre.lib</AdditionalDependencies>
+      <SubSystem>Console</SubSystem>
+      <ImageHasSafeExceptionHandlers>false</ImageHasSafeExceptionHandlers>
+      <IgnoreSpecificDefaultLibraries>
+      </IgnoreSpecificDefaultLibraries>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

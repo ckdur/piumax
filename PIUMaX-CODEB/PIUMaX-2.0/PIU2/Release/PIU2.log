@@ -1,0 +1,111 @@
+﻿Build started 6/04/2016 9:52:29 a. m..
+     1>Project "D:\piumax2\PIUMaX-CODEB\PIUMaX-2.0\PIU2\PIU2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IE:\PIUMaX\extinc /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D PIUMAX_2 /D WIN32 /D NDEBUG /D _CONSOLE /D _USING_V110_SDK71_ /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\src\AccReader.cpp ..\src\basutil.cpp ..\src\cmnpiu.cpp ..\src\eventdef.cpp ..\src\GLFont.cpp ..\src\GLFont2.cpp ..\src\GraphMain.cpp ..\src\GraphTexture.cpp ..\src\libc_max_common.cpp ..\src\MainTheme.cpp ..\src\MaxInterface.cpp ..\src\MaxInterfaceConfig.cpp ..\src\MaxInterfaceGame.cpp ..\src\MaxInterfaceGameIS.cpp ..\src\MaxInterfaceGameMission.cpp ..\src\MaxInterfaceGameMission3D.cpp ..\src\MaxInterfaceGameSong.cpp ..\src\MaxInterfaceStep.cpp ..\src\MaxInterfaceStepEval.cpp ..\src\MaxInterfaceUnlocker.cpp ..\src\MaxInterfaceUSB.cpp ..\src\MaxInterfaceWelcome.cpp ..\src\MaxInterface_2.cpp ..\src\Maxinterface_3.cpp ..\src\MaxInterface_LUA_EVENT.cpp ..\src\MaxInterface_LUA_INIT.cpp ..\src\MaxLua.cpp ..\src\MaxLuaCommonMethods.cpp ..\src\MaxMenu.cpp ..\src\MaxScreen.cpp ..\src\MaxScreen_2.cpp ..\src\MaxScreen_3.cpp ..\src\MovieStream2.cpp ..\src\OGLSprite.cpp ..\src\OperStr.cpp ..\src\piu.cpp ..\src\PlayerStatus.cpp ..\src\PortBuf.cpp ..\src\SoundChannel.cpp ..\src\SoundRes.cpp ..\src\SoundStream.cpp ..\src\SoundSys.cpp ..\src\SpriteRes.cpp ..\src\stdafx.cpp ..\src\StdInput.cpp ..\src\VideoRes.cpp
+         AccReader.cpp
+         basutil.cpp
+         cmnpiu.cpp
+         eventdef.cpp
+         GLFont.cpp
+         GLFont2.cpp
+         GraphMain.cpp
+         GraphTexture.cpp
+         libc_max_common.cpp
+     1>..\src\libc_max_common.cpp(151): warning C4996: 'getcwd': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getcwd. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\direct.h(130) : see declaration of 'getcwd'
+     1>..\src\libc_max_common.cpp(160): warning C4996: 'chdir': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _chdir. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\direct.h(136) : see declaration of 'chdir'
+         MainTheme.cpp
+         MaxInterface.cpp
+         MaxInterfaceConfig.cpp
+         MaxInterfaceGame.cpp
+         MaxInterfaceGameIS.cpp
+         MaxInterfaceGameMission.cpp
+         MaxInterfaceGameMission3D.cpp
+         MaxInterfaceGameSong.cpp
+         MaxInterfaceStep.cpp
+         MaxInterfaceStepEval.cpp
+         MaxInterfaceUnlocker.cpp
+         Compiling...
+         MaxInterfaceUSB.cpp
+         MaxInterfaceWelcome.cpp
+         MaxInterface_2.cpp
+         Maxinterface_3.cpp
+         MaxInterface_LUA_EVENT.cpp
+         MaxInterface_LUA_INIT.cpp
+         MaxLua.cpp
+         MaxLuaCommonMethods.cpp
+         MaxMenu.cpp
+         MaxScreen.cpp
+         MaxScreen_2.cpp
+         MaxScreen_3.cpp
+         MovieStream2.cpp
+         OGLSprite.cpp
+         OperStr.cpp
+         piu.cpp
+         PlayerStatus.cpp
+         PortBuf.cpp
+         SoundChannel.cpp
+         SoundRes.cpp
+         Compiling...
+         SoundStream.cpp
+         SoundSys.cpp
+         SpriteRes.cpp
+         stdafx.cpp
+         StdInput.cpp
+         VideoRes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\piumax2\PIUMaX-CODEB\PIUMaX-2.0\PIU2\\PIU2.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:E:\PIUMaX\extlib zlib.lib libpng.lib Shell32.lib x86\sdl2.lib fmodex_vc.lib avcodec.lib avformat.lib swscale.lib avutil.lib OpenGL32.lib glu32.lib glew32.lib libiconv.lib libcharset.lib pcre.lib lua51.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\piumax2\PIUMaX-CODEB\PIUMaX-2.0\PIU2\\PIU2.pdb" /SUBSYSTEM:WINDOWS,"5.01" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\piumax2\PIUMaX-CODEB\PIUMaX-2.0\PIU2\\PIU2.lib" /MACHINE:X86 /SAFESEH:NO Release\AccReader.obj
+         Release\basutil.obj
+         Release\cmnpiu.obj
+         Release\eventdef.obj
+         Release\GLFont.obj
+         Release\GLFont2.obj
+         Release\GraphMain.obj
+         Release\GraphTexture.obj
+         Release\libc_max_common.obj
+         Release\MainTheme.obj
+         Release\MaxInterface.obj
+         Release\MaxInterfaceConfig.obj
+         Release\MaxInterfaceGame.obj
+         Release\MaxInterfaceGameIS.obj
+         Release\MaxInterfaceGameMission.obj
+         Release\MaxInterfaceGameMission3D.obj
+         Release\MaxInterfaceGameSong.obj
+         Release\MaxInterfaceStep.obj
+         Release\MaxInterfaceStepEval.obj
+         Release\MaxInterfaceUnlocker.obj
+         Release\MaxInterfaceUSB.obj
+         Release\MaxInterfaceWelcome.obj
+         Release\MaxInterface_2.obj
+         Release\Maxinterface_3.obj
+         Release\MaxInterface_LUA_EVENT.obj
+         Release\MaxInterface_LUA_INIT.obj
+         Release\MaxLua.obj
+         Release\MaxLuaCommonMethods.obj
+         Release\MaxMenu.obj
+         Release\MaxScreen.obj
+         Release\MaxScreen_2.obj
+         Release\MaxScreen_3.obj
+         Release\MovieStream2.obj
+         Release\OGLSprite.obj
+         Release\OperStr.obj
+         Release\piu.obj
+         Release\PlayerStatus.obj
+         Release\PortBuf.obj
+         Release\SoundChannel.obj
+         Release\SoundRes.obj
+         Release\SoundStream.obj
+         Release\SoundSys.obj
+         Release\SpriteRes.obj
+         Release\stdafx.obj
+         Release\StdInput.obj
+         Release\VideoRes.obj
+         Generating code
+         Finished generating code
+         PIU2.vcxproj -> D:\piumax2\PIUMaX-CODEB\PIUMaX-2.0\PIU2\\PIU2.exe
+     1>Done Building Project "D:\piumax2\PIUMaX-CODEB\PIUMaX-2.0\PIU2\PIU2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:01:28.54

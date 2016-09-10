@@ -1,0 +1,2752 @@
+# depslib dependency file v1.0
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Anu.cpp
+	"Anu.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Anu.h
+	"cmnpiu.h"
+
+1431932624 
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/cmnpiu.h
+	"stdafx.h"
+	"libc_max_common.h"
+	"Skin.h"
+	"SkinBS.h"
+	"GLFont.h"
+	"GLFont2.h"
+	"SkinCommon.h"
+	"WelcomeRes.h"
+	"PortBuf.h"
+
+1431877352 "
+
+1433136644 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/stdafx.h
+	<cstdlib>
+	<iostream>
+	<cmath>
+	<time.h>
+	<cstdint>
+	<vector>
+	<sys/stat.h>
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glew.h>
+	<GL/glx.h>
+	<fmod/fmod.h>
+	<fmod/fmod_errors.h>
+	"png.h"
+	<SDL/SDL_thread.h>
+	<SDL/SDL_mutex.h>
+	<tchar.h>
+	<pthread.h>
+	"StdString.h"
+	"defbas.h"
+	"MovieStream2.h"
+	"OGLSprite.h"
+	"intdef.h"
+	"resdef.h"
+	"eventdef.h"
+
+1431824257 h"
+
+1431932919 .h"
+
+1433136997 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/defbas.h
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/MovieStream2.h
+	"stdafx.h"
+	"libavcodec/avcodec.h"
+	"libavformat/avformat.h"
+	"libswscale/swscale.h"
+
+1414602120 e/swscale.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/OGLSprite.h
+	<GL/glew.h>
+	<SDL/SDL.h>
+	<math.h>
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/intdef.h
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/resdef.h
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/eventdef.h
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/StdString.h
+	<TCHAR.H>
+	<WTYPES.H>
+	<assert.h>
+	<TCHAR.H>
+	<WTYPES.H>
+	<crtdbg.h>
+	<string>
+	<algorithm>
+	<functional>
+	<locale>
+	<comdef.h>
+	<wchar.h>
+	<stdio.h>
+	<stdarg.h>
+	<wctype.h>
+	<ctype.h>
+	<stdlib.h>
+	<varargs.h>
+	<malloc.h>
+	<afxconv.h>
+
+1414602120 >
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Skin.h
+	"cmnpiu.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/SkinBS.h
+	"cmnpiu.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/GLFont.h
+	"cmnpiu.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/GLFont2.h
+	"cmnpiu.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/SkinCommon.h
+	"cmnpiu.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/WelcomeRes.h
+	"cmnpiu.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/PortBuf.h
+	"stdafx.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/libc_max_common.h
+	"stdafx.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/cmnpiu.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	<lusb0_usb.h>
+	<usb.h>
+
+1428078586 .h>
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/config.cpp
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"config.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/cmnpiu_ex.h
+	"stdafx.h"
+	"Skin.h"
+	"SkinBS.h"
+	"GLFont.h"
+	"SkinCommon.h"
+	"WelcomeRes.h"
+	"Game1Res.h"
+	"stepsmu.h"
+	"StepEvalRes.h"
+	"MissionLoader.h"
+
+1426392125 ader.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game1Res.h
+	"cmnpiu.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/stepsmu.h
+	"cmnpiu.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/StepEvalRes.h
+	"cmnpiu.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/MissionLoader.h
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/config.h
+	"stdafx.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/game1.cpp
+	"game1.h"
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"Game1Res.h"
+	"USBsys.h"
+	"UnlockSys.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/game1.h
+	"stdafx.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/stepeval.h
+	"stdafx.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/USBsys.h
+	"stdafx.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/UnlockSys.h
+	"stdafx.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game1Res.cpp
+	"stdafx.h"
+	"Game1Res.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game2.cpp
+	"game2.h"
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"Game2Res.h"
+	"USBsys.h"
+	"MissionLoader.h"
+	"MWayLoader.h"
+	"Anu.h"
+	"UnlockSys.h"
+	"History.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/game2.h
+	"stdafx.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game2Res.h
+	"cmnpiu.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/MWayLoader.h
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/History.h
+	"stdafx.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game2Res.cpp
+	"stdafx.h"
+	"Game2Res.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game3.cpp
+	"Game3.h"
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"Game3Res.h"
+	"USBsys.h"
+	"UnlockSys.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game3.h
+	"stdafx.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game3Res.h
+	"cmnpiu.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game3Res.cpp
+	"stdafx.h"
+	"Game3Res.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game4.cpp
+	"Game4.h"
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"Game4Res.h"
+	"USBsys.h"
+	"UnlockSys.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game4.h
+	"stdafx.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game4Res.h
+	"cmnpiu.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game4Res.cpp
+	"stdafx.h"
+	"Game4Res.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game5.cpp
+	"Game5.h"
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"Game5Res.h"
+	"USBsys.h"
+	"UnlockSys.h"
+	"History.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game5.h
+	"stdafx.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game5Res.h
+	"cmnpiu.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game5Res.cpp
+	"stdafx.h"
+	"Game5Res.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/GLFont.cpp
+	"stdafx.h"
+	"GLFont.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/GLFont2.cpp
+	"stdafx.h"
+	"GLFont2.h"
+	"cmnpiu.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/History.cpp
+	"game1.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"HistoryLoader.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/HistoryLoader.h
+	"Anu.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/HistoryLoader.cpp
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"HistoryLoader.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/libc_max_common.cpp
+	"libc_max_common.h"
+	<iconv.h>
+	<direct.h>
+	<Shlobj.h>
+	<unistd.h>
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/MissionLoader.cpp
+	"cmnpiu.h"
+	"MissionLoader.h"
+
+1433134379 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/MovieStream2.cpp
+	"cmnpiu.h"
+	"MovieStream2.h"
+
+1421274807 am2.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/MWayLoader.cpp
+	"cmnpiu.h"
+	"MWayLoader.h"
+
+1414602120 r.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/OGLSprite.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"OGLSprite.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/OperStr.cpp
+	"stdafx.h"
+	"OperStr.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/OperStr.h
+	"StdString.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/stepeval.cpp
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"StepEvalRes.h"
+	"OperStr.h"
+	"USBsys.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/piu.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"USBsys.h"
+	"welcome.h"
+	"game1.h"
+	"game2.h"
+	"Game3.h"
+	"Game4.h"
+	"Game5.h"
+	"UnlockSys.h"
+	"stepeval.h"
+	"History.h"
+	"config.h"
+	"libc_max_common.h"
+
+1431878024 common.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/welcome.h
+	"stdafx.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/PortBuf.cpp
+	"PortBuf.h"
+	"cmnpiu.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Skin.cpp
+	"stdafx.h"
+	"Skin.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/SkinBS.cpp
+	"stdafx.h"
+	"SkinBS.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/SkinCommon.cpp
+	"stdafx.h"
+	"SkinCommon.h"
+
+1414602120 n.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/stdafx.cpp
+	"stdafx.h"
+	"libc_max_common.h"
+	"pcre.h"
+	"regex.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/StepEvalRes.cpp
+	"stdafx.h"
+	"StepEvalRes.h"
+
+1414602120 es.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/stepsmu.cpp
+	"stepsmu.h"
+	<vector>
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/UnlockLoader.cpp
+	"cmnpiu.h"
+	"UnlockLoader.h"
+
+1414602120 der.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/UnlockLoader.h
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/UnlockRes.cpp
+	"stdafx.h"
+	"UnlockRes.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/UnlockRes.h
+	"cmnpiu.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/UnlockSys.cpp
+	"UnlockSys.h"
+	"UnlockRes.h"
+	"game1.h"
+	"Game3.h"
+	"Game4.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"UnlockLoader.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/UsbRes.cpp
+	"stdafx.h"
+	"UsbRes.h"
+
+1433132366 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/UsbRes.h
+	"cmnpiu.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/USBsys.cpp
+	"USBsys.h"
+	"UsbRes.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"game1.h"
+	"game2.h"
+	"Game3.h"
+	"Game4.h"
+	<direct.h>
+	<stdio.h>
+	<dirent.h>
+	<errno.h>
+	<string.h>
+	<libgen.h>
+	<linux/limits.h>
+	<sys/mount.h>
+	<glob.h>
+	<unistd.h>
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/welcome.cpp
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"welcome.h"
+
+1433132366 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/WelcomeRes.cpp
+	"stdafx.h"
+	"WelcomeRes.h"
+
+1423751901 s.h"
+
+1423751897 /home/ckdur/Descargas/ffmpeg-0.8/libavcodec/avcodec.h
+	<errno.h>
+	"libavutil/samplefmt.h"
+	"libavutil/avutil.h"
+	"libavutil/cpu.h"
+	"libavutil/channel_layout.h"
+	"libavutil/dict.h"
+	"libavutil/log.h"
+	"libavutil/pixfmt.h"
+	"libavutil/rational.h"
+	"libavcodec/version.h"
+	"old_codec_ids.h"
+
+1423751897 _ids.h"
+
+1308686913 /audioconvert.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/samplefmt.h
+	<stdint.h>
+	"avutil.h"
+	"attributes.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/avutil.h
+	"common.h"
+	"error.h"
+	"version.h"
+	"mathematics.h"
+	"rational.h"
+	"intfloat_readwrite.h"
+	"log.h"
+	"pixfmt.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/common.h
+	<errno.h>
+	<inttypes.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"attributes.h"
+	"version.h"
+	"libavutil/avconfig.h"
+	"config.h"
+	"intmath.h"
+	"common.h"
+	"mem.h"
+	"internal.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/attributes.h
+
+1433134662 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/avconfig.h
+
+1433134662 /home/ckdur/Descargas/ffmpeg-0.8/config.h
+
+1421721955 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/intmath.h
+	<stdint.h>
+	"config.h"
+	"attributes.h"
+	"arm/intmath.h"
+	"arm/intmath.h"
+
+1421721955 th.h"
+
+1417393309 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/arm/intmath.h
+	<stdint.h>
+	"config.h"
+	"libavutil/attributes.h"
+
+1308684565 /attributes.h"
+
+1308684565 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/x86/intmath.h
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/mem.h
+	<limits.h>
+	<stdint.h>
+	"attributes.h"
+	"error.h"
+	"avutil.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/internal.h
+	<limits.h>
+	<stdint.h>
+	<stddef.h>
+	<assert.h>
+	"config.h"
+	"attributes.h"
+	"timer.h"
+	"cpu.h"
+	"dict.h"
+	"x86/emms.h"
+	"libm.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/timer.h
+	<stdlib.h>
+	<stdint.h>
+	<inttypes.h>
+	"config.h"
+	"arm/timer.h"
+	"bfin/timer.h"
+	"ppc/timer.h"
+	"x86/timer.h"
+
+1417393309 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/arm/timer.h
+	<stdint.h>
+	"config.h"
+
+1417393309 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/bfin/timer.h
+	<stdint.h>
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/ppc/timer.h
+	<stdint.h>
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/x86/timer.h
+	<stdint.h>
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/cpu.h
+	"attributes.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/dict.h
+
+1420863667 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/libm.h
+	<math.h>
+	"config.h"
+	"attributes.h"
+	"intfloat.h"
+	"libavutil/mips/libm_mips.h"
+
+1420863667 /mips/libm_mips.h"
+
+1421721955 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/error.h
+	<errno.h>
+	<stddef.h>
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/mathematics.h
+	<stdint.h>
+	<math.h>
+	"attributes.h"
+	"rational.h"
+	"intfloat.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/rational.h
+	<stdint.h>
+	<limits.h>
+	"attributes.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/intfloat_readwrite.h
+	<stdint.h>
+	"attributes.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/log.h
+	<stdarg.h>
+	"avutil.h"
+	"attributes.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/pixfmt.h
+	"libavutil/avconfig.h"
+	"libavutil/version.h"
+	"old_pix_fmts.h"
+
+1423751901 mts.h"
+
+1308684565 /avconfig.h"
+
+1423751899 /home/ckdur/Descargas/ffmpeg-0.8/libavcodec/version.h
+	"libavutil/avutil.h"
+
+1423751902 /avutil.h"
+
+1308684565 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/audioconvert.h
+	<stdint.h>
+
+1423751900 /home/ckdur/Descargas/ffmpeg-0.8/libavformat/avformat.h
+	<time.h>
+	<stdio.h>
+	"libavcodec/avcodec.h"
+	"libavutil/dict.h"
+	"libavutil/log.h"
+	"avio.h"
+	"libavformat/version.h"
+	"libavutil/time.h"
+
+1423751900 /time.h"
+
+1423751900 at/version.h"
+
+1423751900 /home/ckdur/Descargas/ffmpeg-0.8/libavformat/avio.h
+	<stdint.h>
+	"libavutil/common.h"
+	"libavutil/dict.h"
+	"libavutil/log.h"
+	"libavformat/version.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavformat/version.h
+	"libavutil/avutil.h"
+
+1423751902 /home/ckdur/Descargas/ffmpeg-0.8/libswscale/swscale.h
+	<stdint.h>
+	"libavutil/avutil.h"
+	"libavutil/log.h"
+	"libavutil/pixfmt.h"
+	"version.h"
+
+1421204353 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/Anu.cpp
+	"Anu.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/Anu.h
+	"cmnpiu.h"
+
+1421204298 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/cmnpiu.h
+	"stdafx.h"
+	"libc_max_common.h"
+	"Skin.h"
+	"SkinBS.h"
+	"GLFont.h"
+	"GLFont2.h"
+	"SkinCommon.h"
+	"WelcomeRes.h"
+	"PortBuf.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/stdafx.h
+	<cstdlib>
+	<iostream>
+	<cmath>
+	<time.h>
+	<cstdint>
+	<sys/stat.h>
+	"defbas.h"
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glew.h>
+	<GL/glx.h>
+	<fmod/fmod.h>
+	<fmod/fmod_errors.h>
+	"png.h"
+	"MovieStream2.h"
+	"OGLSprite.h"
+	"intdef.h"
+	"resdef.h"
+	"eventdef.h"
+	<SDL/SDL_thread.h>
+	<SDL/SDL_mutex.h>
+	<tchar.h>
+	<pthread.h>
+	"StdString.h"
+
+1421203676 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/defbas.h
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/MovieStream2.h
+	"stdafx.h"
+	"libavcodec/avcodec.h"
+	"libavformat/avformat.h"
+	"libswscale/swscale.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/OGLSprite.h
+	<GL/glew.h>
+	<SDL/SDL.h>
+	<math.h>
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/intdef.h
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/resdef.h
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/eventdef.h
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/StdString.h
+	<TCHAR.H>
+	<WTYPES.H>
+	<assert.h>
+	<TCHAR.H>
+	<WTYPES.H>
+	<crtdbg.h>
+	<string>
+	<algorithm>
+	<functional>
+	<locale>
+	<comdef.h>
+	<wchar.h>
+	<stdio.h>
+	<stdarg.h>
+	<wctype.h>
+	<ctype.h>
+	<stdlib.h>
+	<varargs.h>
+	<malloc.h>
+	<afxconv.h>
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/libc_max_common.h
+	"stdafx.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/Skin.h
+	"cmnpiu.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/SkinBS.h
+	"cmnpiu.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/GLFont.h
+	"cmnpiu.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/GLFont2.h
+	"cmnpiu.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/SkinCommon.h
+	"cmnpiu.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/WelcomeRes.h
+	"cmnpiu.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/PortBuf.h
+	"stdafx.h"
+
+1421191417 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/cmnpiu.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	<usb.h>
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/config.cpp
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"config.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/cmnpiu_ex.h
+	"stdafx.h"
+	"Skin.h"
+	"SkinBS.h"
+	"GLFont.h"
+	"SkinCommon.h"
+	"WelcomeRes.h"
+	"Game1Res.h"
+	"stepsmu.h"
+	"StepEvalRes.h"
+	"MissionLoader.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/Game1Res.h
+	"cmnpiu.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/stepsmu.h
+	"cmnpiu.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/StepEvalRes.h
+	"cmnpiu.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/MissionLoader.h
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/config.h
+	"stdafx.h"
+
+1421207915 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/game1.cpp
+	"game1.h"
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"Game1Res.h"
+	"USBsys.h"
+	"UnlockSys.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/game1.h
+	"stdafx.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/stepeval.h
+	"stdafx.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/USBsys.h
+	"stdafx.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/UnlockSys.h
+	"stdafx.h"
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/Game1Res.cpp
+	"stdafx.h"
+	"Game1Res.h"
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/Game2.cpp
+	"game2.h"
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"Game2Res.h"
+	"USBsys.h"
+	"MissionLoader.h"
+	"MWayLoader.h"
+	"Anu.h"
+	"UnlockSys.h"
+	"History.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/game2.h
+	"stdafx.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/Game2Res.h
+	"cmnpiu.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/MWayLoader.h
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/History.h
+	"stdafx.h"
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/Game2Res.cpp
+	"stdafx.h"
+	"Game2Res.h"
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/Game3.cpp
+	"Game3.h"
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"Game3Res.h"
+	"USBsys.h"
+	"UnlockSys.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/Game3.h
+	"stdafx.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/Game3Res.h
+	"cmnpiu.h"
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/Game3Res.cpp
+	"stdafx.h"
+	"Game3Res.h"
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/Game4.cpp
+	"Game4.h"
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"Game4Res.h"
+	"USBsys.h"
+	"UnlockSys.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/Game4.h
+	"stdafx.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/Game4Res.h
+	"cmnpiu.h"
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/Game4Res.cpp
+	"stdafx.h"
+	"Game4Res.h"
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/Game5.cpp
+	"Game5.h"
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"Game5Res.h"
+	"USBsys.h"
+	"UnlockSys.h"
+	"History.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/Game5.h
+	"stdafx.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/Game5Res.h
+	"cmnpiu.h"
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/Game5Res.cpp
+	"stdafx.h"
+	"Game5Res.h"
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/GLFont.cpp
+	"stdafx.h"
+	"GLFont.h"
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/GLFont2.cpp
+	"stdafx.h"
+	"GLFont2.h"
+	"cmnpiu.h"
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/History.cpp
+	"game1.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"HistoryLoader.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/HistoryLoader.h
+	"Anu.h"
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/HistoryLoader.cpp
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"HistoryLoader.h"
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/libc_max_common.cpp
+	"libc_max_common.h"
+	<iconv.h>
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/MissionLoader.cpp
+	"cmnpiu.h"
+	"MissionLoader.h"
+
+1421185182 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/MovieStream2.cpp
+	"cmnpiu.h"
+	"MovieStream2.h"
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/MWayLoader.cpp
+	"cmnpiu.h"
+	"MWayLoader.h"
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/OGLSprite.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"OGLSprite.h"
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/OperStr.cpp
+	"stdafx.h"
+	"OperStr.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/OperStr.h
+	"StdString.h"
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/piu.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"USBsys.h"
+	"welcome.h"
+	"game1.h"
+	"game2.h"
+	"Game3.h"
+	"Game4.h"
+	"Game5.h"
+	"UnlockSys.h"
+	"stepeval.h"
+	"History.h"
+	"config.h"
+	"libc_max_common.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/welcome.h
+	"stdafx.h"
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/PortBuf.cpp
+	"PortBuf.h"
+	"cmnpiu.h"
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/Skin.cpp
+	"stdafx.h"
+	"Skin.h"
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/SkinBS.cpp
+	"stdafx.h"
+	"SkinBS.h"
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/SkinCommon.cpp
+	"stdafx.h"
+	"SkinCommon.h"
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/stdafx.cpp
+	"stdafx.h"
+	"libc_max_common.h"
+	"pcre.h"
+	"regex.h"
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/stepeval.cpp
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"StepEvalRes.h"
+	"OperStr.h"
+	"USBsys.h"
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/StepEvalRes.cpp
+	"stdafx.h"
+	"StepEvalRes.h"
+
+1421205576 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/stepsmu.cpp
+	"stepsmu.h"
+	<vector>
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/UnlockLoader.cpp
+	"cmnpiu.h"
+	"UnlockLoader.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/UnlockLoader.h
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/UnlockRes.cpp
+	"stdafx.h"
+	"UnlockRes.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/UnlockRes.h
+	"cmnpiu.h"
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/UnlockSys.cpp
+	"UnlockSys.h"
+	"UnlockRes.h"
+	"game1.h"
+	"Game3.h"
+	"Game4.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"UnlockLoader.h"
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/UsbRes.cpp
+	"stdafx.h"
+	"UsbRes.h"
+
+1414602120 /media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/UsbRes.h
+	"cmnpiu.h"
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/USBsys.cpp
+	"USBsys.h"
+	"UsbRes.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"game1.h"
+	"game2.h"
+	"Game3.h"
+	"Game4.h"
+	<stdio.h>
+	<dirent.h>
+	<errno.h>
+	<string.h>
+	<libgen.h>
+	<linux/limits.h>
+	<sys/mount.h>
+	<glob.h>
+	<unistd.h>
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/welcome.cpp
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"welcome.h"
+
+1414602120 source:/media/oem/DATOS/piumax2.git/PIUMaX-LINUX/src/WelcomeRes.cpp
+	"stdafx.h"
+	"WelcomeRes.h"
+
+1421204353 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/Anu.cpp
+	"Anu.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/Anu.h
+	"cmnpiu.h"
+
+1421204298 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/cmnpiu.h
+	"stdafx.h"
+	"libc_max_common.h"
+	"Skin.h"
+	"SkinBS.h"
+	"GLFont.h"
+	"GLFont2.h"
+	"SkinCommon.h"
+	"WelcomeRes.h"
+	"PortBuf.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/stdafx.h
+	<cstdlib>
+	<iostream>
+	<cmath>
+	<time.h>
+	<cstdint>
+	<sys/stat.h>
+	"defbas.h"
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glew.h>
+	<GL/glx.h>
+	<fmod/fmod.h>
+	<fmod/fmod_errors.h>
+	"png.h"
+	"MovieStream2.h"
+	"OGLSprite.h"
+	"intdef.h"
+	"resdef.h"
+	"eventdef.h"
+	<SDL/SDL_thread.h>
+	<SDL/SDL_mutex.h>
+	<tchar.h>
+	<pthread.h>
+	"StdString.h"
+
+1421203676 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/defbas.h
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/MovieStream2.h
+	"stdafx.h"
+	"libavcodec/avcodec.h"
+	"libavformat/avformat.h"
+	"libswscale/swscale.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/OGLSprite.h
+	<GL/glew.h>
+	<SDL/SDL.h>
+	<math.h>
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/intdef.h
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/resdef.h
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/eventdef.h
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/StdString.h
+	<TCHAR.H>
+	<WTYPES.H>
+	<assert.h>
+	<TCHAR.H>
+	<WTYPES.H>
+	<crtdbg.h>
+	<string>
+	<algorithm>
+	<functional>
+	<locale>
+	<comdef.h>
+	<wchar.h>
+	<stdio.h>
+	<stdarg.h>
+	<wctype.h>
+	<ctype.h>
+	<stdlib.h>
+	<varargs.h>
+	<malloc.h>
+	<afxconv.h>
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/libc_max_common.h
+	"stdafx.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/Skin.h
+	"cmnpiu.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/SkinBS.h
+	"cmnpiu.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/GLFont.h
+	"cmnpiu.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/GLFont2.h
+	"cmnpiu.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/SkinCommon.h
+	"cmnpiu.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/WelcomeRes.h
+	"cmnpiu.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/PortBuf.h
+	"stdafx.h"
+
+1421191417 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/cmnpiu.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	<usb.h>
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/config.cpp
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"config.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/cmnpiu_ex.h
+	"stdafx.h"
+	"Skin.h"
+	"SkinBS.h"
+	"GLFont.h"
+	"SkinCommon.h"
+	"WelcomeRes.h"
+	"Game1Res.h"
+	"stepsmu.h"
+	"StepEvalRes.h"
+	"MissionLoader.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/Game1Res.h
+	"cmnpiu.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/stepsmu.h
+	"cmnpiu.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/StepEvalRes.h
+	"cmnpiu.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/MissionLoader.h
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/config.h
+	"stdafx.h"
+
+1421207915 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/game1.cpp
+	"game1.h"
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"Game1Res.h"
+	"USBsys.h"
+	"UnlockSys.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/game1.h
+	"stdafx.h"
+
+1421275307 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/stepeval.h
+	"stdafx.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/USBsys.h
+	"stdafx.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/UnlockSys.h
+	"stdafx.h"
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/Game1Res.cpp
+	"stdafx.h"
+	"Game1Res.h"
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/Game2.cpp
+	"game2.h"
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"Game2Res.h"
+	"USBsys.h"
+	"MissionLoader.h"
+	"MWayLoader.h"
+	"Anu.h"
+	"UnlockSys.h"
+	"History.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/game2.h
+	"stdafx.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/Game2Res.h
+	"cmnpiu.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/MWayLoader.h
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/History.h
+	"stdafx.h"
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/Game2Res.cpp
+	"stdafx.h"
+	"Game2Res.h"
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/Game3.cpp
+	"Game3.h"
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"Game3Res.h"
+	"USBsys.h"
+	"UnlockSys.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/Game3.h
+	"stdafx.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/Game3Res.h
+	"cmnpiu.h"
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/Game3Res.cpp
+	"stdafx.h"
+	"Game3Res.h"
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/Game4.cpp
+	"Game4.h"
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"Game4Res.h"
+	"USBsys.h"
+	"UnlockSys.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/Game4.h
+	"stdafx.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/Game4Res.h
+	"cmnpiu.h"
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/Game4Res.cpp
+	"stdafx.h"
+	"Game4Res.h"
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/Game5.cpp
+	"Game5.h"
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"Game5Res.h"
+	"USBsys.h"
+	"UnlockSys.h"
+	"History.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/Game5.h
+	"stdafx.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/Game5Res.h
+	"cmnpiu.h"
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/Game5Res.cpp
+	"stdafx.h"
+	"Game5Res.h"
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/GLFont.cpp
+	"stdafx.h"
+	"GLFont.h"
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/GLFont2.cpp
+	"stdafx.h"
+	"GLFont2.h"
+	"cmnpiu.h"
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/History.cpp
+	"game1.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"HistoryLoader.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/HistoryLoader.h
+	"Anu.h"
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/HistoryLoader.cpp
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"HistoryLoader.h"
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/libc_max_common.cpp
+	"libc_max_common.h"
+	<iconv.h>
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/MissionLoader.cpp
+	"cmnpiu.h"
+	"MissionLoader.h"
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/MWayLoader.cpp
+	"cmnpiu.h"
+	"MWayLoader.h"
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/OGLSprite.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"OGLSprite.h"
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/OperStr.cpp
+	"stdafx.h"
+	"OperStr.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/OperStr.h
+	"StdString.h"
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/piu.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"USBsys.h"
+	"welcome.h"
+	"game1.h"
+	"game2.h"
+	"Game3.h"
+	"Game4.h"
+	"Game5.h"
+	"UnlockSys.h"
+	"stepeval.h"
+	"History.h"
+	"config.h"
+	"libc_max_common.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/welcome.h
+	"stdafx.h"
+
+1421208979 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/PortBuf.cpp
+	"PortBuf.h"
+	"cmnpiu.h"
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/Skin.cpp
+	"stdafx.h"
+	"Skin.h"
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/SkinBS.cpp
+	"stdafx.h"
+	"SkinBS.h"
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/SkinCommon.cpp
+	"stdafx.h"
+	"SkinCommon.h"
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/stdafx.cpp
+	"stdafx.h"
+	"libc_max_common.h"
+	"pcre.h"
+	"regex.h"
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/StepEvalRes.cpp
+	"stdafx.h"
+	"StepEvalRes.h"
+
+1421205576 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/stepsmu.cpp
+	"stepsmu.h"
+	<vector>
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/UnlockLoader.cpp
+	"cmnpiu.h"
+	"UnlockLoader.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/UnlockLoader.h
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/UnlockRes.cpp
+	"stdafx.h"
+	"UnlockRes.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/UnlockRes.h
+	"cmnpiu.h"
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/UnlockSys.cpp
+	"UnlockSys.h"
+	"UnlockRes.h"
+	"game1.h"
+	"Game3.h"
+	"Game4.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"UnlockLoader.h"
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/UsbRes.cpp
+	"stdafx.h"
+	"UsbRes.h"
+
+1414602120 /media/DATOS/piumax2.git/PIUMaX-LINUX/src/UsbRes.h
+	"cmnpiu.h"
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/USBsys.cpp
+	"USBsys.h"
+	"UsbRes.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"game1.h"
+	"game2.h"
+	"Game3.h"
+	"Game4.h"
+	<stdio.h>
+	<dirent.h>
+	<errno.h>
+	<string.h>
+	<libgen.h>
+	<linux/limits.h>
+	<sys/mount.h>
+	<glob.h>
+	<unistd.h>
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/welcome.cpp
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"welcome.h"
+
+1414602120 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/WelcomeRes.cpp
+	"stdafx.h"
+	"WelcomeRes.h"
+
+1421274807 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/MovieStream2.cpp
+	"cmnpiu.h"
+	"MovieStream2.h"
+
+1421277066 source:/media/DATOS/piumax2.git/PIUMaX-LINUX/src/stepeval.cpp
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"StepEvalRes.h"
+	"OperStr.h"
+	"USBsys.h"
+
+1428078586 source:/mnt/hd/piumax2/piumax-linux/src/cmnpiu.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	<lusb0_usb.h>
+	<usb.h>
+
+1431824257 /mnt/hd/piumax2/piumax-linux/src/stdafx.h
+	<cstdlib>
+	<iostream>
+	<cmath>
+	<time.h>
+	<cstdint>
+	<vector>
+	<sys/stat.h>
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glew.h>
+	<GL/glx.h>
+	<fmod/fmod.h>
+	<fmod/fmod_errors.h>
+	"png.h"
+	<SDL/SDL_thread.h>
+	<SDL/SDL_mutex.h>
+	<tchar.h>
+	<pthread.h>
+	"StdString.h"
+	"defbas.h"
+	"MovieStream2.h"
+	"OGLSprite.h"
+	"intdef.h"
+	"resdef.h"
+	"eventdef.h"
+
+1426406160 /mnt/hd/piumax2/piumax-linux/src/defbas.h
+
+1426392125 /mnt/hd/piumax2/piumax-linux/src/intdef.h
+
+1426392125 /mnt/hd/piumax2/piumax-linux/src/resdef.h
+
+1426392125 /mnt/hd/piumax2/piumax-linux/src/eventdef.h
+
+1431879920 /mnt/hd/piumax2/piumax-linux/src/cmnpiu.h
+	"stdafx.h"
+	"libc_max_common.h"
+	"Skin.h"
+	"SkinBS.h"
+	"GLFont.h"
+	"GLFont2.h"
+	"SkinCommon.h"
+	"WelcomeRes.h"
+	"PortBuf.h"
+
+1426405417 /mnt/hd/piumax2/piumax-linux/src/libc_max_common.h
+	"stdafx.h"
+
+1431832662 source:/mnt/hd/piumax2/piumax-linux/src/config.cpp
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"config.h"
+
+1426392125 /mnt/hd/piumax2/piumax-linux/src/cmnpiu_ex.h
+	"stdafx.h"
+	"Skin.h"
+	"SkinBS.h"
+	"GLFont.h"
+	"SkinCommon.h"
+	"WelcomeRes.h"
+	"Game1Res.h"
+	"stepsmu.h"
+	"StepEvalRes.h"
+	"MissionLoader.h"
+
+1426392125 /mnt/hd/piumax2/piumax-linux/src/stepsmu.h
+	"cmnpiu.h"
+
+1426392125 /mnt/hd/piumax2/piumax-linux/src/config.h
+	"stdafx.h"
+
+1431932919 source:/mnt/hd/piumax2/piumax-linux/src/game1.cpp
+	"game1.h"
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"Game1Res.h"
+	"USBsys.h"
+	"UnlockSys.h"
+
+1431828079 /mnt/hd/piumax2/piumax-linux/src/game1.h
+	"stdafx.h"
+
+1431893487 /mnt/hd/piumax2/piumax-linux/src/stepeval.h
+	"stdafx.h"
+
+1431824488 source:/mnt/hd/piumax2/piumax-linux/src/libc_max_common.cpp
+	"libc_max_common.h"
+	<iconv.h>
+	<direct.h>
+	<Shlobj.h>
+	<unistd.h>
+
+1431878024 source:/mnt/hd/piumax2/piumax-linux/src/piu.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"USBsys.h"
+	"welcome.h"
+	"game1.h"
+	"game2.h"
+	"Game3.h"
+	"Game4.h"
+	"Game5.h"
+	"UnlockSys.h"
+	"stepeval.h"
+	"History.h"
+	"config.h"
+	"libc_max_common.h"
+
+1431830768 /mnt/hd/piumax2/piumax-linux/src/welcome.h
+	"stdafx.h"
+
+1426392125 /mnt/hd/piumax2/piumax-linux/src/game2.h
+	"stdafx.h"
+
+1426404545 source:/mnt/hd/piumax2/piumax-linux/src/stdafx.cpp
+	"stdafx.h"
+	"libc_max_common.h"
+	"pcre.h"
+	"regex.h"
+
+1431909207 source:/mnt/hd/piumax2/piumax-linux/src/stepeval.cpp
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"StepEvalRes.h"
+	"OperStr.h"
+	"USBsys.h"
+
+1431932624 source:/mnt/hd/piumax2/piumax-linux/src/stepsmu.cpp
+	"stepsmu.h"
+	<vector>
+
+1431877352 source:/mnt/hd/piumax2/piumax-linux/src/welcome.cpp
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"welcome.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/version.h
+
+1419306402 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/x86/emms.h
+	"config.h"
+	"libavutil/attributes.h"
+	"libavutil/cpu.h"
+	<mmintrin.h>
+
+1419306402 h>
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/intfloat.h
+	<stdint.h>
+	"attributes.h"
+
+1417393309 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/mips/libm_mips.h
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/old_pix_fmts.h
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/channel_layout.h
+	<stdint.h>
+
+1423751898 /home/ckdur/Descargas/ffmpeg-0.8/libavcodec/old_codec_ids.h
+	"libavutil/common.h"
+
+1423751898 /common.h"
+
+1421721955 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/time.h
+	<stdint.h>
+
+1423751902 /home/ckdur/Descargas/ffmpeg-0.8/libswscale/version.h
+	"libavutil/avutil.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/Anu.cpp
+	"Anu.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-LINUX/src/Anu.h
+	"cmnpiu.h"
+
+1445442972 /mnt/hd/piumax2/PIUMaX-LINUX/src/cmnpiu.h
+	"stdafx.h"
+	"libc_max_common.h"
+	"Skin.h"
+	"SkinBS.h"
+	"GLFont.h"
+	"GLFont2.h"
+	"SkinCommon.h"
+	"WelcomeRes.h"
+	"PortBuf.h"
+
+1445442972 /mnt/hd/piumax2/PIUMaX-LINUX/src/stdafx.h
+	<cstdlib>
+	<iostream>
+	<cmath>
+	<time.h>
+	<cstdint>
+	<vector>
+	<sys/stat.h>
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glew.h>
+	<GL/glx.h>
+	<fmod/fmod.h>
+	<fmod/fmod_errors.h>
+	"png.h"
+	<SDL/SDL_thread.h>
+	<SDL/SDL_mutex.h>
+	<tchar.h>
+	<pthread.h>
+	"StdString.h"
+	"defbas.h"
+	"MovieStream2.h"
+	"OGLSprite.h"
+	"intdef.h"
+	"resdef.h"
+	"eventdef.h"
+
+1445442972 /mnt/hd/piumax2/PIUMaX-LINUX/src/StdString.h
+	<TCHAR.H>
+	<WTYPES.H>
+	<assert.h>
+	<TCHAR.H>
+	<WTYPES.H>
+	<crtdbg.h>
+	<string>
+	<algorithm>
+	<functional>
+	<locale>
+	<comdef.h>
+	<wchar.h>
+	<stdio.h>
+	<stdarg.h>
+	<wctype.h>
+	<ctype.h>
+	<stdlib.h>
+	<varargs.h>
+	<malloc.h>
+	<afxconv.h>
+
+1445442972 /mnt/hd/piumax2/PIUMaX-LINUX/src/defbas.h
+
+1445442971 /mnt/hd/piumax2/PIUMaX-LINUX/src/MovieStream2.h
+	"stdafx.h"
+	"libavcodec/avcodec.h"
+	"libavformat/avformat.h"
+	"libswscale/swscale.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-LINUX/src/OGLSprite.h
+	<GL/glew.h>
+	<SDL/SDL.h>
+	<math.h>
+
+1445442972 /mnt/hd/piumax2/PIUMaX-LINUX/src/intdef.h
+
+1445442972 /mnt/hd/piumax2/PIUMaX-LINUX/src/resdef.h
+
+1445442972 /mnt/hd/piumax2/PIUMaX-LINUX/src/eventdef.h
+
+1445442972 /mnt/hd/piumax2/PIUMaX-LINUX/src/libc_max_common.h
+	"stdafx.h"
+
+1445442972 /mnt/hd/piumax2/PIUMaX-LINUX/src/Skin.h
+	"cmnpiu.h"
+
+1445442972 /mnt/hd/piumax2/PIUMaX-LINUX/src/SkinBS.h
+	"cmnpiu.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-LINUX/src/GLFont.h
+	"cmnpiu.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-LINUX/src/GLFont2.h
+	"cmnpiu.h"
+
+1445442972 /mnt/hd/piumax2/PIUMaX-LINUX/src/SkinCommon.h
+	"cmnpiu.h"
+
+1445442972 /mnt/hd/piumax2/PIUMaX-LINUX/src/WelcomeRes.h
+	"cmnpiu.h"
+
+1445442972 /mnt/hd/piumax2/PIUMaX-LINUX/src/PortBuf.h
+	"stdafx.h"
+
+1445442972 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/cmnpiu.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	<lusb0_usb.h>
+	<usb.h>
+
+1445442972 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/config.cpp
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"config.h"
+
+1445442972 /mnt/hd/piumax2/PIUMaX-LINUX/src/cmnpiu_ex.h
+	"stdafx.h"
+	"Skin.h"
+	"SkinBS.h"
+	"GLFont.h"
+	"SkinCommon.h"
+	"WelcomeRes.h"
+	"Game1Res.h"
+	"stepsmu.h"
+	"StepEvalRes.h"
+	"MissionLoader.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-LINUX/src/Game1Res.h
+	"cmnpiu.h"
+
+1445442972 /mnt/hd/piumax2/PIUMaX-LINUX/src/stepsmu.h
+	"cmnpiu.h"
+
+1445442972 /mnt/hd/piumax2/PIUMaX-LINUX/src/StepEvalRes.h
+	"cmnpiu.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-LINUX/src/MissionLoader.h
+
+1445442972 /mnt/hd/piumax2/PIUMaX-LINUX/src/config.h
+	"stdafx.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/Game1Res.cpp
+	"stdafx.h"
+	"Game1Res.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/Game2.cpp
+	"game2.h"
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"Game2Res.h"
+	"USBsys.h"
+	"MissionLoader.h"
+	"MWayLoader.h"
+	"Anu.h"
+	"UnlockSys.h"
+	"History.h"
+
+1445442972 /mnt/hd/piumax2/PIUMaX-LINUX/src/game2.h
+	"stdafx.h"
+
+1445442972 /mnt/hd/piumax2/PIUMaX-LINUX/src/stepeval.h
+	"stdafx.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-LINUX/src/Game2Res.h
+	"cmnpiu.h"
+
+1445442972 /mnt/hd/piumax2/PIUMaX-LINUX/src/USBsys.h
+	"stdafx.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-LINUX/src/MWayLoader.h
+
+1445442972 /mnt/hd/piumax2/PIUMaX-LINUX/src/UnlockSys.h
+	"stdafx.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-LINUX/src/History.h
+	"stdafx.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/Game2Res.cpp
+	"stdafx.h"
+	"Game2Res.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/Game3.cpp
+	"Game3.h"
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"Game3Res.h"
+	"USBsys.h"
+	"UnlockSys.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-LINUX/src/Game3.h
+	"stdafx.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-LINUX/src/Game3Res.h
+	"cmnpiu.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/Game3Res.cpp
+	"stdafx.h"
+	"Game3Res.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/Game4.cpp
+	"Game4.h"
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"Game4Res.h"
+	"USBsys.h"
+	"UnlockSys.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-LINUX/src/Game4.h
+	"stdafx.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-LINUX/src/Game4Res.h
+	"cmnpiu.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/Game4Res.cpp
+	"stdafx.h"
+	"Game4Res.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/Game5.cpp
+	"Game5.h"
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"Game5Res.h"
+	"USBsys.h"
+	"UnlockSys.h"
+	"History.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-LINUX/src/Game5.h
+	"stdafx.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-LINUX/src/Game5Res.h
+	"cmnpiu.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/Game5Res.cpp
+	"stdafx.h"
+	"Game5Res.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/GLFont.cpp
+	"stdafx.h"
+	"GLFont.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/GLFont2.cpp
+	"stdafx.h"
+	"GLFont2.h"
+	"cmnpiu.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/History.cpp
+	"game1.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"HistoryLoader.h"
+
+1445442972 /mnt/hd/piumax2/PIUMaX-LINUX/src/game1.h
+	"stdafx.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-LINUX/src/HistoryLoader.h
+	"Anu.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/HistoryLoader.cpp
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"HistoryLoader.h"
+
+1445442972 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/libc_max_common.cpp
+	"libc_max_common.h"
+	<iconv.h>
+	<direct.h>
+	<Shlobj.h>
+	<unistd.h>
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/MissionLoader.cpp
+	"cmnpiu.h"
+	"MissionLoader.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/MWayLoader.cpp
+	"cmnpiu.h"
+	"MWayLoader.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/OGLSprite.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"OGLSprite.h"
+
+1445442972 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/OperStr.cpp
+	"stdafx.h"
+	"OperStr.h"
+
+1445442972 /mnt/hd/piumax2/PIUMaX-LINUX/src/OperStr.h
+	"StdString.h"
+
+1445442972 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/piu.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"USBsys.h"
+	"welcome.h"
+	"game1.h"
+	"game2.h"
+	"Game3.h"
+	"Game4.h"
+	"Game5.h"
+	"UnlockSys.h"
+	"stepeval.h"
+	"History.h"
+	"config.h"
+	"libc_max_common.h"
+
+1445442972 /mnt/hd/piumax2/PIUMaX-LINUX/src/welcome.h
+	"stdafx.h"
+
+1445442972 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/PortBuf.cpp
+	"PortBuf.h"
+	"cmnpiu.h"
+
+1445442972 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/Skin.cpp
+	"stdafx.h"
+	"Skin.h"
+
+1445442972 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/SkinBS.cpp
+	"stdafx.h"
+	"SkinBS.h"
+
+1445442972 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/SkinCommon.cpp
+	"stdafx.h"
+	"SkinCommon.h"
+
+1445442972 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/stdafx.cpp
+	"stdafx.h"
+	"libc_max_common.h"
+	"pcre.h"
+	"regex.h"
+
+1445442972 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/stepeval.cpp
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"StepEvalRes.h"
+	"OperStr.h"
+	"USBsys.h"
+
+1445442972 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/StepEvalRes.cpp
+	"stdafx.h"
+	"StepEvalRes.h"
+
+1431876208 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/UnlockLoader.cpp
+	"cmnpiu.h"
+	"UnlockLoader.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-LINUX/src/UnlockLoader.h
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/UnlockRes.cpp
+	"stdafx.h"
+	"UnlockRes.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-LINUX/src/UnlockRes.h
+	"cmnpiu.h"
+
+1431840279 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/UnlockSys.cpp
+	"UnlockSys.h"
+	"UnlockRes.h"
+	"game1.h"
+	"Game3.h"
+	"Game4.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"UnlockLoader.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/UsbRes.cpp
+	"stdafx.h"
+	"UsbRes.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-LINUX/src/UsbRes.h
+	"cmnpiu.h"
+
+1426406070 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/USBsys.cpp
+	"USBsys.h"
+	"UsbRes.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"game1.h"
+	"game2.h"
+	"Game3.h"
+	"Game4.h"
+	<direct.h>
+	<stdio.h>
+	<dirent.h>
+	<errno.h>
+	<string.h>
+	<libgen.h>
+	<linux/limits.h>
+	<sys/mount.h>
+	<glob.h>
+	<unistd.h>
+
+1431831606 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/WelcomeRes.cpp
+	"stdafx.h"
+	"WelcomeRes.h"
+
+1445442972 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/game1.cpp
+	"game1.h"
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"Game1Res.h"
+	"USBsys.h"
+	"UnlockSys.h"
+
+1433166953 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/stepsmu.cpp
+	"stepsmu.h"
+	<vector>
+
+1433166953 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/welcome.cpp
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"welcome.h"
+
+1423751897 /home/ckdur/Descargas/ffmpeg-0.8/libavcodec/avcodec.h
+	<errno.h>
+	"libavutil/samplefmt.h"
+	"libavutil/avutil.h"
+	"libavutil/cpu.h"
+	"libavutil/channel_layout.h"
+	"libavutil/dict.h"
+	"libavutil/log.h"
+	"libavutil/pixfmt.h"
+	"libavutil/rational.h"
+	"libavcodec/version.h"
+	"old_codec_ids.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/samplefmt.h
+	<stdint.h>
+	"avutil.h"
+	"attributes.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/avutil.h
+	"common.h"
+	"error.h"
+	"version.h"
+	"mathematics.h"
+	"rational.h"
+	"intfloat_readwrite.h"
+	"log.h"
+	"pixfmt.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/common.h
+	<errno.h>
+	<inttypes.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"attributes.h"
+	"version.h"
+	"libavutil/avconfig.h"
+	"config.h"
+	"intmath.h"
+	"common.h"
+	"mem.h"
+	"internal.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/attributes.h
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/version.h
+
+1433134662 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/avconfig.h
+
+1433134662 /home/ckdur/Descargas/ffmpeg-0.8/config.h
+
+1421721955 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/intmath.h
+	<stdint.h>
+	"config.h"
+	"attributes.h"
+	"arm/intmath.h"
+	"arm/intmath.h"
+
+1417393309 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/arm/intmath.h
+	<stdint.h>
+	"config.h"
+	"libavutil/attributes.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/mem.h
+	<limits.h>
+	<stdint.h>
+	"attributes.h"
+	"error.h"
+	"avutil.h"
+
+1421721955 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/error.h
+	<errno.h>
+	<stddef.h>
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/internal.h
+	<limits.h>
+	<stdint.h>
+	<stddef.h>
+	<assert.h>
+	"config.h"
+	"attributes.h"
+	"timer.h"
+	"cpu.h"
+	"dict.h"
+	"x86/emms.h"
+	"libm.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/timer.h
+	<stdlib.h>
+	<stdint.h>
+	<inttypes.h>
+	"config.h"
+	"arm/timer.h"
+	"bfin/timer.h"
+	"ppc/timer.h"
+	"x86/timer.h"
+
+1417393309 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/arm/timer.h
+	<stdint.h>
+	"config.h"
+
+1417393309 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/bfin/timer.h
+	<stdint.h>
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/ppc/timer.h
+	<stdint.h>
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/x86/timer.h
+	<stdint.h>
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/cpu.h
+	"attributes.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/dict.h
+
+1419306402 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/x86/emms.h
+	"config.h"
+	"libavutil/attributes.h"
+	"libavutil/cpu.h"
+	<mmintrin.h>
+
+1420863667 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/libm.h
+	<math.h>
+	"config.h"
+	"attributes.h"
+	"intfloat.h"
+	"libavutil/mips/libm_mips.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/intfloat.h
+	<stdint.h>
+	"attributes.h"
+
+1417393309 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/mips/libm_mips.h
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/mathematics.h
+	<stdint.h>
+	<math.h>
+	"attributes.h"
+	"rational.h"
+	"intfloat.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/rational.h
+	<stdint.h>
+	<limits.h>
+	"attributes.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/intfloat_readwrite.h
+	<stdint.h>
+	"attributes.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/log.h
+	<stdarg.h>
+	"avutil.h"
+	"attributes.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/pixfmt.h
+	"libavutil/avconfig.h"
+	"libavutil/version.h"
+	"old_pix_fmts.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/old_pix_fmts.h
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/channel_layout.h
+	<stdint.h>
+
+1423751899 /home/ckdur/Descargas/ffmpeg-0.8/libavcodec/version.h
+	"libavutil/avutil.h"
+
+1423751898 /home/ckdur/Descargas/ffmpeg-0.8/libavcodec/old_codec_ids.h
+	"libavutil/common.h"
+
+1423751900 /home/ckdur/Descargas/ffmpeg-0.8/libavformat/avformat.h
+	<time.h>
+	<stdio.h>
+	"libavcodec/avcodec.h"
+	"libavutil/dict.h"
+	"libavutil/log.h"
+	"avio.h"
+	"libavformat/version.h"
+	"libavutil/time.h"
+
+1423751900 /home/ckdur/Descargas/ffmpeg-0.8/libavformat/avio.h
+	<stdint.h>
+	"libavutil/common.h"
+	"libavutil/dict.h"
+	"libavutil/log.h"
+	"libavformat/version.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavformat/version.h
+	"libavutil/avutil.h"
+
+1421721955 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/time.h
+	<stdint.h>
+
+1423751902 /home/ckdur/Descargas/ffmpeg-0.8/libswscale/swscale.h
+	<stdint.h>
+	"libavutil/avutil.h"
+	"libavutil/log.h"
+	"libavutil/pixfmt.h"
+	"version.h"
+
+1423751902 /home/ckdur/Descargas/ffmpeg-0.8/libswscale/version.h
+	"libavutil/avutil.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-LINUX/src/MovieStream2.cpp
+	"cmnpiu.h"
+	"MovieStream2.h"
+
+1446130790 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Anu.cpp
+	"Anu.h"
+
+1446130790 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Anu.h
+	"cmnpiu.h"
+
+1446130792 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/cmnpiu.h
+	"stdafx.h"
+	"libc_max_common.h"
+	"Skin.h"
+	"SkinBS.h"
+	"GLFont.h"
+	"GLFont2.h"
+	"SkinCommon.h"
+	"WelcomeRes.h"
+	"PortBuf.h"
+
+1446130793 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/stdafx.h
+	<cstdlib>
+	<iostream>
+	<cmath>
+	<time.h>
+	<cstdint>
+	<vector>
+	<sys/stat.h>
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glew.h>
+	<GL/glx.h>
+	<fmod/fmod.h>
+	<fmod/fmod_errors.h>
+	"png.h"
+	<SDL/SDL_thread.h>
+	<SDL/SDL_mutex.h>
+	<tchar.h>
+	<pthread.h>
+	"StdString.h"
+	"defbas.h"
+	"MovieStream2.h"
+	"OGLSprite.h"
+	"intdef.h"
+	"resdef.h"
+	"eventdef.h"
+
+1446130792 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/StdString.h
+	<TCHAR.H>
+	<WTYPES.H>
+	<assert.h>
+	<TCHAR.H>
+	<WTYPES.H>
+	<crtdbg.h>
+	<string>
+	<algorithm>
+	<functional>
+	<locale>
+	<comdef.h>
+	<wchar.h>
+	<stdio.h>
+	<stdarg.h>
+	<wctype.h>
+	<ctype.h>
+	<stdlib.h>
+	<varargs.h>
+	<malloc.h>
+	<afxconv.h>
+
+1446130792 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/defbas.h
+
+1446130791 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/MovieStream2.h
+	"stdafx.h"
+	"libavcodec/avcodec.h"
+	"libavformat/avformat.h"
+	"libswscale/swscale.h"
+
+1446130791 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/OGLSprite.h
+	<GL/glew.h>
+	<SDL/SDL.h>
+	<math.h>
+
+1446130793 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/intdef.h
+
+1446130793 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/resdef.h
+
+1446130792 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/eventdef.h
+
+1446130793 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/libc_max_common.h
+	"stdafx.h"
+
+1446130791 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Skin.h
+	"cmnpiu.h"
+
+1446130791 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/SkinBS.h
+	"cmnpiu.h"
+
+1446130790 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/GLFont.h
+	"cmnpiu.h"
+
+1446130790 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/GLFont2.h
+	"cmnpiu.h"
+
+1446130792 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/SkinCommon.h
+	"cmnpiu.h"
+
+1446130792 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/WelcomeRes.h
+	"cmnpiu.h"
+
+1446130791 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/PortBuf.h
+	"stdafx.h"
+
+1446130792 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/cmnpiu.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	<lusb0_usb.h>
+	<usb.h>
+
+1446130792 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/config.cpp
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"config.h"
+
+1446130792 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/cmnpiu_ex.h
+	"stdafx.h"
+	"Skin.h"
+	"SkinBS.h"
+	"GLFont.h"
+	"SkinCommon.h"
+	"WelcomeRes.h"
+	"Game1Res.h"
+	"stepsmu.h"
+	"StepEvalRes.h"
+	"MissionLoader.h"
+
+1446130790 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game1Res.h
+	"cmnpiu.h"
+
+1446130793 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/stepsmu.h
+	"cmnpiu.h"
+
+1446130792 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/StepEvalRes.h
+	"cmnpiu.h"
+
+1446130791 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/MissionLoader.h
+
+1446130792 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/config.h
+	"stdafx.h"
+
+1446130790 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game1Res.cpp
+	"stdafx.h"
+	"Game1Res.h"
+
+1446130790 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game2Res.cpp
+	"stdafx.h"
+	"Game2Res.h"
+
+1446130790 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game2Res.h
+	"cmnpiu.h"
+
+1446130790 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game3.cpp
+	"Game3.h"
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"Game3Res.h"
+	"USBsys.h"
+	"UnlockSys.h"
+
+1446130790 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game3.h
+	"stdafx.h"
+
+1446130793 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/stepeval.h
+	"stdafx.h"
+
+1446130790 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game3Res.h
+	"cmnpiu.h"
+
+1446130792 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/USBsys.h
+	"stdafx.h"
+
+1446130792 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/UnlockSys.h
+	"stdafx.h"
+
+1446130790 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game3Res.cpp
+	"stdafx.h"
+	"Game3Res.h"
+
+1446130790 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game4Res.cpp
+	"stdafx.h"
+	"Game4Res.h"
+
+1446130791 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game4Res.h
+	"cmnpiu.h"
+
+1446130791 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game5Res.cpp
+	"stdafx.h"
+	"Game5Res.h"
+
+1446130791 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game5Res.h
+	"cmnpiu.h"
+
+1446130790 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/GLFont.cpp
+	"stdafx.h"
+	"GLFont.h"
+
+1446130790 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/GLFont2.cpp
+	"stdafx.h"
+	"GLFont2.h"
+	"cmnpiu.h"
+
+1446130791 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/History.cpp
+	"game1.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"HistoryLoader.h"
+
+1446130793 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/game1.h
+	"stdafx.h"
+
+1446130791 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/HistoryLoader.h
+	"Anu.h"
+
+1446130791 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/HistoryLoader.cpp
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"HistoryLoader.h"
+
+1446130793 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/libc_max_common.cpp
+	"libc_max_common.h"
+	<iconv.h>
+	<direct.h>
+	<Shlobj.h>
+	<unistd.h>
+
+1446130791 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/MissionLoader.cpp
+	"cmnpiu.h"
+	"MissionLoader.h"
+
+1446130791 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/MovieStream2.cpp
+	"cmnpiu.h"
+	"MovieStream2.h"
+
+1446130791 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/MWayLoader.cpp
+	"cmnpiu.h"
+	"MWayLoader.h"
+
+1446130791 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/MWayLoader.h
+
+1446130791 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/OGLSprite.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"OGLSprite.h"
+
+1446130791 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/OperStr.cpp
+	"stdafx.h"
+	"OperStr.h"
+
+1446130791 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/OperStr.h
+	"StdString.h"
+
+1446130793 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/piu.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"USBsys.h"
+	"welcome.h"
+	"game1.h"
+	"game2.h"
+	"Game3.h"
+	"Game4.h"
+	"Game5.h"
+	"UnlockSys.h"
+	"stepeval.h"
+	"History.h"
+	"config.h"
+	"libc_max_common.h"
+
+1446130793 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/welcome.h
+	"stdafx.h"
+
+1446130793 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/game2.h
+	"stdafx.h"
+
+1446130790 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game4.h
+	"stdafx.h"
+
+1446130791 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game5.h
+	"stdafx.h"
+
+1446130791 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/History.h
+	"stdafx.h"
+
+1446130791 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/PortBuf.cpp
+	"PortBuf.h"
+	"cmnpiu.h"
+
+1446130791 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Skin.cpp
+	"stdafx.h"
+	"Skin.h"
+
+1446130791 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/SkinBS.cpp
+	"stdafx.h"
+	"SkinBS.h"
+
+1446130791 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/SkinCommon.cpp
+	"stdafx.h"
+	"SkinCommon.h"
+
+1446130793 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/stdafx.cpp
+	"stdafx.h"
+	"libc_max_common.h"
+	"pcre.h"
+	"regex.h"
+
+1446130793 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/stepeval.cpp
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"StepEvalRes.h"
+	"OperStr.h"
+	"USBsys.h"
+
+1446130792 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/StepEvalRes.cpp
+	"stdafx.h"
+	"StepEvalRes.h"
+
+1446130793 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/stepsmu.cpp
+	"stepsmu.h"
+	<vector>
+
+1446130792 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/UnlockLoader.cpp
+	"cmnpiu.h"
+	"UnlockLoader.h"
+
+1446130792 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/UnlockLoader.h
+
+1446130792 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/UnlockRes.cpp
+	"stdafx.h"
+	"UnlockRes.h"
+
+1446130792 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/UnlockRes.h
+	"cmnpiu.h"
+
+1446130792 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/UnlockSys.cpp
+	"UnlockSys.h"
+	"UnlockRes.h"
+	"game1.h"
+	"Game3.h"
+	"Game4.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"UnlockLoader.h"
+
+1446130792 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/UsbRes.cpp
+	"stdafx.h"
+	"UsbRes.h"
+
+1446130792 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/UsbRes.h
+	"cmnpiu.h"
+
+1446130792 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/USBsys.cpp
+	"USBsys.h"
+	"UsbRes.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"game1.h"
+	"game2.h"
+	"Game3.h"
+	"Game4.h"
+	<direct.h>
+	<stdio.h>
+	<dirent.h>
+	<errno.h>
+	<string.h>
+	<libgen.h>
+	<linux/limits.h>
+	<sys/mount.h>
+	<glob.h>
+	<unistd.h>
+
+1446130792 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/WelcomeRes.cpp
+	"stdafx.h"
+	"WelcomeRes.h"
+
+1446131398 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/game1.cpp
+	"game1.h"
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"Game1Res.h"
+	"USBsys.h"
+	"UnlockSys.h"
+
+1446131410 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game2.cpp
+	"game2.h"
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"Game2Res.h"
+	"USBsys.h"
+	"MissionLoader.h"
+	"MWayLoader.h"
+	"Anu.h"
+	"UnlockSys.h"
+	"History.h"
+
+1446131421 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game4.cpp
+	"Game4.h"
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"Game4Res.h"
+	"USBsys.h"
+	"UnlockSys.h"
+
+1446131431 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/Game5.cpp
+	"Game5.h"
+	"stepeval.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"Game5Res.h"
+	"USBsys.h"
+	"UnlockSys.h"
+	"History.h"
+
+1446131437 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-LINUX/src/welcome.cpp
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"welcome.h"
+

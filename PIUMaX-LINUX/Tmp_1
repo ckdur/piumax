@@ -1,0 +1,57 @@
+int Utf16ToUtf32(const char16_t* pszA, wchar_t* pszW, size_t nCount)
+{
+#ifndef _WIN32
+    size_t cCharacters, nlength = nCount;
+	memset(pszW, 0, nCount*sizeof(wchar_t));
+
+	char* chTmp = malloc(nCount*4*sizeof(char));
+
+    if (NULL == pszA || NULL == pszW || nCount <= 0)
+    {
+        return 0;
+    }
+
+    cCharacters = (size_t)char_traits<char16_t>::length(pszA);
+
+    // Covert
+    size_t nRet = iconv(g_icW8W16, (char**)&pszA, &cCharacters, (char**)&chTmp, &nlength);
+
+    // Reconvert
+    Utf8ToUnicode(chTmp, pszW);
+
+    free(chTmp);
+
+    return 1;
+#else
+    memcpy(pszW, pszA, nCount*sizeof(wchar_t));
+#endif
+}
+
+int Utf32ToUtf16(const wchar_t* pszA, char16_t* pszW, size_t nCount)
+{
+#ifndef _WIN32
+    size_t cCharacters, nlength = nCount;
+	memset(pszW, 0, nCount*sizeof(wchar_t));
+
+	char* chTmp = malloc(nCount*4*sizeof(char));
+
+    if (NULL == pszA || NULL == pszW || nCount <= 0)
+    {
+        return 0;
+    }
+
+    cCharacters = (size_t)wcslen(pszA);
+
+    // Reconvert
+    UnicodeToUtf8(pszA, chTmp);
+
+    // Covert
+    size_t nRet = iconv(g_icW16W8, (char**)&chTmp, &cCharacters, (char**)&pszW, &nlength);
+
+    free(chTmp);
+
+    return 1;
+#else
+    memcpy(pszW, pszA, nCount*sizeof(wchar_t));
+#endif
+}

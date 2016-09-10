@@ -1,0 +1,5061 @@
+# depslib dependency file v1.0
+1341811447 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/AccReader.cpp
+	"AccReader.h"
+
+1421447289 .h"
+
+1324780674 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/AccReader.h
+	"stdafx.h"
+
+1421447289 
+
+1349303063 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/stdafx.h
+	"defcomp.h"
+	<windows.h>
+	<tchar.h>
+	<wchar.h>
+	<unistd.h>
+	"defbas.h"
+	"StdString.h"
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<d3d9.h>
+	<D3dx9math.h>
+	<D3D9Types.h>
+	<DxErr.h>
+	<fmodex/fmod.h>
+	<fmodex/fmod_errors.h>
+	<png.h>
+	<math.h>
+	<time.h>
+	<cstdlib>
+	<vector>
+	<map>
+	<SDL/SDL.h>
+	<SDL/SDL_syswm.h>
+	<SDL/SDL_thread.h>
+	<SDL/SDL_mutex.h>
+	<pthread.h>
+
+1421447289 >
+
+1331060742 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/defcomp.h
+
+1341810885 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/defbas.h
+
+1331253910 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/StdString.h
+	<TCHAR.H>
+	<WTYPES.H>
+	<assert.h>
+	<TCHAR.H>
+	<WTYPES.H>
+	<crtdbg.h>
+	<string>
+	<algorithm>
+	<functional>
+	<locale>
+	<comdef.h>
+	<wchar.h>
+	<stdio.h>
+	<stdarg.h>
+	<wctype.h>
+	<ctype.h>
+	<stdlib.h>
+	<varargs.h>
+	<malloc.h>
+	<afxconv.h>
+
+1329364589 /usr/include/libpng12/png.h
+	"zlib.h"
+	"pngconf.h"
+	<crtdbg.h>
+
+1329364589 /usr/include/libpng12/pngconf.h
+	"pngusr.h"
+	"config.h"
+	<windows.h>
+	<stdio.h>
+	<stdio.h>
+	<sys/types.h>
+	<setjmp.h>
+	<strings.h>
+	<string.h>
+	<stdlib.h>
+	<fp.h>
+	<math.h>
+	<m68881.h>
+	<mem.h>
+	<alloc.h>
+	<malloc.h>
+	<time.h>
+	<dos.h>
+
+1331254038 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/GLFont.cpp
+	"stdafx.h"
+	"GLFont.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1330933662 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/GLFont.h
+	"GraphTexture.h"
+
+1421447289 ure.h"
+
+1293899906 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/GraphTexture.h
+	"stdafx.h"
+	"defcomp.h"
+
+1421447289 "
+
+1341807049 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/basutil.h
+	"stdafx.h"
+	"GraphMain.h"
+	"MaxLua.h"
+	"MID.h"
+
+1330923460 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/GraphMain.h
+	"stdafx.h"
+	"defcomp.h"
+	"GraphTexture.h"
+
+1349302845 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxLua.h
+	"stdafx.h"
+	"defbas.h"
+	<lua5.1/lua.h>
+	<lua5.1/lauxlib.h>
+	<lua5.1/lualib.h>
+
+1421447289 alib.h>
+
+1330933082 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MID.h
+	"defbas.h"
+
+1341807385 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/cmnpiu.h
+	"stdafx.h"
+	"MID.h"
+	"intdef.h"
+	"resdef.h"
+	"eventdef.h"
+	"OGLSprite.h"
+	"MovieStream2.h"
+	"MaxLua.h"
+	"GraphMain.h"
+	"MainTheme.h"
+	"SoundSys.h"
+	"StdInput.h"
+	"PlayerStatus.h"
+
+1421447289 tus.h"
+
+1292971288 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/intdef.h
+
+1292971302 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/resdef.h
+
+1325441038 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/eventdef.h
+	"stdafx.h"
+
+1342046618 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/OGLSprite.h
+	"GraphTexture.h"
+
+1349303063 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MovieStream2.h
+	"stdafx.h"
+	<libavcodec/avcodec.h>
+	<libavformat/avformat.h>
+	<libswscale/swscale.h>
+
+1421447289 e/swscale.h>
+
+1331054782 /usr/local/include/libavcodec/avcodec.h
+	<errno.h>
+	"libavutil/samplefmt.h"
+	"libavutil/avutil.h"
+	"libavutil/cpu.h"
+	"libavutil/dict.h"
+	"libavutil/log.h"
+	"libavutil/pixfmt.h"
+	"libavutil/rational.h"
+	"libavutil/audioconvert.h"
+	"libavcodec/version.h"
+
+1331054782 c/version.h"
+
+1331054782 /usr/local/include/libavutil/samplefmt.h
+	"avutil.h"
+
+1331054782 /usr/local/include/libavutil/avutil.h
+	"common.h"
+	"error.h"
+	"mathematics.h"
+	"rational.h"
+	"intfloat_readwrite.h"
+	"log.h"
+	"pixfmt.h"
+
+1331054782 /usr/local/include/libavutil/common.h
+	<ctype.h>
+	<errno.h>
+	<stdint.h>
+	<inttypes.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"attributes.h"
+	"libavutil/avconfig.h"
+	"config.h"
+	"intmath.h"
+	"common.h"
+	"mem.h"
+	"internal.h"
+
+1421447289 h"
+
+1331054782 /usr/local/include/libavutil/attributes.h
+
+1331054782 /usr/local/include/libavutil/avconfig.h
+
+1331054782 /usr/local/include/libavutil/mem.h
+	"attributes.h"
+	"error.h"
+	"avutil.h"
+
+1331054782 /usr/local/include/libavutil/error.h
+	<errno.h>
+	"avutil.h"
+
+1331054782 /usr/local/include/libavutil/mathematics.h
+	<stdint.h>
+	<math.h>
+	"attributes.h"
+	"rational.h"
+
+1331054782 /usr/local/include/libavutil/rational.h
+	<stdint.h>
+	<limits.h>
+	"attributes.h"
+
+1331054782 s.h"
+
+1331054782 /usr/local/include/libavutil/intfloat_readwrite.h
+	<stdint.h>
+	"attributes.h"
+
+1331054782 /usr/local/include/libavutil/log.h
+	<stdarg.h>
+	"avutil.h"
+	"attributes.h"
+
+1331054782 /usr/local/include/libavutil/pixfmt.h
+	"libavutil/avconfig.h"
+
+1331054782 /avconfig.h"
+
+1331054782 /usr/local/include/libavutil/cpu.h
+
+1331054782 /usr/local/include/libavutil/dict.h
+
+1331054782 /usr/local/include/libavutil/audioconvert.h
+	<stdint.h>
+
+1331054782 /usr/local/include/libavcodec/version.h
+
+1331054782 /usr/local/include/libavformat/avformat.h
+	<time.h>
+	<stdio.h>
+	"libavcodec/avcodec.h"
+	"libavutil/dict.h"
+	"libavutil/log.h"
+	"avio.h"
+	"libavformat/version.h"
+
+1331054782 at/version.h"
+
+1331054782 /usr/local/include/libavformat/avio.h
+	<stdint.h>
+	"libavutil/common.h"
+	"libavutil/dict.h"
+	"libavutil/log.h"
+	"libavformat/version.h"
+
+1331054782 /usr/local/include/libavformat/version.h
+	"libavutil/avutil.h"
+
+1331054782 /avutil.h"
+
+1331054782 /usr/local/include/libswscale/swscale.h
+	"libavutil/avutil.h"
+	"libavutil/log.h"
+	"libavutil/pixfmt.h"
+
+1331054782 /pixfmt.h"
+
+1325007620 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MainTheme.h
+	"stdafx.h"
+	"MaxInterface.h"
+
+1421447289 ace.h"
+
+1342043301 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface.h
+	"GLFont2.h"
+	"MaxMenu.h"
+	"MaxLua.h"
+
+1330933222 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/GLFont2.h
+	"basutil.h"
+
+1330934165 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxMenu.h
+	"basutil.h"
+	"MaxScreen.h"
+	"eventdef.h"
+
+1342151291 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxScreen.h
+	"GLFont2.h"
+	"GLFont.h"
+	"SpriteRes.h"
+	"VideoRes.h"
+	"SoundRes.h"
+
+1298915265 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/SpriteRes.h
+	"OGLSprite.h"
+
+1330933691 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/VideoRes.h
+	"MovieStream2.h"
+	"GraphTexture.h"
+
+1310370059 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/SoundRes.h
+	"SoundStream.h"
+
+1421447289 am.h"
+
+1299249449 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/SoundStream.h
+	"stdafx.h"
+
+1299191416 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/SoundSys.h
+	"stdafx.h"
+	"SoundChannel.h"
+	"SoundStream.h"
+
+1299186529 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/SoundChannel.h
+	"stdafx.h"
+	"SoundStream.h"
+
+1293133102 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/StdInput.h
+	"cmnpiu.h"
+
+1325545820 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/PlayerStatus.h
+	"stdafx.h"
+
+1346276952 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/GLFont2.cpp
+	"stdafx.h"
+	"GLFont2.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1331254197 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/GraphMain.cpp
+	"GraphMain.h"
+
+1331094997 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/GraphTexture.cpp
+	"GraphTexture.h"
+
+1330933517 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MainTheme.cpp
+	"MainTheme.h"
+	"AccReader.h"
+
+1349303772 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+	"eventdef.h"
+	"SoundSys.h"
+
+1293429812 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceConfig.cpp
+	"MaxInterfaceConfig.h"
+
+1421447289 aceConfig.h"
+
+1293429812 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceConfig.h
+	"MaxInterface.h"
+
+1293428948 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGame.cpp
+	"MaxInterfaceGame.h"
+
+1421447289 aceGame.h"
+
+1293428958 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGame.h
+	"MaxInterface.h"
+
+1293429508 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameIS.cpp
+	"MaxInterfaceGameIS.h"
+
+1421447289 aceGameIS.h"
+
+1293429508 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameIS.h
+	"MaxInterfaceGame.h"
+
+1293429128 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameMission.cpp
+	"MaxInterfaceGameMission.h"
+
+1421447289 aceGameMission.h"
+
+1293429150 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameMission.h
+	"MaxInterfaceGame.h"
+
+1293429340 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameMission3D.cpp
+	"MaxInterfaceGameMission3D.h"
+
+1421447289 aceGameMission3D.h"
+
+1293429362 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameMission3D.h
+	"MaxInterfaceGame.h"
+
+1293429048 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameSong.cpp
+	"MaxInterfaceGameSong.h"
+
+1421447289 aceGameSong.h"
+
+1293429142 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameSong.h
+	"MaxInterfaceGame.h"
+
+1293430008 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceStep.cpp
+	"MaxInterfaceStep.h"
+
+1421447289 aceStep.h"
+
+1293430008 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceStep.h
+	"MaxInterface.h"
+
+1293430052 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceStepEval.cpp
+	"MaxInterfaceStepEval.h"
+
+1421447289 aceStepEval.h"
+
+1293430052 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceStepEval.h
+	"MaxInterface.h"
+
+1293429594 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceUSB.cpp
+	"MaxInterfaceUSB.h"
+
+1421447289 aceUSB.h"
+
+1293429594 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceUSB.h
+	"MaxInterface.h"
+
+1293429340 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceUnlocker.cpp
+	"MaxInterfaceUnlocker.h"
+
+1421447289 aceUnlocker.h"
+
+1293429348 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceUnlocker.h
+	"MaxInterface.h"
+
+1293429812 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceWelcome.cpp
+	"MaxInterfaceWelcome.h"
+
+1421447289 aceWelcome.h"
+
+1293429822 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceWelcome.h
+	"MaxInterface.h"
+
+1342045980 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface_2.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1341809621 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface_LUA_EVENT.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1342046944 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface_LUA_INIT.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+	"SoundSys.h"
+
+1341812415 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxLua.cpp
+	"MaxLua.h"
+
+1324694107 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxLuaCommonMethods.cpp
+	"MaxLuaCommonMethods.h"
+
+1421447289 monMethods.h"
+
+1309642535 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxLuaCommonMethods.h
+	"basutil.h"
+	"cmnpiu.h"
+	"MaxLua.h"
+
+1349304107 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxMenu.cpp
+	"MaxMenu.h"
+	"AccReader.h"
+	"basutil.h"
+
+1342116005 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxScreen.cpp
+	"MaxScreen.h"
+	"AccReader.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1342150482 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxScreen_2.cpp
+	"MaxScreen.h"
+	"cmnpiu.h"
+	"basutil.h"
+
+1324692919 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MaxScreen_3.cpp
+	"MaxScreen.h"
+	"AccReader.h"
+	"basutil.h"
+
+1325437816 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/Maxinterface_3.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1330936515 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/MovieStream2.cpp
+	"basutil.h"
+	"MovieStream2.h"
+
+1421447289 am2.h"
+
+1324750791 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/OGLSprite.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"basutil.h"
+	"OGLSprite.h"
+
+1330936635 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/OperStr.cpp
+	"stdafx.h"
+	"OperStr.h"
+
+1258776414 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/OperStr.h
+	"StdString.h"
+
+1325545562 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/PlayerStatus.cpp
+	"PlayerStatus.h"
+
+1291571676 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/SoundChannel.cpp
+	"SoundChannel.h"
+	"basutil.h"
+
+1310370059 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/SoundRes.cpp
+	"SoundRes.h"
+	"cmnpiu.h"
+
+1299249467 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/SoundStream.cpp
+	"SoundStream.h"
+	"basutil.h"
+
+1341525202 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/SoundSys.cpp
+	"SoundSys.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1309753386 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/SpriteRes.cpp
+	"SpriteRes.h"
+
+1324694886 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/StdInput.cpp
+	"StdInput.h"
+
+1330933689 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/VideoRes.cpp
+	"VideoRes.h"
+	"cmnpiu.h"
+
+1341811051 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/basutil.cpp
+	"basutil.h"
+	"cmnpiu.h"
+
+1341807049 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/cmnpiu.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+
+1324943706 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/eventdef.cpp
+	"eventdef.h"
+
+1341810438 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/piu.cpp
+	"piu.h"
+
+1325437581 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/piu.h
+	"stdafx.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"MaxInterface.h"
+
+1330880956 /media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/cmnpiu_ex.h
+	"stdafx.h"
+	"GLFont.h"
+
+1341812320 source:/media/E/PIUMaX/PIUMaX-CODEB/PIUMaX 2.0/src/stdafx.cpp
+	"stdafx.h"
+	<iostream>
+
+1331243031 /usr/local/include/fmodex/fmod.h
+	"fmod_codec.h"
+	"fmod_dsp.h"
+	"fmod_memoryinfo.h"
+
+1331243031 ryinfo.h"
+
+1331243031 /usr/local/include/fmodex/fmod_codec.h
+
+1331243031 /usr/local/include/fmodex/fmod_dsp.h
+
+1331243031 /usr/local/include/fmodex/fmod_memoryinfo.h
+
+1331243031 /usr/local/include/fmodex/fmod_errors.h
+	"fmod.h"
+
+1341811447 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/AccReader.cpp
+	"AccReader.h"
+
+1324780674 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/AccReader.h
+	"stdafx.h"
+
+1349303063 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/stdafx.h
+	"defcomp.h"
+	<windows.h>
+	<tchar.h>
+	<wchar.h>
+	<unistd.h>
+	"defbas.h"
+	"StdString.h"
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<d3d9.h>
+	<D3dx9math.h>
+	<D3D9Types.h>
+	<DxErr.h>
+	<fmodex/fmod.h>
+	<fmodex/fmod_errors.h>
+	<png.h>
+	<math.h>
+	<time.h>
+	<cstdlib>
+	<vector>
+	<map>
+	<SDL/SDL.h>
+	<SDL/SDL_syswm.h>
+	<SDL/SDL_thread.h>
+	<SDL/SDL_mutex.h>
+	<pthread.h>
+
+1331060742 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/defcomp.h
+
+1341810885 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/defbas.h
+
+1331253910 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/StdString.h
+	<TCHAR.H>
+	<WTYPES.H>
+	<assert.h>
+	<TCHAR.H>
+	<WTYPES.H>
+	<crtdbg.h>
+	<string>
+	<algorithm>
+	<functional>
+	<locale>
+	<comdef.h>
+	<wchar.h>
+	<stdio.h>
+	<stdarg.h>
+	<wctype.h>
+	<ctype.h>
+	<stdlib.h>
+	<varargs.h>
+	<malloc.h>
+	<afxconv.h>
+
+1331254038 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/GLFont.cpp
+	"stdafx.h"
+	"GLFont.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1330933662 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/GLFont.h
+	"GraphTexture.h"
+
+1391283231 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/GraphTexture.h
+	"stdafx.h"
+	"defcomp.h"
+
+1341807049 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/basutil.h
+	"stdafx.h"
+	"GraphMain.h"
+	"MaxLua.h"
+	"MID.h"
+
+1330923460 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/GraphMain.h
+	"stdafx.h"
+	"defcomp.h"
+	"GraphTexture.h"
+
+1349302845 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxLua.h
+	"stdafx.h"
+	"defbas.h"
+	<lua5.1/lua.h>
+	<lua5.1/lauxlib.h>
+	<lua5.1/lualib.h>
+
+1330933082 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MID.h
+	"defbas.h"
+
+1341807385 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/cmnpiu.h
+	"stdafx.h"
+	"MID.h"
+	"intdef.h"
+	"resdef.h"
+	"eventdef.h"
+	"OGLSprite.h"
+	"MovieStream2.h"
+	"MaxLua.h"
+	"GraphMain.h"
+	"MainTheme.h"
+	"SoundSys.h"
+	"StdInput.h"
+	"PlayerStatus.h"
+
+1292971288 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/intdef.h
+
+1292971302 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/resdef.h
+
+1325441038 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/eventdef.h
+	"stdafx.h"
+
+1342046618 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/OGLSprite.h
+	"GraphTexture.h"
+
+1349303063 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MovieStream2.h
+	"stdafx.h"
+	<libavcodec/avcodec.h>
+	<libavformat/avformat.h>
+	<libswscale/swscale.h>
+
+1325007620 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MainTheme.h
+	"stdafx.h"
+	"MaxInterface.h"
+
+1342043301 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface.h
+	"GLFont2.h"
+	"MaxMenu.h"
+	"MaxLua.h"
+
+1330933222 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/GLFont2.h
+	"basutil.h"
+
+1330934165 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxMenu.h
+	"basutil.h"
+	"MaxScreen.h"
+	"eventdef.h"
+
+1342151291 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxScreen.h
+	"GLFont2.h"
+	"GLFont.h"
+	"SpriteRes.h"
+	"VideoRes.h"
+	"SoundRes.h"
+
+1298915265 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/SpriteRes.h
+	"OGLSprite.h"
+
+1330933691 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/VideoRes.h
+	"MovieStream2.h"
+	"GraphTexture.h"
+
+1310370059 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundRes.h
+	"SoundStream.h"
+
+1299249449 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundStream.h
+	"stdafx.h"
+
+1299191416 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundSys.h
+	"stdafx.h"
+	"SoundChannel.h"
+	"SoundStream.h"
+
+1299186529 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundChannel.h
+	"stdafx.h"
+	"SoundStream.h"
+
+1293133102 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/StdInput.h
+	"cmnpiu.h"
+
+1325545820 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/PlayerStatus.h
+	"stdafx.h"
+
+1346276952 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/GLFont2.cpp
+	"stdafx.h"
+	"GLFont2.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1331254197 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/GraphMain.cpp
+	"GraphMain.h"
+
+1331094997 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/GraphTexture.cpp
+	"GraphTexture.h"
+
+1330933517 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MainTheme.cpp
+	"MainTheme.h"
+	"AccReader.h"
+
+1349303772 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+	"eventdef.h"
+	"SoundSys.h"
+
+1293429812 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceConfig.cpp
+	"MaxInterfaceConfig.h"
+
+1293429812 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceConfig.h
+	"MaxInterface.h"
+
+1293428948 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGame.cpp
+	"MaxInterfaceGame.h"
+
+1293428958 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGame.h
+	"MaxInterface.h"
+
+1293429508 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameIS.cpp
+	"MaxInterfaceGameIS.h"
+
+1293429508 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameIS.h
+	"MaxInterfaceGame.h"
+
+1293429128 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameMission.cpp
+	"MaxInterfaceGameMission.h"
+
+1293429150 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameMission.h
+	"MaxInterfaceGame.h"
+
+1293429340 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameMission3D.cpp
+	"MaxInterfaceGameMission3D.h"
+
+1293429362 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameMission3D.h
+	"MaxInterfaceGame.h"
+
+1293429048 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameSong.cpp
+	"MaxInterfaceGameSong.h"
+
+1293429142 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameSong.h
+	"MaxInterfaceGame.h"
+
+1293430008 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceStep.cpp
+	"MaxInterfaceStep.h"
+
+1293430008 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceStep.h
+	"MaxInterface.h"
+
+1293430052 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceStepEval.cpp
+	"MaxInterfaceStepEval.h"
+
+1293430052 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceStepEval.h
+	"MaxInterface.h"
+
+1293429594 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceUSB.cpp
+	"MaxInterfaceUSB.h"
+
+1293429594 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceUSB.h
+	"MaxInterface.h"
+
+1293429340 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceUnlocker.cpp
+	"MaxInterfaceUnlocker.h"
+
+1293429348 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceUnlocker.h
+	"MaxInterface.h"
+
+1293429812 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceWelcome.cpp
+	"MaxInterfaceWelcome.h"
+
+1293429822 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceWelcome.h
+	"MaxInterface.h"
+
+1342045980 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface_2.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1341809621 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface_LUA_EVENT.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1342046944 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface_LUA_INIT.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+	"SoundSys.h"
+
+1341812415 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxLua.cpp
+	"MaxLua.h"
+
+1324694107 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxLuaCommonMethods.cpp
+	"MaxLuaCommonMethods.h"
+
+1309642535 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxLuaCommonMethods.h
+	"basutil.h"
+	"cmnpiu.h"
+	"MaxLua.h"
+
+1349304107 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxMenu.cpp
+	"MaxMenu.h"
+	"AccReader.h"
+	"basutil.h"
+
+1342116005 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxScreen.cpp
+	"MaxScreen.h"
+	"AccReader.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1342150482 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxScreen_2.cpp
+	"MaxScreen.h"
+	"cmnpiu.h"
+	"basutil.h"
+
+1324692919 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxScreen_3.cpp
+	"MaxScreen.h"
+	"AccReader.h"
+	"basutil.h"
+
+1325437816 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/Maxinterface_3.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1330936515 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MovieStream2.cpp
+	"basutil.h"
+	"MovieStream2.h"
+
+1324750791 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/OGLSprite.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"basutil.h"
+	"OGLSprite.h"
+
+1330936635 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/OperStr.cpp
+	"stdafx.h"
+	"OperStr.h"
+
+1258776414 /media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/OperStr.h
+	"StdString.h"
+
+1325545562 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/PlayerStatus.cpp
+	"PlayerStatus.h"
+
+1291571676 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundChannel.cpp
+	"SoundChannel.h"
+	"basutil.h"
+
+1310370059 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundRes.cpp
+	"SoundRes.h"
+	"cmnpiu.h"
+
+1299249467 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundStream.cpp
+	"SoundStream.h"
+	"basutil.h"
+
+1341525202 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundSys.cpp
+	"SoundSys.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1309753386 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/SpriteRes.cpp
+	"SpriteRes.h"
+
+1324694886 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/StdInput.cpp
+	"StdInput.h"
+
+1330933689 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/VideoRes.cpp
+	"VideoRes.h"
+	"cmnpiu.h"
+
+1341811051 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/basutil.cpp
+	"basutil.h"
+	"cmnpiu.h"
+
+1341807049 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/cmnpiu.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+
+1324943706 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/eventdef.cpp
+	"eventdef.h"
+
+1341812320 source:/media/sdb1/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/stdafx.cpp
+	"stdafx.h"
+	<iostream>
+
+1394919503 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/GLFont.cpp
+	"stdafx.h"
+	"GLFont.h"
+	"basutil.h"
+	"cmnpiu.h"
+	"stdafx.h"
+	"GLFont.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1394919504 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/stdafx.h
+	"defcomp.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_syswm.h>
+	<SDL2/SDL_thread.h>
+	<SDL2/SDL_mutex.h>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<stdint.h>
+	<stdio.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<string.h>
+	<vector>
+	<map>
+	<png.h>
+	<gtk/gtk.h>
+	<Windows.h>
+	<Shlobj.h>
+	<tchar.h>
+	<direct.h>
+	<wchar.h>
+	<unistd.h>
+	<pthread.h>
+	<d3d9.h>
+	<D3dx9math.h>
+	<D3D9Types.h>
+	<DxErr.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glew.h>
+	<fmodex/fmod.h>
+	<fmodex/fmod_errors.h>
+	"defbas.h"
+	"StdString.h"
+	"defcomp.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_syswm.h>
+	<SDL2/SDL_thread.h>
+	<SDL2/SDL_mutex.h>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<stdint.h>
+	<stdio.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<string.h>
+	<vector>
+	<map>
+	<png.h>
+	<gtk/gtk.h>
+	<Windows.h>
+	<Shlobj.h>
+	<tchar.h>
+	<direct.h>
+	<wchar.h>
+	<unistd.h>
+	<pthread.h>
+	<d3d9.h>
+	<D3dx9math.h>
+	<D3D9Types.h>
+	<DxErr.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glew.h>
+	<fmodex/fmod.h>
+	<fmodex/fmod_errors.h>
+	"StdString.h"
+	"defbas.h"
+
+1394919504 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/defcomp.h
+
+1394919504 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/defbas.h
+	<Windows.h>
+	<tchar.h>
+	<Windows.h>
+	<tchar.h>
+
+1394919504 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/StdString.h
+	<TCHAR.H>
+	<WTYPES.H>
+	<assert.h>
+	<TCHAR.H>
+	<WTYPES.H>
+	<crtdbg.h>
+	<string>
+	<algorithm>
+	<functional>
+	<locale>
+	<comdef.h>
+	<wchar.h>
+	<stdio.h>
+	<stdarg.h>
+	<wctype.h>
+	<ctype.h>
+	<stdlib.h>
+	<varargs.h>
+	<malloc.h>
+	<afxconv.h>
+	<TCHAR.H>
+	<WTYPES.H>
+	<assert.h>
+	<TCHAR.H>
+	<WTYPES.H>
+	<crtdbg.h>
+	<string>
+	<algorithm>
+	<functional>
+	<locale>
+	<comdef.h>
+	<wchar.h>
+	<stdio.h>
+	<stdarg.h>
+	<wctype.h>
+	<ctype.h>
+	<stdlib.h>
+	<varargs.h>
+	<malloc.h>
+	<afxconv.h>
+
+1394919503 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/GLFont.h
+	"GraphTexture.h"
+	"GraphTexture.h"
+
+1394919503 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/GraphTexture.h
+	"stdafx.h"
+	"defcomp.h"
+	"stdafx.h"
+	"defcomp.h"
+
+1394919504 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/basutil.h
+	"stdafx.h"
+	"GraphMain.h"
+	"MaxLua.h"
+	"MID.h"
+	"libc_max_common.h"
+	"stdafx.h"
+	"GraphMain.h"
+	"MaxLua.h"
+	"MID.h"
+	"libc_max_common.h"
+
+1421447289 common.h"
+
+1394919503 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/GraphMain.h
+	"stdafx.h"
+	"defcomp.h"
+	"GraphTexture.h"
+	"stdafx.h"
+	"defcomp.h"
+	"GraphTexture.h"
+
+1395195247 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxLua.h
+	"stdafx.h"
+	"defbas.h"
+	<lua5.1/lua.h>
+	<lua5.1/lauxlib.h>
+	<lua5.1/lualib.h>
+	"stdafx.h"
+	"defbas.h"
+	<lua5.1/lua.h>
+	<lua5.1/lauxlib.h>
+	<lua5.1/lualib.h>
+
+1394919503 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MID.h
+	"defbas.h"
+	"defbas.h"
+
+1394919504 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/libc_max_common.h
+	"stdafx.h"
+	"stdafx.h"
+
+1394919504 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/cmnpiu.h
+	"stdafx.h"
+	"MID.h"
+	"intdef.h"
+	"resdef.h"
+	"MainTheme.h"
+	"eventdef.h"
+	"OGLSprite.h"
+	"MovieStream2.h"
+	"MaxLua.h"
+	"GraphMain.h"
+	"SoundSys.h"
+	"StdInput.h"
+	"stdafx.h"
+	"MID.h"
+	"intdef.h"
+	"resdef.h"
+	"MainTheme.h"
+	"eventdef.h"
+	"OGLSprite.h"
+	"MovieStream2.h"
+	"MaxLua.h"
+	"GraphMain.h"
+	"SoundSys.h"
+	"StdInput.h"
+
+1394919504 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/intdef.h
+
+1394919504 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/resdef.h
+
+1394919503 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MainTheme.h
+	"stdafx.h"
+	"MaxInterface.h"
+	"stdafx.h"
+	"MaxInterface.h"
+
+1394919503 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface.h
+	"GLFont2.h"
+	"MaxMenu.h"
+	"MaxLua.h"
+	"GLFont2.h"
+	"MaxMenu.h"
+	"MaxLua.h"
+
+1394919503 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/GLFont2.h
+	"basutil.h"
+	"basutil.h"
+
+1394919503 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxMenu.h
+	"basutil.h"
+	"MaxScreen.h"
+	"eventdef.h"
+	"basutil.h"
+	"MaxScreen.h"
+	"eventdef.h"
+
+1342151291 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxScreen.h
+	"GLFont2.h"
+	"GLFont.h"
+	"SpriteRes.h"
+	"VideoRes.h"
+	"SoundRes.h"
+	"GLFont2.h"
+	"GLFont.h"
+	"SpriteRes.h"
+	"VideoRes.h"
+	"SoundRes.h"
+
+1394919504 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/SpriteRes.h
+	"OGLSprite.h"
+	"OGLSprite.h"
+
+1394919504 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/OGLSprite.h
+	"GraphTexture.h"
+	"GraphTexture.h"
+
+1394902628 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/VideoRes.h
+	"MovieStream2.h"
+	"GraphTexture.h"
+	"MovieStream2.h"
+	"GraphTexture.h"
+
+1394920707 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MovieStream2.h
+	"stdafx.h"
+	<libavcodec/avcodec.h>
+	<libavformat/avformat.h>
+	<libswscale/swscale.h>
+	"stdafx.h"
+	"GraphTexture.h"
+	<libavcodec/avcodec.h>
+	<libavformat/avformat.h>
+	<libswscale/swscale.h>
+
+1394919504 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundRes.h
+	"SoundStream.h"
+	"SoundStream.h"
+
+1394919504 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundStream.h
+	"stdafx.h"
+	"stdafx.h"
+
+1394919504 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/eventdef.h
+	"stdafx.h"
+	"stdafx.h"
+
+1394919504 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundSys.h
+	"stdafx.h"
+	"SoundChannel.h"
+	"SoundStream.h"
+	"stdafx.h"
+	"SoundChannel.h"
+	"SoundStream.h"
+
+1394919504 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundChannel.h
+	"stdafx.h"
+	"SoundStream.h"
+	"stdafx.h"
+	"SoundStream.h"
+
+1394919504 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/StdInput.h
+	"cmnpiu.h"
+	"cmnpiu.h"
+
+1394898224 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MainTheme.cpp
+	"MainTheme.h"
+	"AccReader.h"
+	"MainTheme.h"
+	"AccReader.h"
+
+1394919503 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/AccReader.h
+	"stdafx.h"
+	"stdafx.h"
+
+1395198547 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+	"eventdef.h"
+	"SoundSys.h"
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+	"eventdef.h"
+	"SoundSys.h"
+
+1394919503 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceConfig.cpp
+	"MaxInterfaceConfig.h"
+	"MaxInterfaceConfig.h"
+
+1394919503 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceConfig.h
+	"MaxInterface.h"
+	"MaxInterface.h"
+
+1394919503 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGame.cpp
+	"MaxInterfaceGame.h"
+	"MaxInterfaceGame.h"
+
+1394919503 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGame.h
+	"MaxInterface.h"
+	"MaxInterface.h"
+
+1394919503 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameIS.cpp
+	"MaxInterfaceGameIS.h"
+	"MaxInterfaceGameIS.h"
+
+1394919503 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameIS.h
+	"MaxInterfaceGame.h"
+	"MaxInterfaceGame.h"
+
+1394919503 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameMission.cpp
+	"MaxInterfaceGameMission.h"
+	"MaxInterfaceGameMission.h"
+
+1394919503 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameMission.h
+	"MaxInterfaceGame.h"
+	"MaxInterfaceGame.h"
+
+1394919503 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameMission3D.cpp
+	"MaxInterfaceGameMission3D.h"
+	"MaxInterfaceGameMission3D.h"
+
+1394919503 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameMission3D.h
+	"MaxInterfaceGame.h"
+	"MaxInterfaceGame.h"
+
+1394919503 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameSong.cpp
+	"MaxInterfaceGameSong.h"
+	"MaxInterfaceGameSong.h"
+
+1394919503 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameSong.h
+	"MaxInterfaceGame.h"
+	"MaxInterfaceGame.h"
+
+1394919503 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceStep.cpp
+	"MaxInterfaceStep.h"
+	"MaxInterfaceStep.h"
+
+1394919503 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceStep.h
+	"MaxInterface.h"
+	"MaxInterface.h"
+
+1394919503 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceStepEval.cpp
+	"MaxInterfaceStepEval.h"
+	"MaxInterfaceStepEval.h"
+
+1394919503 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceStepEval.h
+	"MaxInterface.h"
+	"MaxInterface.h"
+
+1394919503 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceUSB.cpp
+	"MaxInterfaceUSB.h"
+	"MaxInterfaceUSB.h"
+
+1394919503 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceUSB.h
+	"MaxInterface.h"
+	"MaxInterface.h"
+
+1394919503 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceUnlocker.cpp
+	"MaxInterfaceUnlocker.h"
+	"MaxInterfaceUnlocker.h"
+
+1394919503 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceUnlocker.h
+	"MaxInterface.h"
+	"MaxInterface.h"
+
+1394919503 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceWelcome.cpp
+	"MaxInterfaceWelcome.h"
+	"MaxInterfaceWelcome.h"
+
+1394919503 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceWelcome.h
+	"MaxInterface.h"
+	"MaxInterface.h"
+
+1395199978 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface_2.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1394919503 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface_LUA_EVENT.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1394898523 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface_LUA_INIT.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+	"SoundSys.h"
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+	"SoundSys.h"
+
+1394919503 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxLua.cpp
+	"MaxLua.h"
+	"MaxLua.h"
+
+1394919503 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxLuaCommonMethods.cpp
+	"MaxLuaCommonMethods.h"
+	"MaxLuaCommonMethods.h"
+
+1394919503 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxLuaCommonMethods.h
+	"basutil.h"
+	"cmnpiu.h"
+	"MaxLua.h"
+	"basutil.h"
+	"cmnpiu.h"
+	"MaxLua.h"
+
+1394919503 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxMenu.cpp
+	"MaxMenu.h"
+	"AccReader.h"
+	"basutil.h"
+	"MaxMenu.h"
+	"AccReader.h"
+	"basutil.h"
+
+1395202236 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxScreen.cpp
+	"MaxScreen.h"
+	"AccReader.h"
+	"basutil.h"
+	"cmnpiu.h"
+	"MaxScreen.h"
+	"AccReader.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1395201928 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxScreen_2.cpp
+	"MaxScreen.h"
+	"cmnpiu.h"
+	"basutil.h"
+	"MaxScreen.h"
+	"cmnpiu.h"
+	"basutil.h"
+
+1394919503 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxScreen_3.cpp
+	"MaxScreen.h"
+	"AccReader.h"
+	"basutil.h"
+	"MaxScreen.h"
+	"AccReader.h"
+	"basutil.h"
+
+1394919503 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/Maxinterface_3.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1394919504 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/OperStr.cpp
+	"stdafx.h"
+	"OperStr.h"
+	"stdafx.h"
+	"OperStr.h"
+
+1394919504 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/OperStr.h
+	"StdString.h"
+	"StdString.h"
+
+1394919504 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/PlayerStatus.cpp
+	"PlayerStatus.h"
+	"PlayerStatus.h"
+
+1394919504 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/PlayerStatus.h
+	"stdafx.h"
+	"stdafx.h"
+
+1395198395 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/SpriteRes.cpp
+	"SpriteRes.h"
+	"SpriteRes.h"
+
+1394902788 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/VideoRes.cpp
+	"VideoRes.h"
+	"cmnpiu.h"
+	"VideoRes.h"
+	"cmnpiu.h"
+
+1394919504 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/eventdef.cpp
+	"eventdef.h"
+	"eventdef.h"
+
+1395194477 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/AccReader.cpp
+	"AccReader.h"
+	"AccReader.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/AccReader.cpp
+	"AccReader.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/AccReader.h
+	"stdafx.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/stdafx.h
+	"defcomp.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_syswm.h>
+	<SDL2/SDL_thread.h>
+	<SDL2/SDL_mutex.h>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<stdint.h>
+	<stdio.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<string.h>
+	<vector>
+	<map>
+	<png.h>
+	<gtk/gtk.h>
+	<Windows.h>
+	<Shlobj.h>
+	<tchar.h>
+	<direct.h>
+	<wchar.h>
+	<unistd.h>
+	<pthread.h>
+	<d3d9.h>
+	<D3dx9math.h>
+	<D3D9Types.h>
+	<DxErr.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glew.h>
+	<fmodex/fmod.h>
+	<fmodex/fmod_errors.h>
+	"StdString.h"
+	"defbas.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/defcomp.h
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/StdString.h
+	<TCHAR.H>
+	<WTYPES.H>
+	<assert.h>
+	<TCHAR.H>
+	<WTYPES.H>
+	<crtdbg.h>
+	<string>
+	<algorithm>
+	<functional>
+	<locale>
+	<comdef.h>
+	<wchar.h>
+	<stdio.h>
+	<stdarg.h>
+	<wctype.h>
+	<ctype.h>
+	<stdlib.h>
+	<varargs.h>
+	<malloc.h>
+	<afxconv.h>
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/defbas.h
+	<Windows.h>
+	<tchar.h>
+
+1394915742 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/basutil.cpp
+	"basutil.h"
+	"cmnpiu.h"
+	"libc_max_common.h"
+	"pcre.h"
+	"regex.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/basutil.h
+	"stdafx.h"
+	"GraphMain.h"
+	"MaxLua.h"
+	"MID.h"
+	"libc_max_common.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GraphMain.h
+	"stdafx.h"
+	"defcomp.h"
+	"GraphTexture.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GraphTexture.h
+	"stdafx.h"
+	"defcomp.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxLua.h
+	"stdafx.h"
+	"defbas.h"
+	<lua5.1/lua.h>
+	<lua5.1/lauxlib.h>
+	<lua5.1/lualib.h>
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MID.h
+	"defbas.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/libc_max_common.h
+	"stdafx.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/cmnpiu.h
+	"stdafx.h"
+	"MID.h"
+	"intdef.h"
+	"resdef.h"
+	"MainTheme.h"
+	"eventdef.h"
+	"OGLSprite.h"
+	"MovieStream2.h"
+	"MaxLua.h"
+	"GraphMain.h"
+	"SoundSys.h"
+	"StdInput.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/intdef.h
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/resdef.h
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MainTheme.h
+	"stdafx.h"
+	"MaxInterface.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface.h
+	"GLFont2.h"
+	"MaxMenu.h"
+	"MaxLua.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GLFont2.h
+	"basutil.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxMenu.h
+	"basutil.h"
+	"MaxScreen.h"
+	"eventdef.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxScreen.h
+	"GLFont2.h"
+	"GLFont.h"
+	"SpriteRes.h"
+	"VideoRes.h"
+	"SoundRes.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GLFont.h
+	"GraphTexture.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SpriteRes.h
+	"OGLSprite.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/OGLSprite.h
+	"GraphTexture.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/VideoRes.h
+	"MovieStream2.h"
+	"GraphTexture.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MovieStream2.h
+	"stdafx.h"
+	<libavcodec/avcodec.h>
+	<libavformat/avformat.h>
+	<libswscale/swscale.h>
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundRes.h
+	"SoundStream.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundStream.h
+	"stdafx.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/eventdef.h
+	"stdafx.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundSys.h
+	"stdafx.h"
+	"SoundChannel.h"
+	"SoundStream.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundChannel.h
+	"stdafx.h"
+	"SoundStream.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/StdInput.h
+	"cmnpiu.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/cmnpiu.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"libc_max_common.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/eventdef.cpp
+	"eventdef.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GLFont.cpp
+	"stdafx.h"
+	"GLFont.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GLFont2.cpp
+	"stdafx.h"
+	"GLFont2.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GraphMain.cpp
+	"GraphMain.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GraphTexture.cpp
+	"GraphTexture.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MainTheme.cpp
+	"MainTheme.h"
+	"AccReader.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+	"eventdef.h"
+	"SoundSys.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface_2.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/Maxinterface_3.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface_LUA_EVENT.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface_LUA_INIT.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+	"SoundSys.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceConfig.cpp
+	"MaxInterfaceConfig.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceConfig.h
+	"MaxInterface.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGame.cpp
+	"MaxInterfaceGame.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGame.h
+	"MaxInterface.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameIS.cpp
+	"MaxInterfaceGameIS.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameIS.h
+	"MaxInterfaceGame.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameMission.cpp
+	"MaxInterfaceGameMission.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameMission.h
+	"MaxInterfaceGame.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameMission3D.cpp
+	"MaxInterfaceGameMission3D.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameMission3D.h
+	"MaxInterfaceGame.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameSong.cpp
+	"MaxInterfaceGameSong.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameSong.h
+	"MaxInterfaceGame.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceStep.cpp
+	"MaxInterfaceStep.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceStep.h
+	"MaxInterface.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceStepEval.cpp
+	"MaxInterfaceStepEval.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceStepEval.h
+	"MaxInterface.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceUnlocker.cpp
+	"MaxInterfaceUnlocker.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceUnlocker.h
+	"MaxInterface.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceUSB.cpp
+	"MaxInterfaceUSB.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceUSB.h
+	"MaxInterface.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceWelcome.cpp
+	"MaxInterfaceWelcome.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceWelcome.h
+	"MaxInterface.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxLua.cpp
+	"MaxLua.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxLuaCommonMethods.cpp
+	"MaxLuaCommonMethods.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxLuaCommonMethods.h
+	"basutil.h"
+	"cmnpiu.h"
+	"MaxLua.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxMenu.cpp
+	"MaxMenu.h"
+	"AccReader.h"
+	"basutil.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxScreen.cpp
+	"MaxScreen.h"
+	"AccReader.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxScreen_2.cpp
+	"MaxScreen.h"
+	"cmnpiu.h"
+	"basutil.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxScreen_3.cpp
+	"MaxScreen.h"
+	"AccReader.h"
+	"basutil.h"
+
+1394917073 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MovieStream2.cpp
+	"basutil.h"
+	"MovieStream2.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/OGLSprite.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"basutil.h"
+	"OGLSprite.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/OperStr.cpp
+	"stdafx.h"
+	"OperStr.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/OperStr.h
+	"StdString.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/piu.cpp
+	"piu.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/piu.h
+	"stdafx.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"MaxInterface.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/cmnpiu_ex.h
+	"stdafx.h"
+	"GLFont.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/PlayerStatus.cpp
+	"PlayerStatus.h"
+
+1394827387 /home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/PlayerStatus.h
+	"stdafx.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundChannel.cpp
+	"SoundChannel.h"
+	"basutil.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundRes.cpp
+	"SoundRes.h"
+	"cmnpiu.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundStream.cpp
+	"SoundStream.h"
+	"basutil.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundSys.cpp
+	"SoundSys.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SpriteRes.cpp
+	"SpriteRes.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/stdafx.cpp
+	"stdafx.h"
+	"libc_max_common.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/StdInput.cpp
+	"StdInput.h"
+
+1394827387 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/VideoRes.cpp
+	"VideoRes.h"
+	"cmnpiu.h"
+
+1394916884 source:/home/icefairy64/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/libc_max_common.cpp
+	"libc_max_common.h"
+	<iconv.h>
+
+1395206417 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/GLFont2.cpp
+	"stdafx.h"
+	"GLFont2.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1395203732 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/GraphMain.cpp
+	"GraphMain.h"
+
+1394919503 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/GraphTexture.cpp
+	"GraphTexture.h"
+
+1394920557 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/MovieStream2.cpp
+	"basutil.h"
+	"cmnpiu.h"
+	"MovieStream2.h"
+
+1394919504 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/OGLSprite.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"basutil.h"
+	"OGLSprite.h"
+
+1394919504 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundChannel.cpp
+	"SoundChannel.h"
+	"basutil.h"
+
+1394919504 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundRes.cpp
+	"SoundRes.h"
+	"cmnpiu.h"
+
+1394919504 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundStream.cpp
+	"SoundStream.h"
+	"basutil.h"
+
+1394919504 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundSys.cpp
+	"SoundSys.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1395200283 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/StdInput.cpp
+	"StdInput.h"
+
+1395198095 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/basutil.cpp
+	"basutil.h"
+	"cmnpiu.h"
+	"libc_max_common.h"
+	"pcre.h"
+	"regex.h"
+
+1394919504 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/cmnpiu.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"libc_max_common.h"
+
+1395206000 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/piu.cpp
+	"piu.h"
+
+1394919504 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/piu.h
+	"stdafx.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"MaxInterface.h"
+
+1394919504 /media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/cmnpiu_ex.h
+	"stdafx.h"
+	"GLFont.h"
+
+1394919504 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/stdafx.cpp
+	"stdafx.h"
+	"libc_max_common.h"
+
+1395205648 source:/media/PIUMaX/PIUMaX2/PIUMaX-CODEB/PIUMaX 2.0/src/libc_max_common.cpp
+	"libc_max_common.h"
+	<iconv.h>
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/AccReader.cpp
+	"AccReader.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/AccReader.h
+	"stdafx.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/stdafx.h
+	"defcomp.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_syswm.h>
+	<SDL2/SDL_thread.h>
+	<SDL2/SDL_mutex.h>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<stdint.h>
+	<stdio.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<string.h>
+	<vector>
+	<map>
+	<png.h>
+	<gtk/gtk.h>
+	<Windows.h>
+	<Shlobj.h>
+	<tchar.h>
+	<direct.h>
+	<wchar.h>
+	<unistd.h>
+	<pthread.h>
+	<d3d9.h>
+	<D3dx9math.h>
+	<D3D9Types.h>
+	<DxErr.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glew.h>
+	<fmodex/fmod.h>
+	<fmodex/fmod_errors.h>
+	"StdString.h"
+	"defbas.h"
+
+1400363866 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/defcomp.h
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/StdString.h
+	<TCHAR.H>
+	<WTYPES.H>
+	<assert.h>
+	<TCHAR.H>
+	<WTYPES.H>
+	<crtdbg.h>
+	<string>
+	<algorithm>
+	<functional>
+	<locale>
+	<comdef.h>
+	<wchar.h>
+	<stdio.h>
+	<stdarg.h>
+	<wctype.h>
+	<ctype.h>
+	<stdlib.h>
+	<varargs.h>
+	<malloc.h>
+	<afxconv.h>
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/defbas.h
+	<Windows.h>
+	<tchar.h>
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/basutil.cpp
+	"basutil.h"
+	"cmnpiu.h"
+	"libc_max_common.h"
+	"pcre.h"
+	"regex.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/basutil.h
+	"stdafx.h"
+	"GraphMain.h"
+	"MaxLua.h"
+	"MID.h"
+	"libc_max_common.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GraphMain.h
+	"stdafx.h"
+	"defcomp.h"
+	"GraphTexture.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GraphTexture.h
+	"stdafx.h"
+	"defcomp.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxLua.h
+	"stdafx.h"
+	"defbas.h"
+	<lua5.1/lua.h>
+	<lua5.1/lauxlib.h>
+	<lua5.1/lualib.h>
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MID.h
+	"defbas.h"
+
+1400363519 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/libc_max_common.h
+	"stdafx.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/cmnpiu.h
+	"stdafx.h"
+	"MID.h"
+	"intdef.h"
+	"resdef.h"
+	"MainTheme.h"
+	"eventdef.h"
+	"OGLSprite.h"
+	"MovieStream2.h"
+	"MaxLua.h"
+	"GraphMain.h"
+	"SoundSys.h"
+	"StdInput.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/intdef.h
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/resdef.h
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MainTheme.h
+	"stdafx.h"
+	"MaxInterface.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface.h
+	"GLFont2.h"
+	"MaxMenu.h"
+	"MaxLua.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GLFont2.h
+	"basutil.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxMenu.h
+	"basutil.h"
+	"MaxScreen.h"
+	"eventdef.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxScreen.h
+	"GLFont2.h"
+	"GLFont.h"
+	"SpriteRes.h"
+	"VideoRes.h"
+	"SoundRes.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GLFont.h
+	"GraphTexture.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SpriteRes.h
+	"OGLSprite.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/OGLSprite.h
+	"GraphTexture.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/VideoRes.h
+	"MovieStream2.h"
+	"GraphTexture.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MovieStream2.h
+	"stdafx.h"
+	"GraphTexture.h"
+	<libavcodec/avcodec.h>
+	<libavformat/avformat.h>
+	<libswscale/swscale.h>
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundRes.h
+	"SoundStream.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundStream.h
+	"stdafx.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/eventdef.h
+	"stdafx.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundSys.h
+	"stdafx.h"
+	"SoundChannel.h"
+	"SoundStream.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundChannel.h
+	"stdafx.h"
+	"SoundStream.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/StdInput.h
+	"cmnpiu.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/cmnpiu.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"libc_max_common.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/eventdef.cpp
+	"eventdef.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GLFont.cpp
+	"stdafx.h"
+	"GLFont.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GLFont2.cpp
+	"stdafx.h"
+	"GLFont2.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GraphMain.cpp
+	"GraphMain.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GraphTexture.cpp
+	"GraphTexture.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MainTheme.cpp
+	"MainTheme.h"
+	"AccReader.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+	"eventdef.h"
+	"SoundSys.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface_2.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/Maxinterface_3.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface_LUA_EVENT.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface_LUA_INIT.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+	"SoundSys.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceConfig.cpp
+	"MaxInterfaceConfig.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceConfig.h
+	"MaxInterface.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGame.cpp
+	"MaxInterfaceGame.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGame.h
+	"MaxInterface.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameIS.cpp
+	"MaxInterfaceGameIS.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameIS.h
+	"MaxInterfaceGame.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameMission.cpp
+	"MaxInterfaceGameMission.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameMission.h
+	"MaxInterfaceGame.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameMission3D.cpp
+	"MaxInterfaceGameMission3D.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameMission3D.h
+	"MaxInterfaceGame.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameSong.cpp
+	"MaxInterfaceGameSong.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameSong.h
+	"MaxInterfaceGame.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceStep.cpp
+	"MaxInterfaceStep.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceStep.h
+	"MaxInterface.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceStepEval.cpp
+	"MaxInterfaceStepEval.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceStepEval.h
+	"MaxInterface.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceUnlocker.cpp
+	"MaxInterfaceUnlocker.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceUnlocker.h
+	"MaxInterface.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceUSB.cpp
+	"MaxInterfaceUSB.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceUSB.h
+	"MaxInterface.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceWelcome.cpp
+	"MaxInterfaceWelcome.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceWelcome.h
+	"MaxInterface.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxLua.cpp
+	"MaxLua.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxLuaCommonMethods.cpp
+	"MaxLuaCommonMethods.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxLuaCommonMethods.h
+	"basutil.h"
+	"cmnpiu.h"
+	"MaxLua.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxMenu.cpp
+	"MaxMenu.h"
+	"AccReader.h"
+	"basutil.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxScreen.cpp
+	"MaxScreen.h"
+	"AccReader.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxScreen_2.cpp
+	"MaxScreen.h"
+	"cmnpiu.h"
+	"basutil.h"
+
+1414598502 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxScreen_3.cpp
+	"MaxScreen.h"
+	"AccReader.h"
+	"basutil.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MovieStream2.cpp
+	"basutil.h"
+	"cmnpiu.h"
+	"MovieStream2.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/OGLSprite.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"basutil.h"
+	"OGLSprite.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/OperStr.cpp
+	"stdafx.h"
+	"OperStr.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/OperStr.h
+	"StdString.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/piu.cpp
+	"piu.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/piu.h
+	"stdafx.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"MaxInterface.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/cmnpiu_ex.h
+	"stdafx.h"
+	"GLFont.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/PlayerStatus.cpp
+	"PlayerStatus.h"
+
+1399754875 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/PlayerStatus.h
+	"stdafx.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundChannel.cpp
+	"SoundChannel.h"
+	"basutil.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundRes.cpp
+	"SoundRes.h"
+	"cmnpiu.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundStream.cpp
+	"SoundStream.h"
+	"basutil.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundSys.cpp
+	"SoundSys.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SpriteRes.cpp
+	"SpriteRes.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/stdafx.cpp
+	"stdafx.h"
+	"libc_max_common.h"
+
+1399754875 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/StdInput.cpp
+	"StdInput.h"
+
+1414598417 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/VideoRes.cpp
+	"VideoRes.h"
+	"cmnpiu.h"
+
+1400363621 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/libc_max_common.cpp
+	"libc_max_common.h"
+	<iconv.h>
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/AccReader.cpp
+	"AccReader.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/AccReader.h
+	"stdafx.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/stdafx.h
+	"defcomp.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_syswm.h>
+	<SDL2/SDL_thread.h>
+	<SDL2/SDL_mutex.h>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<stdint.h>
+	<stdio.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<string.h>
+	<vector>
+	<map>
+	<png.h>
+	<gtk/gtk.h>
+	<Windows.h>
+	<Shlobj.h>
+	<tchar.h>
+	<direct.h>
+	<wchar.h>
+	<unistd.h>
+	<pthread.h>
+	<d3d9.h>
+	<D3dx9math.h>
+	<D3D9Types.h>
+	<DxErr.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glew.h>
+	<fmodex/fmod.h>
+	<fmodex/fmod_errors.h>
+	"StdString.h"
+	"defbas.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/defcomp.h
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/StdString.h
+	<TCHAR.H>
+	<WTYPES.H>
+	<assert.h>
+	<TCHAR.H>
+	<WTYPES.H>
+	<crtdbg.h>
+	<string>
+	<algorithm>
+	<functional>
+	<locale>
+	<comdef.h>
+	<wchar.h>
+	<stdio.h>
+	<stdarg.h>
+	<wctype.h>
+	<ctype.h>
+	<stdlib.h>
+	<varargs.h>
+	<malloc.h>
+	<afxconv.h>
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/defbas.h
+	<Windows.h>
+	<tchar.h>
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/basutil.cpp
+	"basutil.h"
+	"cmnpiu.h"
+	"libc_max_common.h"
+	"pcre.h"
+	"regex.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/basutil.h
+	"stdafx.h"
+	"GraphMain.h"
+	"MaxLua.h"
+	"MID.h"
+	"libc_max_common.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GraphMain.h
+	"stdafx.h"
+	"defcomp.h"
+	"GraphTexture.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GraphTexture.h
+	"stdafx.h"
+	"defcomp.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxLua.h
+	"stdafx.h"
+	"defbas.h"
+	<lua5.1/lua.h>
+	<lua5.1/lauxlib.h>
+	<lua5.1/lualib.h>
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MID.h
+	"defbas.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/libc_max_common.h
+	"stdafx.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/cmnpiu.h
+	"stdafx.h"
+	"MID.h"
+	"intdef.h"
+	"resdef.h"
+	"MainTheme.h"
+	"eventdef.h"
+	"OGLSprite.h"
+	"MovieStream2.h"
+	"MaxLua.h"
+	"GraphMain.h"
+	"SoundSys.h"
+	"StdInput.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/intdef.h
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/resdef.h
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MainTheme.h
+	"stdafx.h"
+	"MaxInterface.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface.h
+	"GLFont2.h"
+	"MaxMenu.h"
+	"MaxLua.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GLFont2.h
+	"basutil.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxMenu.h
+	"basutil.h"
+	"MaxScreen.h"
+	"eventdef.h"
+
+1421455412 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxScreen.h
+	"GLFont2.h"
+	"GLFont.h"
+	"SpriteRes.h"
+	"VideoRes.h"
+	"SoundRes.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GLFont.h
+	"GraphTexture.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SpriteRes.h
+	"OGLSprite.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/OGLSprite.h
+	"GraphTexture.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/VideoRes.h
+	"MovieStream2.h"
+	"GraphTexture.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MovieStream2.h
+	"stdafx.h"
+	"GraphTexture.h"
+	<libavcodec/avcodec.h>
+	<libavformat/avformat.h>
+	<libswscale/swscale.h>
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundRes.h
+	"SoundStream.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundStream.h
+	"stdafx.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/eventdef.h
+	"stdafx.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundSys.h
+	"stdafx.h"
+	"SoundChannel.h"
+	"SoundStream.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundChannel.h
+	"stdafx.h"
+	"SoundStream.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/StdInput.h
+	"cmnpiu.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/cmnpiu.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"libc_max_common.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/eventdef.cpp
+	"eventdef.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GLFont.cpp
+	"stdafx.h"
+	"GLFont.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GLFont2.cpp
+	"stdafx.h"
+	"GLFont2.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GraphMain.cpp
+	"GraphMain.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GraphTexture.cpp
+	"GraphTexture.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/libc_max_common.cpp
+	"libc_max_common.h"
+	<iconv.h>
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MainTheme.cpp
+	"MainTheme.h"
+	"AccReader.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+	"eventdef.h"
+	"SoundSys.h"
+
+1421455559 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface_2.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/Maxinterface_3.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface_LUA_EVENT.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface_LUA_INIT.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+	"SoundSys.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceConfig.cpp
+	"MaxInterfaceConfig.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceConfig.h
+	"MaxInterface.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGame.cpp
+	"MaxInterfaceGame.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGame.h
+	"MaxInterface.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameIS.cpp
+	"MaxInterfaceGameIS.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameIS.h
+	"MaxInterfaceGame.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameMission.cpp
+	"MaxInterfaceGameMission.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameMission.h
+	"MaxInterfaceGame.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameMission3D.cpp
+	"MaxInterfaceGameMission3D.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameMission3D.h
+	"MaxInterfaceGame.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameSong.cpp
+	"MaxInterfaceGameSong.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameSong.h
+	"MaxInterfaceGame.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceStep.cpp
+	"MaxInterfaceStep.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceStep.h
+	"MaxInterface.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceStepEval.cpp
+	"MaxInterfaceStepEval.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceStepEval.h
+	"MaxInterface.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceUnlocker.cpp
+	"MaxInterfaceUnlocker.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceUnlocker.h
+	"MaxInterface.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceUSB.cpp
+	"MaxInterfaceUSB.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceUSB.h
+	"MaxInterface.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceWelcome.cpp
+	"MaxInterfaceWelcome.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceWelcome.h
+	"MaxInterface.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxLua.cpp
+	"MaxLua.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxLuaCommonMethods.cpp
+	"MaxLuaCommonMethods.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxLuaCommonMethods.h
+	"basutil.h"
+	"cmnpiu.h"
+	"MaxLua.h"
+
+1421455797 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxMenu.cpp
+	"MaxMenu.h"
+	"AccReader.h"
+	"basutil.h"
+
+1421455412 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxScreen.cpp
+	"MaxScreen.h"
+	"AccReader.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxScreen_2.cpp
+	"MaxScreen.h"
+	"cmnpiu.h"
+	"basutil.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxScreen_3.cpp
+	"MaxScreen.h"
+	"AccReader.h"
+	"basutil.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MovieStream2.cpp
+	"basutil.h"
+	"cmnpiu.h"
+	"MovieStream2.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/OGLSprite.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"basutil.h"
+	"OGLSprite.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/OperStr.cpp
+	"stdafx.h"
+	"OperStr.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/OperStr.h
+	"StdString.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/piu.cpp
+	"piu.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/piu.h
+	"stdafx.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"MaxInterface.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/cmnpiu_ex.h
+	"stdafx.h"
+	"GLFont.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/PlayerStatus.cpp
+	"PlayerStatus.h"
+
+1421447289 /home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/PlayerStatus.h
+	"stdafx.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundChannel.cpp
+	"SoundChannel.h"
+	"basutil.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundRes.cpp
+	"SoundRes.h"
+	"cmnpiu.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundStream.cpp
+	"SoundStream.h"
+	"basutil.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundSys.cpp
+	"SoundSys.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SpriteRes.cpp
+	"SpriteRes.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/stdafx.cpp
+	"stdafx.h"
+	"libc_max_common.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/StdInput.cpp
+	"StdInput.h"
+
+1421447289 source:/home/ckristian/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/VideoRes.cpp
+	"VideoRes.h"
+	"cmnpiu.h"
+
+1427077408 source:/mnt/hd/piumax2/piumax-codeb/piumax 2.0/src/basutil.cpp
+	"basutil.h"
+	"cmnpiu.h"
+	"libc_max_common.h"
+	"pcre.h"
+	"regex.h"
+
+1426392125 /mnt/hd/piumax2/piumax-codeb/piumax 2.0/src/basutil.h
+	"stdafx.h"
+	"GraphMain.h"
+	"MaxLua.h"
+	"MID.h"
+	"libc_max_common.h"
+
+1426392125 /mnt/hd/piumax2/piumax-codeb/piumax 2.0/src/stdafx.h
+	"defcomp.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_syswm.h>
+	<SDL2/SDL_thread.h>
+	<SDL2/SDL_mutex.h>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<stdint.h>
+	<stdio.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<string.h>
+	<vector>
+	<map>
+	<png.h>
+	<gtk/gtk.h>
+	<Windows.h>
+	<Shlobj.h>
+	<tchar.h>
+	<direct.h>
+	<wchar.h>
+	<unistd.h>
+	<pthread.h>
+	<d3d9.h>
+	<D3dx9math.h>
+	<D3D9Types.h>
+	<DxErr.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glew.h>
+	<fmodex/fmod.h>
+	<fmodex/fmod_errors.h>
+	"StdString.h"
+	"defbas.h"
+
+1426392125 /mnt/hd/piumax2/piumax-codeb/piumax 2.0/src/defcomp.h
+
+1426392125 /mnt/hd/piumax2/piumax-codeb/piumax 2.0/src/defbas.h
+	<Windows.h>
+	<tchar.h>
+
+1426392125 /mnt/hd/piumax2/piumax-codeb/piumax 2.0/src/libc_max_common.h
+	"stdafx.h"
+
+1426392125 /mnt/hd/piumax2/piumax-codeb/piumax 2.0/src/cmnpiu.h
+	"stdafx.h"
+	"MID.h"
+	"intdef.h"
+	"resdef.h"
+	"MainTheme.h"
+	"eventdef.h"
+	"OGLSprite.h"
+	"MovieStream2.h"
+	"MaxLua.h"
+	"GraphMain.h"
+	"SoundSys.h"
+	"StdInput.h"
+
+1426392125 /mnt/hd/piumax2/piumax-codeb/piumax 2.0/src/intdef.h
+
+1426392125 /mnt/hd/piumax2/piumax-codeb/piumax 2.0/src/resdef.h
+
+1426392125 /mnt/hd/piumax2/piumax-codeb/piumax 2.0/src/eventdef.h
+	"stdafx.h"
+
+1434828856 source:/mnt/hd/piumax2/piumax-codeb/piumax 2.0/src/cmnpiu.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"libc_max_common.h"
+
+1426392125 source:/mnt/hd/piumax2/piumax-codeb/piumax 2.0/src/eventdef.cpp
+	"eventdef.h"
+
+1426392125 source:/mnt/hd/piumax2/piumax-codeb/piumax 2.0/src/libc_max_common.cpp
+	"libc_max_common.h"
+	<iconv.h>
+
+1426392125 source:/mnt/hd/piumax2/piumax-codeb/piumax 2.0/src/piu.cpp
+	"piu.h"
+
+1426392125 /mnt/hd/piumax2/piumax-codeb/piumax 2.0/src/piu.h
+	"stdafx.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"MaxInterface.h"
+
+1426392125 /mnt/hd/piumax2/piumax-codeb/piumax 2.0/src/cmnpiu_ex.h
+	"stdafx.h"
+	"GLFont.h"
+
+1426392125 source:/mnt/hd/piumax2/piumax-codeb/piumax 2.0/src/stdafx.cpp
+	"stdafx.h"
+	"libc_max_common.h"
+
+1434829076 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/AccReader.cpp
+	"AccReader.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/AccReader.h
+	"stdafx.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/stdafx.h
+	"defcomp.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_syswm.h>
+	<SDL2/SDL_thread.h>
+	<SDL2/SDL_mutex.h>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<stdint.h>
+	<stdio.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<string.h>
+	<vector>
+	<map>
+	<png.h>
+	<gtk/gtk.h>
+	<Windows.h>
+	<Shlobj.h>
+	<tchar.h>
+	<direct.h>
+	<wchar.h>
+	<unistd.h>
+	<pthread.h>
+	<d3d9.h>
+	<D3dx9math.h>
+	<D3D9Types.h>
+	<DxErr.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glew.h>
+	<fmodex/fmod.h>
+	<fmodex/fmod_errors.h>
+	"StdString.h"
+	"defbas.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/defcomp.h
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/StdString.h
+	<TCHAR.H>
+	<WTYPES.H>
+	<assert.h>
+	<TCHAR.H>
+	<WTYPES.H>
+	<crtdbg.h>
+	<string>
+	<algorithm>
+	<functional>
+	<locale>
+	<comdef.h>
+	<wchar.h>
+	<stdio.h>
+	<stdarg.h>
+	<wctype.h>
+	<ctype.h>
+	<stdlib.h>
+	<varargs.h>
+	<malloc.h>
+	<afxconv.h>
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/defbas.h
+	<Windows.h>
+	<tchar.h>
+
+1427077408 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/basutil.cpp
+	"basutil.h"
+	"cmnpiu.h"
+	"libc_max_common.h"
+	"pcre.h"
+	"regex.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/basutil.h
+	"stdafx.h"
+	"GraphMain.h"
+	"MaxLua.h"
+	"MID.h"
+	"libc_max_common.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GraphMain.h
+	"stdafx.h"
+	"defcomp.h"
+	"GraphTexture.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GraphTexture.h
+	"stdafx.h"
+	"defcomp.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxLua.h
+	"stdafx.h"
+	"defbas.h"
+	<lua5.1/lua.h>
+	<lua5.1/lauxlib.h>
+	<lua5.1/lualib.h>
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MID.h
+	"defbas.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/libc_max_common.h
+	"stdafx.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/cmnpiu.h
+	"stdafx.h"
+	"MID.h"
+	"intdef.h"
+	"resdef.h"
+	"MainTheme.h"
+	"eventdef.h"
+	"OGLSprite.h"
+	"MovieStream2.h"
+	"MaxLua.h"
+	"GraphMain.h"
+	"SoundSys.h"
+	"StdInput.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/intdef.h
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/resdef.h
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MainTheme.h
+	"stdafx.h"
+	"MaxInterface.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface.h
+	"GLFont2.h"
+	"MaxMenu.h"
+	"MaxLua.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GLFont2.h
+	"basutil.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxMenu.h
+	"basutil.h"
+	"MaxScreen.h"
+	"eventdef.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxScreen.h
+	"GLFont2.h"
+	"GLFont.h"
+	"SpriteRes.h"
+	"VideoRes.h"
+	"SoundRes.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GLFont.h
+	"GraphTexture.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SpriteRes.h
+	"OGLSprite.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/OGLSprite.h
+	"GraphTexture.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/VideoRes.h
+	"MovieStream2.h"
+	"GraphTexture.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MovieStream2.h
+	"stdafx.h"
+	"GraphTexture.h"
+	<libavcodec/avcodec.h>
+	<libavformat/avformat.h>
+	<libswscale/swscale.h>
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundRes.h
+	"SoundStream.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundStream.h
+	"stdafx.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/eventdef.h
+	"stdafx.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundSys.h
+	"stdafx.h"
+	"SoundChannel.h"
+	"SoundStream.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundChannel.h
+	"stdafx.h"
+	"SoundStream.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/StdInput.h
+	"cmnpiu.h"
+
+1434828856 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/cmnpiu.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"libc_max_common.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/eventdef.cpp
+	"eventdef.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GLFont.cpp
+	"stdafx.h"
+	"GLFont.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GLFont2.cpp
+	"stdafx.h"
+	"GLFont2.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GraphMain.cpp
+	"GraphMain.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/GraphTexture.cpp
+	"GraphTexture.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/libc_max_common.cpp
+	"libc_max_common.h"
+	<iconv.h>
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MainTheme.cpp
+	"MainTheme.h"
+	"AccReader.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+	"eventdef.h"
+	"SoundSys.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface_2.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/Maxinterface_3.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface_LUA_EVENT.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterface_LUA_INIT.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+	"SoundSys.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceConfig.cpp
+	"MaxInterfaceConfig.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceConfig.h
+	"MaxInterface.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGame.cpp
+	"MaxInterfaceGame.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGame.h
+	"MaxInterface.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameIS.cpp
+	"MaxInterfaceGameIS.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameIS.h
+	"MaxInterfaceGame.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameMission.cpp
+	"MaxInterfaceGameMission.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameMission.h
+	"MaxInterfaceGame.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameMission3D.cpp
+	"MaxInterfaceGameMission3D.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameMission3D.h
+	"MaxInterfaceGame.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameSong.cpp
+	"MaxInterfaceGameSong.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceGameSong.h
+	"MaxInterfaceGame.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceStep.cpp
+	"MaxInterfaceStep.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceStep.h
+	"MaxInterface.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceStepEval.cpp
+	"MaxInterfaceStepEval.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceStepEval.h
+	"MaxInterface.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceUnlocker.cpp
+	"MaxInterfaceUnlocker.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceUnlocker.h
+	"MaxInterface.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceUSB.cpp
+	"MaxInterfaceUSB.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceUSB.h
+	"MaxInterface.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceWelcome.cpp
+	"MaxInterfaceWelcome.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxInterfaceWelcome.h
+	"MaxInterface.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxLua.cpp
+	"MaxLua.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxLuaCommonMethods.cpp
+	"MaxLuaCommonMethods.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxLuaCommonMethods.h
+	"basutil.h"
+	"cmnpiu.h"
+	"MaxLua.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxMenu.cpp
+	"MaxMenu.h"
+	"AccReader.h"
+	"basutil.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxScreen.cpp
+	"MaxScreen.h"
+	"AccReader.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxScreen_2.cpp
+	"MaxScreen.h"
+	"cmnpiu.h"
+	"basutil.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MaxScreen_3.cpp
+	"MaxScreen.h"
+	"AccReader.h"
+	"basutil.h"
+
+1428324475 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/MovieStream2.cpp
+	"basutil.h"
+	"cmnpiu.h"
+	"MovieStream2.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/OGLSprite.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"basutil.h"
+	"OGLSprite.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/OperStr.cpp
+	"stdafx.h"
+	"OperStr.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/OperStr.h
+	"StdString.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/piu.cpp
+	"piu.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/piu.h
+	"stdafx.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"MaxInterface.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/cmnpiu_ex.h
+	"stdafx.h"
+	"GLFont.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/PlayerStatus.cpp
+	"PlayerStatus.h"
+
+1426392125 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/PlayerStatus.h
+	"stdafx.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundChannel.cpp
+	"SoundChannel.h"
+	"basutil.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundRes.cpp
+	"SoundRes.h"
+	"cmnpiu.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundStream.cpp
+	"SoundStream.h"
+	"basutil.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SoundSys.cpp
+	"SoundSys.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/SpriteRes.cpp
+	"SpriteRes.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/stdafx.cpp
+	"stdafx.h"
+	"libc_max_common.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/StdInput.cpp
+	"StdInput.h"
+
+1426392125 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX 2.0/src/VideoRes.cpp
+	"VideoRes.h"
+	"cmnpiu.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/AccReader.cpp
+	"AccReader.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/AccReader.h
+	"stdafx.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/stdafx.h
+	"defcomp.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_syswm.h>
+	<SDL2/SDL_thread.h>
+	<SDL2/SDL_mutex.h>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<stdint.h>
+	<stdio.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<string.h>
+	<vector>
+	<map>
+	<png.h>
+	<gtk/gtk.h>
+	<Windows.h>
+	<Shlobj.h>
+	<tchar.h>
+	<direct.h>
+	<wchar.h>
+	<unistd.h>
+	<pthread.h>
+	<d3d9.h>
+	<D3dx9math.h>
+	<D3D9Types.h>
+	<DxErr.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glew.h>
+	<fmodex/fmod.h>
+	<fmodex/fmod_errors.h>
+	"StdString.h"
+	"defbas.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/defcomp.h
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/StdString.h
+	<TCHAR.H>
+	<WTYPES.H>
+	<assert.h>
+	<TCHAR.H>
+	<WTYPES.H>
+	<crtdbg.h>
+	<string>
+	<algorithm>
+	<functional>
+	<locale>
+	<comdef.h>
+	<wchar.h>
+	<stdio.h>
+	<stdarg.h>
+	<wctype.h>
+	<ctype.h>
+	<stdlib.h>
+	<varargs.h>
+	<malloc.h>
+	<afxconv.h>
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/defbas.h
+	<Windows.h>
+	<tchar.h>
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/basutil.cpp
+	"basutil.h"
+	"cmnpiu.h"
+	"libc_max_common.h"
+	"pcre.h"
+	"regex.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/basutil.h
+	"stdafx.h"
+	"GraphMain.h"
+	"MaxLua.h"
+	"MID.h"
+	"libc_max_common.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/GraphMain.h
+	"stdafx.h"
+	"defcomp.h"
+	"GraphTexture.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/GraphTexture.h
+	"stdafx.h"
+	"defcomp.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxLua.h
+	"stdafx.h"
+	"defbas.h"
+	<lua5.1/lua.h>
+	<lua5.1/lauxlib.h>
+	<lua5.1/lualib.h>
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MID.h
+	"defbas.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/libc_max_common.h
+	"stdafx.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/cmnpiu.h
+	"stdafx.h"
+	"MID.h"
+	"intdef.h"
+	"resdef.h"
+	"MainTheme.h"
+	"eventdef.h"
+	"OGLSprite.h"
+	"MovieStream2.h"
+	"MaxLua.h"
+	"GraphMain.h"
+	"SoundSys.h"
+	"StdInput.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/intdef.h
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/resdef.h
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MainTheme.h
+	"stdafx.h"
+	"MaxInterface.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterface.h
+	"GLFont2.h"
+	"MaxMenu.h"
+	"MaxLua.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/GLFont2.h
+	"basutil.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxMenu.h
+	"basutil.h"
+	"MaxScreen.h"
+	"eventdef.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxScreen.h
+	"GLFont2.h"
+	"GLFont.h"
+	"SpriteRes.h"
+	"VideoRes.h"
+	"SoundRes.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/GLFont.h
+	"GraphTexture.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SpriteRes.h
+	"OGLSprite.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/OGLSprite.h
+	"GraphTexture.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/VideoRes.h
+	"MovieStream2.h"
+	"GraphTexture.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MovieStream2.h
+	"stdafx.h"
+	"GraphTexture.h"
+	<libavcodec/avcodec.h>
+	<libavformat/avformat.h>
+	<libswscale/swscale.h>
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SoundRes.h
+	"SoundStream.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SoundStream.h
+	"stdafx.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/eventdef.h
+	"stdafx.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SoundSys.h
+	"stdafx.h"
+	"SoundChannel.h"
+	"SoundStream.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SoundChannel.h
+	"stdafx.h"
+	"SoundStream.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/StdInput.h
+	"cmnpiu.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/cmnpiu.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"libc_max_common.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/eventdef.cpp
+	"eventdef.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/GLFont.cpp
+	"stdafx.h"
+	"GLFont.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/GLFont2.cpp
+	"stdafx.h"
+	"GLFont2.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/GraphMain.cpp
+	"GraphMain.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/GraphTexture.cpp
+	"GraphTexture.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/libc_max_common.cpp
+	"libc_max_common.h"
+	<iconv.h>
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MainTheme.cpp
+	"MainTheme.h"
+	"AccReader.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterface.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+	"eventdef.h"
+	"SoundSys.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterface_2.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/Maxinterface_3.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterface_LUA_EVENT.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterface_LUA_INIT.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+	"SoundSys.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceConfig.cpp
+	"MaxInterfaceConfig.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceConfig.h
+	"MaxInterface.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGame.cpp
+	"MaxInterfaceGame.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGame.h
+	"MaxInterface.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGameIS.cpp
+	"MaxInterfaceGameIS.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGameIS.h
+	"MaxInterfaceGame.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGameMission.cpp
+	"MaxInterfaceGameMission.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGameMission.h
+	"MaxInterfaceGame.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGameMission3D.cpp
+	"MaxInterfaceGameMission3D.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGameMission3D.h
+	"MaxInterfaceGame.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGameSong.cpp
+	"MaxInterfaceGameSong.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGameSong.h
+	"MaxInterfaceGame.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceStep.cpp
+	"MaxInterfaceStep.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceStep.h
+	"MaxInterface.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceStepEval.cpp
+	"MaxInterfaceStepEval.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceStepEval.h
+	"MaxInterface.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceUnlocker.cpp
+	"MaxInterfaceUnlocker.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceUnlocker.h
+	"MaxInterface.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceUSB.cpp
+	"MaxInterfaceUSB.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceUSB.h
+	"MaxInterface.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceWelcome.cpp
+	"MaxInterfaceWelcome.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceWelcome.h
+	"MaxInterface.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxLua.cpp
+	"MaxLua.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxLuaCommonMethods.cpp
+	"MaxLuaCommonMethods.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxLuaCommonMethods.h
+	"basutil.h"
+	"cmnpiu.h"
+	"MaxLua.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxMenu.cpp
+	"MaxMenu.h"
+	"AccReader.h"
+	"basutil.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxScreen.cpp
+	"MaxScreen.h"
+	"AccReader.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxScreen_2.cpp
+	"MaxScreen.h"
+	"cmnpiu.h"
+	"basutil.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxScreen_3.cpp
+	"MaxScreen.h"
+	"AccReader.h"
+	"basutil.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MovieStream2.cpp
+	"basutil.h"
+	"cmnpiu.h"
+	"MovieStream2.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/OGLSprite.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"basutil.h"
+	"OGLSprite.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/OperStr.cpp
+	"stdafx.h"
+	"OperStr.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/OperStr.h
+	"StdString.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/piu.cpp
+	"piu.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/piu.h
+	"stdafx.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"MaxInterface.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/cmnpiu_ex.h
+	"stdafx.h"
+	"GLFont.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/PlayerStatus.cpp
+	"PlayerStatus.h"
+
+1445442971 /mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/PlayerStatus.h
+	"stdafx.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SoundChannel.cpp
+	"SoundChannel.h"
+	"basutil.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SoundRes.cpp
+	"SoundRes.h"
+	"cmnpiu.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SoundStream.cpp
+	"SoundStream.h"
+	"basutil.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SoundSys.cpp
+	"SoundSys.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SpriteRes.cpp
+	"SpriteRes.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/stdafx.cpp
+	"stdafx.h"
+	"libc_max_common.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/StdInput.cpp
+	"StdInput.h"
+
+1445442971 source:/mnt/hd/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/VideoRes.cpp
+	"VideoRes.h"
+	"cmnpiu.h"
+
+1423751897 /home/ckristian/Descargas/ffmpeg-0.8/libavcodec/avcodec.h
+	<errno.h>
+	"libavutil/samplefmt.h"
+	"libavutil/avutil.h"
+	"libavutil/cpu.h"
+	"libavutil/channel_layout.h"
+	"libavutil/dict.h"
+	"libavutil/log.h"
+	"libavutil/pixfmt.h"
+	"libavutil/rational.h"
+	"libavcodec/version.h"
+	"old_codec_ids.h"
+
+1423751901 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/samplefmt.h
+	<stdint.h>
+	"avutil.h"
+	"attributes.h"
+
+1423751901 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/avutil.h
+	"common.h"
+	"error.h"
+	"version.h"
+	"mathematics.h"
+	"rational.h"
+	"intfloat_readwrite.h"
+	"log.h"
+	"pixfmt.h"
+
+1423751901 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/common.h
+	<errno.h>
+	<inttypes.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"attributes.h"
+	"version.h"
+	"libavutil/avconfig.h"
+	"config.h"
+	"intmath.h"
+	"common.h"
+	"mem.h"
+	"internal.h"
+
+1423751901 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/attributes.h
+
+1423751901 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/version.h
+
+1434833100 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/avconfig.h
+
+1435025969 /home/ckristian/Descargas/ffmpeg-0.8/config.h
+
+1421721955 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/intmath.h
+	<stdint.h>
+	"config.h"
+	"attributes.h"
+	"arm/intmath.h"
+	"arm/intmath.h"
+
+1417393309 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/arm/intmath.h
+	<stdint.h>
+	"config.h"
+	"libavutil/attributes.h"
+
+1423751901 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/mem.h
+	<limits.h>
+	<stdint.h>
+	"attributes.h"
+	"error.h"
+	"avutil.h"
+
+1421721955 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/error.h
+	<errno.h>
+	<stddef.h>
+
+1423751901 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/internal.h
+	<limits.h>
+	<stdint.h>
+	<stddef.h>
+	<assert.h>
+	"config.h"
+	"attributes.h"
+	"timer.h"
+	"cpu.h"
+	"dict.h"
+	"x86/emms.h"
+	"libm.h"
+
+1423751901 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/timer.h
+	<stdlib.h>
+	<stdint.h>
+	<inttypes.h>
+	"config.h"
+	"arm/timer.h"
+	"bfin/timer.h"
+	"ppc/timer.h"
+	"x86/timer.h"
+
+1417393309 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/arm/timer.h
+	<stdint.h>
+	"config.h"
+
+1417393309 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/bfin/timer.h
+	<stdint.h>
+
+1423751901 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/ppc/timer.h
+	<stdint.h>
+
+1423751901 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/x86/timer.h
+	<stdint.h>
+
+1423751901 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/cpu.h
+	"attributes.h"
+
+1423751901 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/dict.h
+
+1419306402 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/x86/emms.h
+	"config.h"
+	"libavutil/attributes.h"
+	"libavutil/cpu.h"
+	<mmintrin.h>
+
+1420863667 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/libm.h
+	<math.h>
+	"config.h"
+	"attributes.h"
+	"intfloat.h"
+	"libavutil/mips/libm_mips.h"
+
+1423751901 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/intfloat.h
+	<stdint.h>
+	"attributes.h"
+
+1417393309 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/mips/libm_mips.h
+
+1423751901 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/mathematics.h
+	<stdint.h>
+	<math.h>
+	"attributes.h"
+	"rational.h"
+	"intfloat.h"
+
+1423751901 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/rational.h
+	<stdint.h>
+	<limits.h>
+	"attributes.h"
+
+1423751901 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/intfloat_readwrite.h
+	<stdint.h>
+	"attributes.h"
+
+1423751901 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/log.h
+	<stdarg.h>
+	"avutil.h"
+	"attributes.h"
+
+1423751901 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/pixfmt.h
+	"libavutil/avconfig.h"
+	"libavutil/version.h"
+	"old_pix_fmts.h"
+
+1423751901 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/old_pix_fmts.h
+
+1423751901 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/channel_layout.h
+	<stdint.h>
+
+1423751899 /home/ckristian/Descargas/ffmpeg-0.8/libavcodec/version.h
+	"libavutil/avutil.h"
+
+1423751898 /home/ckristian/Descargas/ffmpeg-0.8/libavcodec/old_codec_ids.h
+	"libavutil/common.h"
+
+1423751900 /home/ckristian/Descargas/ffmpeg-0.8/libavformat/avformat.h
+	<time.h>
+	<stdio.h>
+	"libavcodec/avcodec.h"
+	"libavutil/dict.h"
+	"libavutil/log.h"
+	"avio.h"
+	"libavformat/version.h"
+	"libavutil/time.h"
+
+1423751900 /home/ckristian/Descargas/ffmpeg-0.8/libavformat/avio.h
+	<stdint.h>
+	"libavutil/common.h"
+	"libavutil/dict.h"
+	"libavutil/log.h"
+	"libavformat/version.h"
+
+1423751901 /home/ckristian/Descargas/ffmpeg-0.8/libavformat/version.h
+	"libavutil/avutil.h"
+
+1421721955 /home/ckristian/Descargas/ffmpeg-0.8/libavutil/time.h
+	<stdint.h>
+
+1423751902 /home/ckristian/Descargas/ffmpeg-0.8/libswscale/swscale.h
+	<stdint.h>
+	"libavutil/avutil.h"
+	"libavutil/log.h"
+	"libavutil/pixfmt.h"
+	"version.h"
+
+1423751902 /home/ckristian/Descargas/ffmpeg-0.8/libswscale/version.h
+	"libavutil/avutil.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/AccReader.cpp
+	"AccReader.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/AccReader.h
+	"stdafx.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/stdafx.h
+	"defcomp.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_syswm.h>
+	<SDL2/SDL_thread.h>
+	<SDL2/SDL_mutex.h>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<stdint.h>
+	<stdio.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<string.h>
+	<vector>
+	<map>
+	<png.h>
+	<gtk/gtk.h>
+	<Windows.h>
+	<Shlobj.h>
+	<tchar.h>
+	<direct.h>
+	<wchar.h>
+	<unistd.h>
+	<pthread.h>
+	<d3d9.h>
+	<D3dx9math.h>
+	<D3D9Types.h>
+	<DxErr.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glew.h>
+	<fmodex/fmod.h>
+	<fmodex/fmod_errors.h>
+	"StdString.h"
+	"defbas.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/defcomp.h
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/StdString.h
+	<TCHAR.H>
+	<WTYPES.H>
+	<assert.h>
+	<TCHAR.H>
+	<WTYPES.H>
+	<crtdbg.h>
+	<string>
+	<algorithm>
+	<functional>
+	<locale>
+	<comdef.h>
+	<wchar.h>
+	<stdio.h>
+	<stdarg.h>
+	<wctype.h>
+	<ctype.h>
+	<stdlib.h>
+	<varargs.h>
+	<malloc.h>
+	<afxconv.h>
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/defbas.h
+	<Windows.h>
+	<tchar.h>
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/basutil.cpp
+	"basutil.h"
+	"cmnpiu.h"
+	"libc_max_common.h"
+	"pcre.h"
+	"regex.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/basutil.h
+	"stdafx.h"
+	"GraphMain.h"
+	"MaxLua.h"
+	"MID.h"
+	"libc_max_common.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/GraphMain.h
+	"stdafx.h"
+	"defcomp.h"
+	"GraphTexture.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/GraphTexture.h
+	"stdafx.h"
+	"defcomp.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxLua.h
+	"stdafx.h"
+	"defbas.h"
+	<lua5.1/lua.h>
+	<lua5.1/lauxlib.h>
+	<lua5.1/lualib.h>
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MID.h
+	"defbas.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/libc_max_common.h
+	"stdafx.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/cmnpiu.h
+	"stdafx.h"
+	"MID.h"
+	"intdef.h"
+	"resdef.h"
+	"MainTheme.h"
+	"eventdef.h"
+	"OGLSprite.h"
+	"MovieStream2.h"
+	"MaxLua.h"
+	"GraphMain.h"
+	"SoundSys.h"
+	"StdInput.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/intdef.h
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/resdef.h
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MainTheme.h
+	"stdafx.h"
+	"MaxInterface.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterface.h
+	"GLFont2.h"
+	"MaxMenu.h"
+	"MaxLua.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/GLFont2.h
+	"basutil.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxMenu.h
+	"basutil.h"
+	"MaxScreen.h"
+	"eventdef.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxScreen.h
+	"GLFont2.h"
+	"GLFont.h"
+	"SpriteRes.h"
+	"VideoRes.h"
+	"SoundRes.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/GLFont.h
+	"GraphTexture.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SpriteRes.h
+	"OGLSprite.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/OGLSprite.h
+	"GraphTexture.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/VideoRes.h
+	"MovieStream2.h"
+	"GraphTexture.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MovieStream2.h
+	"stdafx.h"
+	"GraphTexture.h"
+	<libavcodec/avcodec.h>
+	<libavformat/avformat.h>
+	<libswscale/swscale.h>
+
+1423751897 /home/ckdur/Descargas/ffmpeg-0.8/libavcodec/avcodec.h
+	<errno.h>
+	"libavutil/samplefmt.h"
+	"libavutil/avutil.h"
+	"libavutil/cpu.h"
+	"libavutil/channel_layout.h"
+	"libavutil/dict.h"
+	"libavutil/log.h"
+	"libavutil/pixfmt.h"
+	"libavutil/rational.h"
+	"libavcodec/version.h"
+	"old_codec_ids.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/samplefmt.h
+	<stdint.h>
+	"avutil.h"
+	"attributes.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/avutil.h
+	"common.h"
+	"error.h"
+	"version.h"
+	"mathematics.h"
+	"rational.h"
+	"intfloat_readwrite.h"
+	"log.h"
+	"pixfmt.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/common.h
+	<errno.h>
+	<inttypes.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"attributes.h"
+	"version.h"
+	"libavutil/avconfig.h"
+	"config.h"
+	"intmath.h"
+	"common.h"
+	"mem.h"
+	"internal.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/attributes.h
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/version.h
+
+1445434239 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/avconfig.h
+
+1445434239 /home/ckdur/Descargas/ffmpeg-0.8/config.h
+
+1421721955 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/intmath.h
+	<stdint.h>
+	"config.h"
+	"attributes.h"
+	"arm/intmath.h"
+	"arm/intmath.h"
+
+1417393309 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/arm/intmath.h
+	<stdint.h>
+	"config.h"
+	"libavutil/attributes.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/mem.h
+	<limits.h>
+	<stdint.h>
+	"attributes.h"
+	"error.h"
+	"avutil.h"
+
+1421721955 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/error.h
+	<errno.h>
+	<stddef.h>
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/internal.h
+	<limits.h>
+	<stdint.h>
+	<stddef.h>
+	<assert.h>
+	"config.h"
+	"attributes.h"
+	"timer.h"
+	"cpu.h"
+	"dict.h"
+	"x86/emms.h"
+	"libm.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/timer.h
+	<stdlib.h>
+	<stdint.h>
+	<inttypes.h>
+	"config.h"
+	"arm/timer.h"
+	"bfin/timer.h"
+	"ppc/timer.h"
+	"x86/timer.h"
+
+1417393309 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/arm/timer.h
+	<stdint.h>
+	"config.h"
+
+1417393309 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/bfin/timer.h
+	<stdint.h>
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/ppc/timer.h
+	<stdint.h>
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/x86/timer.h
+	<stdint.h>
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/cpu.h
+	"attributes.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/dict.h
+
+1419306402 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/x86/emms.h
+	"config.h"
+	"libavutil/attributes.h"
+	"libavutil/cpu.h"
+	<mmintrin.h>
+
+1420863667 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/libm.h
+	<math.h>
+	"config.h"
+	"attributes.h"
+	"intfloat.h"
+	"libavutil/mips/libm_mips.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/intfloat.h
+	<stdint.h>
+	"attributes.h"
+
+1417393309 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/mips/libm_mips.h
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/mathematics.h
+	<stdint.h>
+	<math.h>
+	"attributes.h"
+	"rational.h"
+	"intfloat.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/rational.h
+	<stdint.h>
+	<limits.h>
+	"attributes.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/intfloat_readwrite.h
+	<stdint.h>
+	"attributes.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/log.h
+	<stdarg.h>
+	"avutil.h"
+	"attributes.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/pixfmt.h
+	"libavutil/avconfig.h"
+	"libavutil/version.h"
+	"old_pix_fmts.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/old_pix_fmts.h
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/channel_layout.h
+	<stdint.h>
+
+1423751899 /home/ckdur/Descargas/ffmpeg-0.8/libavcodec/version.h
+	"libavutil/avutil.h"
+
+1423751898 /home/ckdur/Descargas/ffmpeg-0.8/libavcodec/old_codec_ids.h
+	"libavutil/common.h"
+
+1423751900 /home/ckdur/Descargas/ffmpeg-0.8/libavformat/avformat.h
+	<time.h>
+	<stdio.h>
+	"libavcodec/avcodec.h"
+	"libavutil/dict.h"
+	"libavutil/log.h"
+	"avio.h"
+	"libavformat/version.h"
+	"libavutil/time.h"
+
+1423751900 /home/ckdur/Descargas/ffmpeg-0.8/libavformat/avio.h
+	<stdint.h>
+	"libavutil/common.h"
+	"libavutil/dict.h"
+	"libavutil/log.h"
+	"libavformat/version.h"
+
+1423751901 /home/ckdur/Descargas/ffmpeg-0.8/libavformat/version.h
+	"libavutil/avutil.h"
+
+1421721955 /home/ckdur/Descargas/ffmpeg-0.8/libavutil/time.h
+	<stdint.h>
+
+1423751902 /home/ckdur/Descargas/ffmpeg-0.8/libswscale/swscale.h
+	<stdint.h>
+	"libavutil/avutil.h"
+	"libavutil/log.h"
+	"libavutil/pixfmt.h"
+	"version.h"
+
+1423751902 /home/ckdur/Descargas/ffmpeg-0.8/libswscale/version.h
+	"libavutil/avutil.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SoundRes.h
+	"SoundStream.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SoundStream.h
+	"stdafx.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/eventdef.h
+	"stdafx.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SoundSys.h
+	"stdafx.h"
+	"SoundChannel.h"
+	"SoundStream.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SoundChannel.h
+	"stdafx.h"
+	"SoundStream.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/StdInput.h
+	"cmnpiu.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/cmnpiu.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"libc_max_common.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/eventdef.cpp
+	"eventdef.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/GLFont.cpp
+	"stdafx.h"
+	"GLFont.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/GLFont2.cpp
+	"stdafx.h"
+	"GLFont2.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/GraphMain.cpp
+	"GraphMain.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/GraphTexture.cpp
+	"GraphTexture.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/libc_max_common.cpp
+	"libc_max_common.h"
+	<iconv.h>
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MainTheme.cpp
+	"MainTheme.h"
+	"AccReader.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterface.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+	"eventdef.h"
+	"SoundSys.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterface_2.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/Maxinterface_3.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterface_LUA_EVENT.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterface_LUA_INIT.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+	"SoundSys.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceConfig.cpp
+	"MaxInterfaceConfig.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceConfig.h
+	"MaxInterface.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGame.cpp
+	"MaxInterfaceGame.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGame.h
+	"MaxInterface.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGameIS.cpp
+	"MaxInterfaceGameIS.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGameIS.h
+	"MaxInterfaceGame.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGameMission.cpp
+	"MaxInterfaceGameMission.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGameMission.h
+	"MaxInterfaceGame.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGameMission3D.cpp
+	"MaxInterfaceGameMission3D.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGameMission3D.h
+	"MaxInterfaceGame.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGameSong.cpp
+	"MaxInterfaceGameSong.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGameSong.h
+	"MaxInterfaceGame.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceStep.cpp
+	"MaxInterfaceStep.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceStep.h
+	"MaxInterface.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceStepEval.cpp
+	"MaxInterfaceStepEval.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceStepEval.h
+	"MaxInterface.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceUnlocker.cpp
+	"MaxInterfaceUnlocker.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceUnlocker.h
+	"MaxInterface.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceUSB.cpp
+	"MaxInterfaceUSB.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceUSB.h
+	"MaxInterface.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceWelcome.cpp
+	"MaxInterfaceWelcome.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceWelcome.h
+	"MaxInterface.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxLua.cpp
+	"MaxLua.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxLuaCommonMethods.cpp
+	"MaxLuaCommonMethods.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxLuaCommonMethods.h
+	"basutil.h"
+	"cmnpiu.h"
+	"MaxLua.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxMenu.cpp
+	"MaxMenu.h"
+	"AccReader.h"
+	"basutil.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxScreen.cpp
+	"MaxScreen.h"
+	"AccReader.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxScreen_2.cpp
+	"MaxScreen.h"
+	"cmnpiu.h"
+	"basutil.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxScreen_3.cpp
+	"MaxScreen.h"
+	"AccReader.h"
+	"basutil.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MovieStream2.cpp
+	"basutil.h"
+	"cmnpiu.h"
+	"MovieStream2.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/OGLSprite.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"basutil.h"
+	"OGLSprite.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/OperStr.cpp
+	"stdafx.h"
+	"OperStr.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/OperStr.h
+	"StdString.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/piu.cpp
+	"piu.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/piu.h
+	"stdafx.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"MaxInterface.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/cmnpiu_ex.h
+	"stdafx.h"
+	"GLFont.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/PlayerStatus.cpp
+	"PlayerStatus.h"
+
+1442876828 /media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/PlayerStatus.h
+	"stdafx.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SoundChannel.cpp
+	"SoundChannel.h"
+	"basutil.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SoundRes.cpp
+	"SoundRes.h"
+	"cmnpiu.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SoundStream.cpp
+	"SoundStream.h"
+	"basutil.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SoundSys.cpp
+	"SoundSys.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SpriteRes.cpp
+	"SpriteRes.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/stdafx.cpp
+	"stdafx.h"
+	"libc_max_common.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/StdInput.cpp
+	"StdInput.h"
+
+1442876828 source:/media/PIUMaX/PIUMaX2/git/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/VideoRes.cpp
+	"VideoRes.h"
+	"cmnpiu.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/AccReader.cpp
+	"AccReader.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/AccReader.h
+	"stdafx.h"
+
+1469826392 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/stdafx.h
+	"defcomp.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_syswm.h>
+	<SDL2/SDL_thread.h>
+	<SDL2/SDL_mutex.h>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<stdint.h>
+	<stdio.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<string.h>
+	<vector>
+	<map>
+	<png.h>
+	<gtk/gtk.h>
+	<Windows.h>
+	<Shlobj.h>
+	<tchar.h>
+	<direct.h>
+	<wchar.h>
+	<unistd.h>
+	<pthread.h>
+	<d3d9.h>
+	<D3dx9math.h>
+	<D3D9Types.h>
+	<DxErr.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glew.h>
+	<fmodex/fmod.h>
+	<fmodex/fmod_errors.h>
+	"StdString.h"
+	"defbas.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/defcomp.h
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/StdString.h
+	<TCHAR.H>
+	<WTYPES.H>
+	<assert.h>
+	<TCHAR.H>
+	<WTYPES.H>
+	<crtdbg.h>
+	<string>
+	<algorithm>
+	<functional>
+	<locale>
+	<comdef.h>
+	<wchar.h>
+	<stdio.h>
+	<stdarg.h>
+	<wctype.h>
+	<ctype.h>
+	<stdlib.h>
+	<varargs.h>
+	<malloc.h>
+	<afxconv.h>
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/defbas.h
+	<Windows.h>
+	<tchar.h>
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/cmnpiu.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"libc_max_common.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/cmnpiu.h
+	"stdafx.h"
+	"MID.h"
+	"intdef.h"
+	"resdef.h"
+	"MainTheme.h"
+	"eventdef.h"
+	"OGLSprite.h"
+	"MovieStream2.h"
+	"MaxLua.h"
+	"GraphMain.h"
+	"SoundSys.h"
+	"StdInput.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MID.h
+	"defbas.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/intdef.h
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/resdef.h
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MainTheme.h
+	"stdafx.h"
+	"MaxInterface.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterface.h
+	"GLFont2.h"
+	"MaxMenu.h"
+	"MaxLua.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/GLFont2.h
+	"basutil.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/basutil.h
+	"stdafx.h"
+	"GraphMain.h"
+	"MaxLua.h"
+	"MID.h"
+	"libc_max_common.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/GraphMain.h
+	"stdafx.h"
+	"defcomp.h"
+	"GraphTexture.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/GraphTexture.h
+	"stdafx.h"
+	"defcomp.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxLua.h
+	"stdafx.h"
+	"defbas.h"
+	<lua5.1/lua.h>
+	<lua5.1/lauxlib.h>
+	<lua5.1/lualib.h>
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/libc_max_common.h
+	"stdafx.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxMenu.h
+	"basutil.h"
+	"MaxScreen.h"
+	"eventdef.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxScreen.h
+	"GLFont2.h"
+	"GLFont.h"
+	"SpriteRes.h"
+	"VideoRes.h"
+	"SoundRes.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/GLFont.h
+	"GraphTexture.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SpriteRes.h
+	"OGLSprite.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/OGLSprite.h
+	"GraphTexture.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/VideoRes.h
+	"MovieStream2.h"
+	"GraphTexture.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MovieStream2.h
+	"stdafx.h"
+	"GraphTexture.h"
+	<libavcodec/avcodec.h>
+	<libavformat/avformat.h>
+	<libswscale/swscale.h>
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SoundRes.h
+	"SoundStream.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SoundStream.h
+	"stdafx.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/eventdef.h
+	"stdafx.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SoundSys.h
+	"stdafx.h"
+	"SoundChannel.h"
+	"SoundStream.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SoundChannel.h
+	"stdafx.h"
+	"SoundStream.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/StdInput.h
+	"cmnpiu.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/eventdef.cpp
+	"eventdef.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/GLFont.cpp
+	"stdafx.h"
+	"GLFont.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1469827140 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/GLFont2.cpp
+	"stdafx.h"
+	"GLFont2.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/GraphMain.cpp
+	"GraphMain.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/GraphTexture.cpp
+	"GraphTexture.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/libc_max_common.cpp
+	"libc_max_common.h"
+	<iconv.h>
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MainTheme.cpp
+	"MainTheme.h"
+	"AccReader.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterface.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+	"eventdef.h"
+	"SoundSys.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterface_2.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/Maxinterface_3.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterface_LUA_EVENT.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterface_LUA_INIT.cpp
+	"MaxInterface.h"
+	"AccReader.h"
+	"basutil.h"
+	"SoundSys.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceConfig.cpp
+	"MaxInterfaceConfig.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceConfig.h
+	"MaxInterface.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGame.cpp
+	"MaxInterfaceGame.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGame.h
+	"MaxInterface.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGameIS.cpp
+	"MaxInterfaceGameIS.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGameIS.h
+	"MaxInterfaceGame.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGameMission.cpp
+	"MaxInterfaceGameMission.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGameMission.h
+	"MaxInterfaceGame.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGameMission3D.cpp
+	"MaxInterfaceGameMission3D.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGameMission3D.h
+	"MaxInterfaceGame.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGameSong.cpp
+	"MaxInterfaceGameSong.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceGameSong.h
+	"MaxInterfaceGame.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceStep.cpp
+	"MaxInterfaceStep.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceStep.h
+	"MaxInterface.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceStepEval.cpp
+	"MaxInterfaceStepEval.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceStepEval.h
+	"MaxInterface.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceUnlocker.cpp
+	"MaxInterfaceUnlocker.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceUnlocker.h
+	"MaxInterface.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceUSB.cpp
+	"MaxInterfaceUSB.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceUSB.h
+	"MaxInterface.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceWelcome.cpp
+	"MaxInterfaceWelcome.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxInterfaceWelcome.h
+	"MaxInterface.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxLua.cpp
+	"MaxLua.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxLuaCommonMethods.cpp
+	"MaxLuaCommonMethods.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxLuaCommonMethods.h
+	"basutil.h"
+	"cmnpiu.h"
+	"MaxLua.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxMenu.cpp
+	"MaxMenu.h"
+	"AccReader.h"
+	"basutil.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxScreen_3.cpp
+	"MaxScreen.h"
+	"AccReader.h"
+	"basutil.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MovieStream2.cpp
+	"basutil.h"
+	"cmnpiu.h"
+	"MovieStream2.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/OGLSprite.cpp
+	"stdafx.h"
+	"cmnpiu.h"
+	"basutil.h"
+	"OGLSprite.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/OperStr.cpp
+	"stdafx.h"
+	"OperStr.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/OperStr.h
+	"StdString.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/PlayerStatus.cpp
+	"PlayerStatus.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/PlayerStatus.h
+	"stdafx.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SoundChannel.cpp
+	"SoundChannel.h"
+	"basutil.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SoundRes.cpp
+	"SoundRes.h"
+	"cmnpiu.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SoundStream.cpp
+	"SoundStream.h"
+	"basutil.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SoundSys.cpp
+	"SoundSys.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/SpriteRes.cpp
+	"SpriteRes.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/stdafx.cpp
+	"stdafx.h"
+	"libc_max_common.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/StdInput.cpp
+	"StdInput.h"
+
+1445442971 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/VideoRes.cpp
+	"VideoRes.h"
+	"cmnpiu.h"
+
+1459946057 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/basutil.cpp
+	"basutil.h"
+	"cmnpiu.h"
+	"libc_max_common.h"
+	"pcre.h"
+	"regex.h"
+
+1469826616 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxScreen.cpp
+	"MaxScreen.h"
+	"AccReader.h"
+	"basutil.h"
+	"cmnpiu.h"
+
+1459949064 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/MaxScreen_2.cpp
+	"MaxScreen.h"
+	"cmnpiu.h"
+	"basutil.h"
+
+1459953905 source:/media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/piu.cpp
+	"piu.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/piu.h
+	"stdafx.h"
+	"cmnpiu.h"
+	"cmnpiu_ex.h"
+	"MaxInterface.h"
+
+1445442971 /media/Data/piumax2/PIUMaX-CODEB/PIUMaX-2.0/src/cmnpiu_ex.h
+	"stdafx.h"
+	"GLFont.h"
+

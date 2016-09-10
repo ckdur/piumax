@@ -1,0 +1,244 @@
+Sinopsis: 
+
+Número de misiones: 
+Número de eventos: 
+Escenas (aprox): 
+
+// *******************************************************************************
+// AQUI COMIENZA EL CAPÍTULO
+// *******************************************************************************
+
+[Capitulo 2]
+
+/*La escena comieza desde la casa de Aika*/
+
+Aika_narrador: Ja! Seguro me has visto antes. Mi nombre es Aika y soy una pumper de aqui, onohedera.
+Tengo 16 años y aun me falta mucho para cumplir los 17. 
+Mi nivel siempre por alguna razon va a la par con el principiante de [Usui], pero llevo mas tiempo jugando.
+Eso es porque hubo un tiempo durante no jugue.
+Quiero ser la mejor pumper de todo el mundo, pero primero, debo superar a mi hermana.
+
+[Escenas sobre su hermana]
+
+Siempre ella se ha destacado por ser mejor que yo en casi cualquier cosa.
+Me daba alegria que en un principio yo le ganaba... almenos en algo.
+
+Mission_open:
+20 // Entrenamiento double-performance
+21 // Aika, el demonio de pelo castano
+22 // Trato!
+23 // Ver mas alla de lo que los ojos
+24 // Mision superada?
+25 // Yui, la hermana perfecta
+Mission_open
+
+{
+Mission 20: Entrenamiento double-performance / Double-performance training
+Song: Sexy Vampire - 
+Level_Basic: 1
+Level_Normal: 5
+Level_Epic: 11
+Objective: Supera hasta el final de la canción / Clear until the end of song
+Break: No
+DefaultSpeedBasic: 1
+DefaultSpeedNormal: 2
+DefaultSpeedEpic: 2
+}
+
+Guide: Hola! Te voy a enseñar sobre el doble-performance
+No te asustes solo porque dice "double", pero si es cierto que necesitas dos jugadores a la vez para poder superar. 
+
+Las flechas rojas deben pisarse por el primer jugador e inicialmente siempre se encuentra al principio a la izquierda del panel.
+
+Las flechas azules deben pisarse por el segundo jugador a la derecha del panel.
+
+Ten en cuenta que a medida de que el step pase, puede que obligue a los dos jugadores cambiar el lado donde jugaban. Traten de no chocarsen!
+
+{
+Mission 21: Aika, el demonio de pelo castano / Aika, the brown-hair demon
+Song: Hayuga - Seo Taiji
+Level_Basic: 2
+Level_Normal: 9
+Level_Epic: 14
+Objective: No pises ninguna mina / Don't step any mine
+Break: No
+DefaultSpeedBasic: 1
+DefaultSpeedNormal: 2
+DefaultSpeedEpic: 2
+}
+
+Random_pumper_1: Oye! Chiquita
+Random_pumper_2: Si tú! Chiquita! Ven! Ven aca!
+
+[Aika prefiere ignorarlos y seguir jugando]
+[El Random_pumper_1 golpea la máquina de baile]
+
+Aika: Ehh? Tienes agallas para golpearla cuando estoy jugando...
+Random_pumper_2: Que dices hermosa? Pero si el moverse aqui es sólo cosa de hombres!
+Random_pumper_1: Las señoritas hermosas como tu deberian estar jugando DDR o algo mas sencillo
+Random_pumper_2: Si, si! O quizás solo pisar las arañitas en el juego de al lado!
+
+[Ambos rien a carcajadas, Aika sostiene la misma expresión desafiante]
+
+Aika: Es todo lo que tienes que decir? Idiota.
+
+[Random_pumper_2 se alza en tono desafiante]
+Random_pumper_2: Ahh? Que has dicho?
+Aika: He dicho que lo que tienes para alardear no lo tienes para bailar pump, cucarrón.
+
+Random_pumper_2: QUE HAS DICHO?!
+[Ambos acorralan a Aika en una esquina]
+Random_pumper_2: Probarás un poco acerca de mi habilidad para estallar cosas! Hermosa. Preparate...
+
+{On failure}
+[Ambos rien a carcajadas]
+Random_pumper_2: Ahora si, hermosa... en que ibamos?
+
+{On sucess}
+[Ambos quedan totalmente paralizados]
+Random_pumper_2: Mo... mo... monstruo!!!!!
+[Ambos corren como si el diablo los persiguiera]
+[Alguien en la esquina aplaude lentamente]
+
+Yui: Vaya, hermana. Pensé que tenia que ir a ayudarte con esos matones.
+Aika: Yo me se cuidar sola... Yui.
+
+{
+Mission 22: Trato! / Deal!
+Song: Mr. Larpus - Banya
+Level_Basic: 2
+Level_Normal: 9
+Level_Epic: 14
+Objective: Obten un combo total de 0 / Get a total combo of 0.
+Break: Yes
+DefaultSpeedBasic: 1
+DefaultSpeedNormal: 2
+DefaultSpeedEpic: 2
+}
+
+Aika: Estoy cansada de que me sigas a todos lados, que incluso aqui no puedo librarme de ti? Yui.
+Yui: Vaya, vaya. Mi querida hermana menor no tiene un poco de cariño hacia su tierna y mas bonita hermana mayor?
+Aika: Ya basta! Quiero que te marches
+Yui: Oh. Te he estado observando, Aika. No soy muy diestra con este tema de la pump y esas cosas, pero he jugado un poco con tu editor.
+Aika: Has entrado a mi cuenta sin mi permiso?!
+Yui: No te angusties! Sólo queria hacer algo diferente. Este es mi primer step, pero trata de sacarle un combo 0 y me marcharé tranquila.
+Aika: Trato!
+
+{On failure}
+Yui: Vaya. Y eso que este es mi primer step.
+
+{On sucess}
+Yui: Vaya, no pensé que pudieras.
+
+{
+Mission 23: Ver mas alla de lo que los ojos / See more further than the eyes
+Song: Pumping Up - Banya
+Level_Basic: 2
+Level_Normal: 7
+Level_Epic: 12
+Objective: Obten un combo de [Change] / Get a total combo of [Change]
+Break: Yes
+DefaultSpeedBasic: 1
+DefaultSpeedNormal: 2
+DefaultSpeedEpic: 3
+MissionComment: La mision debe tener skin de ojos de canon-D
+}
+
+Yui: Jajaja! Sabes? Hermana, algo que siempre me he dado cuenta de este juego, es que siempre debes mirar las flechas.
+Aika: Es como obvio, no?
+Yui: Pero no resulta molesto cuando algunas personas se atraviesan en la pantalla?
+[Aika mira un poco al suelo, luego mira a Yui a los ojos]
+Aika: Para mi ya no es un problema. Mira y aprende.
+
+{On failure}
+Aika: No estaba preparada! Espera lo hago de nuevo!
+
+{On sucess}
+Aika: Para mi no es necesario ver a la pantalla precisamente, solo es recordar patrones...
+Yui: Increible.
+
+{
+Mission 24: Mision superada? / Cleared mission?
+Song: Mission possible
+Level_Basic: 3
+Level_Normal: 9
+Level_Epic: 18
+Objective: Supera hasta el final de la canción / Clear until the end of song
+Break: Yes
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 3
+DefaultSpeedEpic: 4
+}
+
+Yui: Los steps son aburridos... no?
+[Aika mira con desprecio a Yui]
+Aika: No lo son!
+Yui: Pues para mi si lo son! Solo es pisar secuencias. Quiero que hagas algo más interesante.
+[Yui se queda pensando un poco]
+Yui: No seria mejor que la pump tuviera conciencia propia?
+Aika: Pues, creo que en un pasado, la pump era un poco más viva, pero sus steps no demostraban mucha dificultad.
+[Aika busca una cancion en la pump]
+Aika: Canciones con steps como ésta, eran cosas que no solo se tenian que presionar las flechas.
+
+{On failure}
+Yui: Vamos! que solo es presionar steps
+
+{On sucess}
+Yui: Interesante! No puedo creer que incluso se puedan dar vueltas y todo!
+Aika: Todo depende de quien haga los steps, hermana.
+
+{
+Mission 25: Yui, la hermana perfecta / Yui, the perfect sister
+Song: Be mine - Infinite
+Level_Basic: 3
+Level_Normal: 8
+Level_Epic: 16
+Objective: X / X
+ObjectiveHidden: Pierde el encuentro / Lose the match
+Break: No
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 3
+DefaultSpeedEpic: 4
+MissionComment: Esta mision es un sub-boss. Yui coge todo en perfect, la unica opcion es empatar o perder.
+}
+
+Yui: Aika! Juguemos juntas!
+[Aika hace un gesto extraño]
+Aika: Pero... ud no juega esto... Yui.
+Yui: Jajaja! Luego de nuestra larga conversación, creo que me convenciste a jugar pump.
+Aika: No te quieras pasar de lista, pero... para jugar necesitas...
+[Yui saca su identificador del bolsillo y lo exibe a Aika]
+Yui: Si, lo sé. Necesito un identificador que me haga pumper para poder jugar en máquinas profesionales como ésta.
+
+[Tiempo detenido]
+Aika_narrador: Como rayos? Hace cuanto tiene ese identificador?
+[Enfocar el numero de nivel de Yui]
+Ella tiene nivel 6! Cuando ha entrenado tanto? Esto defintivamente tiene que ser un truco.
+No puedo permitir que la "perfecta" de mi hermana también me gane en lo quizas único que le puedo ganar de todo.
+[Tiempo coninua]
+
+Aika: Veo que has avanzado sin que me de cuenta, hermana. Te propongo algo. Yo ahora mismo soy Nivel 7, veo que tu eres 6. Si te crees que sin entrenar puedes llegar tan alto, porque no compites frente a mi?
+Yui: Puedo competir contigo? jaja! No me digas que aun te encuentras traumada porque yo supuestamente te supere en todo... o no?
+Aika: DEJATE DE JUEGOS! No permitiré que me ganes!
+
+{On failure}
+Yui: Jajaja! Parece que es verdad, eres mejor que yo almenos en este juego.
+Aika: No es justo! Tenemos que volverlo a intentar!
+
+{On sucess}
+[Aika se encuentra totalmente en shock]
+Yui: Vaya, vaya. Que alegria! Ahora soy nivel 7! Mira! Mira! Aika! No te alegras por mi?
+
+Aika_narrador: Como pude ser derrotada? Ella nunca he visto que entrenara tan duro!
+[El identificador de Aika baja a nivel 6]
+
+Yui: Oh... el reto era oficial? Aika. No era mi intención, solo queria...
+Aika: ... divertirme?
+
+[Aika mira sombriamente y muy rayado a Yui]
+Aika: No entiendo cuando ni cómo cogiste tanto nivel, pero ya estoy cansada de que me superes en todo, hermana.
+Yui: Pero, hermana...
+Aika: Ya basta!!! Me iré de Ciudad pump y practicaré en Onohedera, donde se encuentra Rei, el campeón del mundo.
+[Aika llora poco con una expresión desafiante]
+Aika: La proxima vez que nos veamos, hermana, te superaré en todo.
+[Aika abandona el lugar corriendo]

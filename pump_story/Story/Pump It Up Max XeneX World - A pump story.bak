@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<YWRITER5>
+	<PROJECT>
+		<Ver>5</Ver>
+		<Title><![CDATA[Pump It Up Max XeneX World - A pump story]]></Title>
+		<LaTeXHeaderFile><![CDATA[]]></LaTeXHeaderFile>
+		<Desc><![CDATA[]]></Desc>
+		<FieldTitle1><![CDATA[]]></FieldTitle1>
+		<FieldTitle2><![CDATA[]]></FieldTitle2>
+		<FieldTitle3><![CDATA[]]></FieldTitle3>
+		<FieldTitle4><![CDATA[]]></FieldTitle4>
+		<Bio><![CDATA[]]></Bio>
+		<AuthorName><![CDATA[Ckristian Durán]]></AuthorName>
+		<CollabFolder></CollabFolder>
+		<WordTarget>0</WordTarget>
+		<EndFrontMatterChID>0</EndFrontMatterChID>
+		<EndMiddleChID>0</EndMiddleChID>
+		<EndBeginningChID>0</EndBeginningChID>
+		<WordCountStart>0</WordCountStart>
+		<XMLFileVersion>4</XMLFileVersion>
+		<LatexSingleQuotes>0</LatexSingleQuotes>
+		<LatexSuppressChapterTitles>0</LatexSuppressChapterTitles>
+		<LatexSceneDividerStyle>0</LatexSceneDividerStyle>
+		<HtmlSceneDivider></HtmlSceneDivider>
+		<HtmlEncoding></HtmlEncoding>
+		<HtmlUnicode>0</HtmlUnicode>
+		<LastFullBackup>2016-04-30</LastFullBackup>
+		<WordTargetStartDate>1899-12-30</WordTargetStartDate>
+		<WordTargetEndDate>1899-12-30</WordTargetEndDate>
+		<MRUSpecificDate>1899-12-30</MRUSpecificDate>
+		<MRUSpecificTime>00:00</MRUSpecificTime>
+		<LastViewedScID>0</LastViewedScID>
+		<DeadlineDate1>1899-12-30</DeadlineDate1>
+		<DeadlineDate2>1899-12-30</DeadlineDate2>
+		<DeadlineDate3>1899-12-30</DeadlineDate3>
+		<DeadlineDate4>1899-12-30</DeadlineDate4>
+		<DeadlineDate5>1899-12-30</DeadlineDate5>
+		<DeadlineStartDate1>1899-12-30</DeadlineStartDate1>
+		<DeadlineStartDate2>1899-12-30</DeadlineStartDate2>
+		<DeadlineStartDate3>1899-12-30</DeadlineStartDate3>
+		<DeadlineStartDate4>1899-12-30</DeadlineStartDate4>
+		<DeadlineStartDate5>1899-12-30</DeadlineStartDate5>
+	</PROJECT>
+	<LOCATIONS>
+	<LOCATION>
+		<ID>1</ID>
+		<Title><![CDATA[Onohedera]]></Title>
+		<Desc><![CDATA[Primera ciudad, ubicada en el sur del mundo PIU.]]></Desc>
+		<SortOrder>1</SortOrder>
+	</LOCATION>
+	<LOCATION>
+		<ID>2</ID>
+		<Title><![CDATA[Shintopia]]></Title>
+		<Desc><![CDATA[La segunda ciudad, ubicada al Oeste del mundo PIU.
+Brilla con bastante intensidad.]]></Desc>
+		<SortOrder>2</SortOrder>
+	</LOCATION>
+	<LOCATION>
+		<ID>3</ID>
+		<Title><![CDATA[Linberg]]></Title>
+		<Desc><![CDATA[La tercera ciudad, ubicada al Oeste de mundo PIU.
+Da un aire Bizantino.
+La mitad de esta ciudad quedó devastada por la bomba.]]></Desc>
+		<SortOrder>3</SortOrder>
+	</LOCATION>
+	<LOCATION>
+		<ID>4</ID>
+		<Title><![CDATA[Ciudad Pump]]></Title>
+		<Desc><![CDATA[Es la cuarta ciudad, principal, ubicada al norte del mundo PIU.
+Aca se encuentran los 3 clubes principales. Controlan todas las acciones del mundo PIU.]]></Desc>
+		<SortOrder>4</SortOrder>
+		<AKA><![CDATA[Pumpland]]></AKA>
+	</LOCATION>
+	<LOCATION>
+		<ID>5</ID>
+		<Title><![CDATA[Lumia]]></Title>
+		<Desc><![CDATA[Una isla ubicada al sur de Linberg. Esta parcialmente afectada por la explosión. Aca es donde se encuentra Tralf.]]></Desc>
+		<SortOrder>5</SortOrder>
+	</LOCATION>
+	<LOCATION>
+		<ID>6</ID>
+		<Title><![CDATA[Prue Ocean]]></Title>
+		<Desc><![CDATA[Es un oceano, ubicado al Oueste de Shintopia y Onohedera (Y a la derecha y centro del mundo NXA).]]></Desc>
+		<SortOrder>6</SortOrder>
+	</LOCATION>
+	<LOCATION>
+		<ID>7</ID>
+		<Title><![CDATA[Prue]]></Title>
+		<Desc><![CDATA[Es una serie de islas, ubicadas al sur de Shintopia.]]></Desc>
+		<SortOrder>7</SortOrder>
+	</LOCATION>
+	<LOCATION>
+		<ID>8</ID>
+		<Title><![CDATA[Centro de Conocimiento de Onohedera]]></Title>
+		<Desc><![CDATA[Es una base militar ubicada al norte de Onohedera que da acceso a todas las ciudades desde allí. Esta plagado de misiones de Brain Shower. Su jefe es Kei y es el desarrollador de la base como tal.]]></Desc>
+		<SortOrder>8</SortOrder>
+		<AKA><![CDATA[CENCO]]></AKA>
+	</LOCATION>
+	<LOCATION>
+		<ID>9</ID>
+		<Title><![CDATA[Torre Central]]></Title>
+		<Desc><![CDATA[Es la torre ubicada en el centro de Shintopia. La entrada a los pisos superiores se encuentra oculta. Se debe tener todas las llaves de la ciudad para poder entrar a donde se encuentra Yui manejando todo lo de Hidden Parts.]]></Desc>
+		<SortOrder>9</SortOrder>
+	</LOCATION>
+	<LOCATION>
+		<ID>10</ID>
+		<Title><![CDATA[Dominios del palacio (Linberg)]]></Title>
+		<Desc><![CDATA[El palacio y sus dominios se encuentra al este de Linberg, siendo este el objetivo de destrucción por parte de los protagonistas del lanzamiento de la bomba. Parece que algo salió mal y la bomba cayó algunos kilometros más al noreste de esta posición, causando que Ladania y Linberg se vieran afectadas. 
+La orden extrema "New Xenesis" (que era el rebelde en la guerra civil, a ordenes de Mr Dark) lanzo la bomba partiendo desde Ladania. Hikari aún se encontraba adentro, pero logró refugiarse junto con los reyes de esta ciudad (ella era espía). Finalmente Hikari toma el palacio, siendo la que mueve los hilos en Abobination.]]></Desc>
+		<SortOrder>10</SortOrder>
+	</LOCATION>
+	<LOCATION>
+		<ID>11</ID>
+		<Title><![CDATA[Castillo de Mr Dark]]></Title>
+		<Desc><![CDATA[Se encuentra al Norte de Ciudad Pump, siendo aca el lugar donde Mr Dark observaba todo lo que pasaba en la 4 ciudades. Se encuentra lleno de los experimentos, abobinaciones y plaga que Mr Dark desarrolló para el fin de la PIU.]]></Desc>
+		<SortOrder>11</SortOrder>
+	</LOCATION>
+	<LOCATION>
+		<ID>12</ID>
+		<Title><![CDATA[Base naval Infinity]]></Title>
+		<Desc><![CDATA[Ubicado en el centro de las 4 ciudades, este es un lugar en el que se encuentran científicos desarrollando una version alternativa a la PIU que no tenga que ver con Mr Dark. Lastimosamente él obliga que todos trabajen para él, pero ellos en lo más secreto continuan desarrollando.
+Gracias a ellos es que existe el sistema de transporte (Portales, vias rápidas), apropiado por Mr Dark. Aca se descubre el funcionamiento.]]></Desc>
+		<SortOrder>12</SortOrder>
+	</LOCATION>
+	<LOCATION>
+		<ID>13</ID>
+		<Title><![CDATA[Eventia]]></Title>
+		<Desc><![CDATA[Es un sitio de eventos donde se realiza el mundial de PIU cada año. Se encuentra al sur de Ciudad Pump. Mucha gente va a este lugar para ver a los poderosos jugadores, llenarse de merchandising, y son, al final, los jueces de todo el evento.]]></Desc>
+		<SortOrder>13</SortOrder>
+	</LOCATION>
+	<LOCATION>
+		<ID>14</ID>
+		<Title><![CDATA[Gran Teatro]]></Title>
+		<Desc><![CDATA[Es un teatro ubicado al Oeste de Shintopia. Aca ocurren los eventos sincronizados en línea acerca de retos para poder tener Mileage extra, Zapatos, entre otros.]]></Desc>
+		<SortOrder>14</SortOrder>
+	</LOCATION>
+	<LOCATION>
+		<ID>15</ID>
+		<Title><![CDATA[Pistas de Carros]]></Title>
+		<Desc><![CDATA[Shintopia goza de una Pista de Carros de carrera ubicada al suroeste de la ciudad. Aca se realizan muchas carreras, asi como bailes de PIU. Las misiones aca son temáticas a los carros.]]></Desc>
+		<SortOrder>15</SortOrder>
+	</LOCATION>
+	<LOCATION>
+		<ID>16</ID>
+		<Title><![CDATA[Centro del Comercio]]></Title>
+		<Desc><![CDATA[Ubicada al noroeste de Shintopia. Es un centro en el cual hay mucho movimiento de dinero, base económica de la próspera Shintopia. Mr Dark posee el 40% de las acciones, pero la niña tiene el 45%, siendo imposible para Mr Dark poder controlar Shintopia en su totalidad. Igual no afecta los planes dado a que la niña es un personaje neutral.]]></Desc>
+		<SortOrder>16</SortOrder>
+	</LOCATION>
+	<LOCATION>
+		<ID>17</ID>
+		<Title><![CDATA[Palacio del Dinero]]></Title>
+		<Desc><![CDATA[Es el palacio donde vive "la niña", ubicada al norte de Shintopia.
+Es una mansión llena de lujos por doquier.]]></Desc>
+		<SortOrder>17</SortOrder>
+	</LOCATION>
+	</LOCATIONS>
+	<ITEMS>
+	</ITEMS>
+	<CHARACTERS>
+	<CHARACTER>
+		<ID>1</ID>
+		<Title><![CDATA[Usui]]></Title>
+		<Desc><![CDATA[Es un chico ordinario de 17 años. Vivia en su casa (probablemente con sus padres) antes de que el incidente llegara a Onohedera. Su nivel es muy bajo en comparación al de sus amigos con quienes juega. Al final del juego, se dará a conocer de acuerdo al Usuario cual es la profesion que quiere realizar. Usui avanza en nivel dia a dia. El es el elegido por la orden suprema del destino PIU (comandada por el tercer lider de Ciudad Pump) para poder acabar con el orden que Mr Dark quiere imponer. Es un tipo descomplicado, le gustan los retos y superarse cada día. ]]></Desc>
+		<SortOrder>1</SortOrder>
+		<AKA><![CDATA[User]]></AKA>
+		<Bio><![CDATA[Nacido: 03/08]]></Bio>
+		<FullName><![CDATA[Usui Ushido]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>2</ID>
+		<Title><![CDATA[Aika]]></Title>
+		<Desc><![CDATA[Una chica de 17 años. Vivia en Onohedera en una casa con su hermana (sus padres no están vivos) antes del incidente que tuvo con ella. Luego de eso se fue a vivir con su amigo Core en la misma ciudad. Su meta es ser la mejor pumper femenina del mundo, pero antes debe derrotar a su hermana, ya que ella (despues de la influencia de Mr Dark) se convierte en la mejor pumper experta. Aika se convierte en la mano derecha de Usui para poder cumplir su objetivo como elegido. Durante el comienzo de la historia, Aika quiere pisarle los talones a Usui en cuestión de nivel, ya que ella no soporta la idea de que un principiante que comenzó despues que ella, la superen en nivel. Durante toda la historia, este pensamiento de Aika hace que ayude a Usui a cumplir su objetivo. Al final, por mas que diga que odie a Usui (en realidad era envidia), termina enamorada de él. ]]></Desc>
+		<SortOrder>2</SortOrder>
+		<AKA><![CDATA[Ki]]></AKA>
+		<Bio><![CDATA[Fecha de nacimiento: 22/11]]></Bio>
+		<FullName><![CDATA[Aika Tsukimiya]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>3</ID>
+		<Title><![CDATA[Core]]></Title>
+		<Desc><![CDATA[Un chico de 18 años. Luce gafas y se ve como un nerd. Las pocas veces que se quita las gafas (PE: para bañarse o porque se le cayeron) luce como una persona totalmente diferente (y además atractiva). El objetivo de core es ser el mejor guru de la PIU (AKA: Guru = Programador + Stepmaker).]]></Desc>
+		<SortOrder>3</SortOrder>
+		<AKA><![CDATA[Core]]></AKA>
+		<FullName><![CDATA[John Cortes (Secreto)]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>4</ID>
+		<Title><![CDATA[Rei]]></Title>
+		<Desc><![CDATA[Es un hombre de 22 años. Se introdujo en el mundo de la PIU hace mucho tiempo y logró alcanzar buen nivel para participar en el mundial donde Mr Dark planeaba hacer su primer golpe. Es un tipo muy seguro de si mismo y muy hablador. El destino hace que una mujer misteriosa llamada Hikari y el se encuentren en las epocas de aquel mundial. Lastimosamente, cuando el golpe de Mr Dark hizo efecto, Rei sufre una traición de esta persona, obligandolo a no volver a participar en cualquier cosa de PIU, lo cual lo hace un "renegado" de la PIU.
+Pese a todo, busca a Hikari con todas sus fuerzas porque quiere saber respuestas de lo que sucedió, ademas de tenerle fe.]]></Desc>
+		<Notes><![CDATA[Es el reflejo de Diego "Tripi"]]></Notes>
+		<SortOrder>4</SortOrder>
+		<AKA><![CDATA[Rori]]></AKA>
+		<Bio><![CDATA[Fecha de nacimiento: 14/05]]></Bio>
+		<FullName><![CDATA[Rei Ishido]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>5</ID>
+		<Title><![CDATA[Kei]]></Title>
+		<Desc><![CDATA[Compañero de Rei desde antes que se introdujera en la PIU. No juega mucho pero es el anunciante de Rei (algo asi como manager) para poder hacerlo entrar al mundo de la PIU, y al mundial. Se encargaba de hacer la propaganda ya que, para entrar al mundial, se tenia que ser reconocido entre tanta gente. En escenas que se mostrarán en el Cap 6, se muestra como Mr Dark convenció a Kei de traicionar a Rei, ofreciendole grandes sumas de dinero. Le gustan mucho los juegos de pelea y, al no ser tan bueno en la PIU, se dedica a los juegos mentales en el mundo.]]></Desc>
+		<Notes><![CDATA[Es el reflejo de Barbosa (Christian)]]></Notes>
+		<SortOrder>5</SortOrder>
+		<AKA><![CDATA[KK]]></AKA>
+		<FullName><![CDATA[Kei Kalim]]></FullName>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>6</ID>
+		<Title><![CDATA[Hikari]]></Title>
+		<Desc><![CDATA[Es una diseñadora gurú que se la pasaba bastante de su tiempo encerrada en su almacen realizando los distintos diseños para gabinetes de PIU y otras imagenes para proyectos que no tuvieran que ver con la linea de Pump sacada por Mr Dark (Esto incluye infinity, PIUMaX y otros SM). Siempre ha querido participar en algún mundial por su excelsa habilidad, pero su posición amarillista de las cosas hace que no sea asi, causando repudio y odio proviniento de los "puristas" de los clubes aledaños (Como Darks y ThunderStep). Ella se pone muy contenta al saber que su viejo amigo, Tralf, se salió de los "Cerdos" para participar junto a ella en un mundial y mas encima tener un Speeder de su lado, que es Rei. Hikari se enamora a primera vista luego de verlo y comienza a molestarlo varias veces, siendo ella la guia al Cap 3 en la Ciudad Pump.
+Mr Dark amenaza a Hikari robandole su sueño de poder ser una diseñadora de algun proyecto de PIU oficial, destruyendo bastantes de sus obras y haciendo que, gente para la cual había trabajado, se volviera en contra de ella. Le pide entonces que traicione a Rei, colocando en su ID algun tipo de virus para poder emular un expolit que hace quedar a Rei como si hubiese hecho trampa. Esto hace que Rei no pueda volver. Hikari se arrepiente y como ultima instancia, logra usar este mismo expolit para poderle devolver la licencia y nivel que Rei llevaba en ese entonces.]]></Desc>
+		<SortOrder>6</SortOrder>
+		<AKA><![CDATA[Hiki]]></AKA>
+		<FullName><![CDATA[Hikari vi Swiss]]></FullName>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>7</ID>
+		<Title><![CDATA[Tralf]]></Title>
+		<Desc><![CDATA[Es el mejor Stepmaker del mundo. Muy codiciado por los 3 clubes principales de la PIU. Al principio fue levantado y soportado por CeilPIU, y fue allí donde aprendió todos los trucos para Stepmaking.
+Se une luego a ThunderStep ya que Kurohige le ofreció un alto rango en el club, pudiendo asi profundizar más en el tema de los Steps.
+Sus experimentos eran benignos, y tenía un talento excelso para hacer "Pasos con Sentimientos".
+Mr Dark pensó en una forma de poder usar ese talento para sus fines, ya que necesitaba una lógica para poder realizar las abobinaciones que lo ayudarían a hacer mas enfermizo el proyecto PIU de él. Forsozamente, aprovechando la derrota de Rei, obliga a Tralf a trabajar para el, con la amenaza de que, si no lo hacia, haria que Rei no volviera a tocar un tapete por el resto de su vida, ademas de amenazarlo también de borrar todos los archivos de Steps que haya fabricado. Tralf ya le había cogido cariño a Rei y vió que fue el único que pudo entender los sentimientos de las flechas cuando bailaba. El no aceptar significaria una pérdida, mas alla de no volver a Stepmakear. Tralf a lo último se encuentra en la ciudad devastada de Lumia, al sur de Linberg, donde permanece preso de sus pasos.]]></Desc>
+		<SortOrder>7</SortOrder>
+		<AKA><![CDATA[Tralf]]></AKA>
+		<FullName><![CDATA[Tru-Aoleneider Fölosus]]></FullName>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>8</ID>
+		<Title><![CDATA[El ángel]]></Title>
+		<Desc><![CDATA[Es la única deidad terrestre de la PIU, aunque nadie lo sabe. Puede tomar la forma de Ángel (chibi) o de una persona normal. Se ha presentado a si mismo como el Lider de uno de los 3 clubes principales de PIU "CeilPIU". Su misión por la cual fue bajado de las nubes, es para restaurar el equilibrio de la PIU, cuyo problema fue causado cuando Mr Dark le ocurrió la "Conversión" (Explicado en el Cap 6), en el cual se profetizó que la PIU como tal se iba a acabar. Para completar este fin, debe detener a Mr Dark sin "tocarlo" (es decir, sin intervenir), razon por la cual pide ayuda a Usui, ya que se había profetizado que el es el elegido.
+Su poder principal es llamado "SMA"]]></Desc>
+		<Notes><![CDATA[Es el reflejo de Aldo Fregoso]]></Notes>
+		<SortOrder>8</SortOrder>
+		<AKA><![CDATA[YMY]]></AKA>
+		<FullName><![CDATA[Yung Jum Mum Yulium (Nombre de Dios)]]></FullName>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>9</ID>
+		<Title><![CDATA[Mr Dark]]></Title>
+		<Desc><![CDATA[Es un hombre de mas o menos 280 años. Cuando tenía 17 logró desarrollar su primer motor de PIU completo, lo cual daba al mundo antiguo (Llamado mundo del Ritmo) una nueva forma de bailar que impactó de una forma increible, a tal punto de que todas las ciudades lo usaban, llegando a llamarse entonces "Mundo de PIU". A sus 34 fue "convertido" por un demonio para poder destruir el mundo de la PIU que creó, prometiendole riquiezas y vida eterna. Mr Dark aceptó y quedó viviendo para siempre con la apariencia de 34 años. Tiene piel gris y hará todo en su poder para lograr su objetivo. En todo el tiempo que transcurrió no había podido realizar el plan, ya que el mundo de la PIU tenia bastante apogeo en sus anteriores días, siendo imposible destruirlo para solo un humano (Asi fuese su creador). Poco a poco se introdujeron las cosas básicas, como las maquinas de la serie actual (1st to Prime) y su modo de poder jugar en ranking (para crear discordia) y mundiales (para crear competencia), haciendo que el mundo PIU poco a poco se demacrara para "poder ser el mejor".]]></Desc>
+		<Notes><![CDATA[Es el reflejo de Macnom y sus estupidas desiciones.
+Se puede denominar como el "Jesus" que separó las epocas entre el mundo del ritmo (Antes de Macnom) y despues en el mundo PIU (Despues de Macnom)]]></Notes>
+		<SortOrder>9</SortOrder>
+		<AKA><![CDATA[Mr Dark]]></AKA>
+		<FullName><![CDATA[Equil Macnom (Secreto)]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>10</ID>
+		<Title><![CDATA[Aoi]]></Title>
+		<Desc><![CDATA[Es el rival de Usui desde que comenzaron en el mundo de la PIU. Al principio se llevaron bien, pero los avances rápidos de Usui en la PIU hacian celar a Aoi, haciendo que el resto del grupo lo ignorara en parte. En el primer capítulo promete derrotarlo algún dia, atrayendo la atención de Mr Dark.
+Es un rival duro siendo el pupilo de Mr Dark, y siempre aparece en la historia bloqueando oportunidades importantes en las que el club Revenge pudiera hacer algo.
+Finalmente se derrota en el castillo de Mr Dark, lograndolo salvar.]]></Desc>
+		<SortOrder>10</SortOrder>
+		<AKA><![CDATA[AO]]></AKA>
+		<FullName><![CDATA[Aoi Uchija]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>11</ID>
+		<Title><![CDATA[La niña]]></Title>
+		<Desc><![CDATA[La persona más rica de toda la historia de la PIU (Aun más que la fortuna de Mr Dark). Aparenta y dice tener 15 años. Es una persona neutral, pero le gustan las extravagancias y los lujos. Baila Pump en excepcionales modos, en casi cualquier dificultad y con mucha elegancia, siendo la favorita en Freestyle de todo mundo PIU. Su fortuna se encuentra hecha sumada por su popularidad y la herencia de su Padre, el "Centro del Comercio".]]></Desc>
+		<Notes><![CDATA[Es el reflejo de Lina]]></Notes>
+		<SortOrder>11</SortOrder>
+		<AKA><![CDATA[GIRL]]></AKA>
+		<FullName><![CDATA[Francisca di DetriCos]]></FullName>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>12</ID>
+		<Title><![CDATA[Yui]]></Title>
+		<Desc><![CDATA[Es la hermana mayor de Aika, y no le interesaba para nada la PIU, hasta que vio que con este podia ganar popularidad y riquezas (inspirada por La niña).
+Es la inventora de Hidden Parts, capaz de coger flechas que solo ella ve y son admisibles en el mundo de PIU (siempre y cuando dieran indicio de que son visibles).
+Aika quiere derrotar a su hermana, puesto a lo que pasó hace mucho tiempo, de opacar su sueño de ser la mejor Pumper femenina.]]></Desc>
+		<SortOrder>12</SortOrder>
+		<AKA><![CDATA[Yui]]></AKA>
+		<FullName><![CDATA[Yui Tsukimiya]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>13</ID>
+		<Title><![CDATA[Nikita]]></Title>
+		<Desc><![CDATA[Es un personaje que aparece dos veces en la Historia. Es gordo pero mueve sus pies demasiado rápido. Se rumora que es él quien creo el sistema de los zapatos.]]></Desc>
+		<Notes><![CDATA[Es la interpretación de un Pumper al que le dicen "El patas"]]></Notes>
+		<SortOrder>13</SortOrder>
+		<AKA><![CDATA[Nikita]]></AKA>
+		<FullName><![CDATA[Nikita]]></FullName>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>14</ID>
+		<Title><![CDATA[Kimura]]></Title>
+		<Desc><![CDATA[Es el lider del club rebelde "Brillantina" en la ciudad de Shintopia. Al comienzo era un tipo joven que tenia un buen nivel y aspiraba a participar en el torneo mundial. Luego de ver lo que pasó con Rei, decidió hacer su propio club.]]></Desc>
+		<SortOrder>14</SortOrder>
+		<AKA><![CDATA[Kim]]></AKA>
+		<FullName><![CDATA[Kim Shaloom]]></FullName>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>15</ID>
+		<Title><![CDATA[Kurohige]]></Title>
+		<Desc><![CDATA[Es el mejor pumper que haya existido en todo mundo PIU. Su nivel y destreza son excepcionales. Lidera el club más poderoso llamado ThunderStep.
+Su lema es sencillo. "Entrenar para ser mejor". Su completa sede en Ciudad Pump es un campo gigante de entrenamiento de PIU, enseñando a lo largo de su trayecto tecnicas muy avanzadas para coger las flechas de grán dificultad. Es alto y fornido.
+No es influenciado por Mr Dark, dado a su gran nivel de baile. Para él "Siempre y cuando haya una máquina donde bailar, el resto no me importa".
+Se muestra preocupado por haberle ganado Rei a pocos dias del mundial.]]></Desc>
+		<Notes><![CDATA[Es el reflejo de Guillermo.]]></Notes>
+		<SortOrder>15</SortOrder>
+		<AKA><![CDATA[Kuro]]></AKA>
+		<Bio><![CDATA[Fecha de nacimiento: 2 de julio]]></Bio>
+		<FullName><![CDATA[Kurohige Mashita]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>16</ID>
+		<Title><![CDATA[Vendedor pumper]]></Title>
+		<Desc><![CDATA[Es un vendedor pumper. Quizas da la casualidad de que todos lucen exactamente igual (Portan mismo uniforme), pero da la impresión que es la misma persona.
+Usualmente se para en las máquinas vendiendo items o promocionando sus pasos (en los cuales inician misiones).]]></Desc>
+		<SortOrder>16</SortOrder>
+		<AKA><![CDATA[Vendedor]]></AKA>
+		<FullName><![CDATA[Vendedor pumper multifasético?]]></FullName>
+	</CHARACTER>
+	</CHARACTERS>
+	<PROJECTNOTES>
+	</PROJECTNOTES>
+	<PROJECTVARS>
+	</PROJECTVARS>
+	<PROJECTEXPS>
+	</PROJECTEXPS>
+	<PROJECTBOOKS>
+	</PROJECTBOOKS>
+	<PROJECTPARTS>
+	</PROJECTPARTS>
+	<SCENES>
+	<SCENE>
+		<ID>1</ID>
+		<Title><![CDATA[La introducción]]></Title>
+		<Notes><![CDATA[En esta escena no se incluyen muchos detalles de la historia. Solo tutoriales.]]></Notes>
+		<Outcome><![CDATA[Rei desafia a Usui con dolor de estomago.]]></Outcome>
+		<Goal><![CDATA[Mostrar tutoriales de como funciona el modo historia.]]></Goal>
+		<Conflict><![CDATA[Rei llega.]]></Conflict>
+		<RTFFile><![CDATA[RTF_00002.rtf]]></RTFFile>
+		<BelongsToChID>1</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<AppendToPrev>-1</AppendToPrev>
+		<Status>3</Status>
+		<WordCount>2672</WordCount>
+		<LetterCount>15628</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+			<CharID>4</CharID>
+		</Characters>
+		<Locations>
+			<LocID>1</LocID>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>2</ID>
+		<Title><![CDATA[Prólogo]]></Title>
+		<Desc><![CDATA[Aca se encuentra el sueño que tuvo Usui que profetaría su destino.]]></Desc>
+		<RTFFile><![CDATA[RTF_00003.rtf]]></RTFFile>
+		<BelongsToChID>1</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>3</Status>
+		<WordCount>428</WordCount>
+		<LetterCount>2418</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>3</ID>
+		<Title><![CDATA[Compartir con amigos]]></Title>
+		<Outcome><![CDATA[Terminar de entrenar]]></Outcome>
+		<Goal><![CDATA[Mostrar al jugador los personajes principales.]]></Goal>
+		<Conflict><![CDATA[Aoi llega y muestra su clasica aura desafiante.]]></Conflict>
+		<RTFFile><![CDATA[RTF_00004.rtf]]></RTFFile>
+		<BelongsToChID>1</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<AppendToPrev>-1</AppendToPrev>
+		<Status>3</Status>
+		<WordCount>1210</WordCount>
+		<LetterCount>7035</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+			<CharID>2</CharID>
+			<CharID>3</CharID>
+			<CharID>4</CharID>
+			<CharID>10</CharID>
+		</Characters>
+		<Locations>
+			<LocID>1</LocID>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>4</ID>
+		<Title><![CDATA[Mr Dark Aparece]]></Title>
+		<Outcome><![CDATA[Mr Dark hace de las suyas, sin ser posible que se haga algo al respecto.]]></Outcome>
+		<Goal><![CDATA[Mostrar al Villano]]></Goal>
+		<Conflict><![CDATA[Mr Dark llega a quitar la PIU de Onohedera.]]></Conflict>
+		<RTFFile><![CDATA[RTF_00005.rtf]]></RTFFile>
+		<BelongsToChID>1</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>3</Status>
+		<WordCount>1082</WordCount>
+		<LetterCount>6125</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+			<CharID>2</CharID>
+			<CharID>3</CharID>
+			<CharID>4</CharID>
+			<CharID>9</CharID>
+			<CharID>10</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>5</ID>
+		<Title><![CDATA[La hermana de Aika]]></Title>
+		<Outcome><![CDATA[Yui le gana a Aika]]></Outcome>
+		<Goal><![CDATA[Presentar el trauma de Aika]]></Goal>
+		<Conflict><![CDATA[Yui es mejor que Aika en todo. En lo único que ella era buena, Yui se lo arrebató.]]></Conflict>
+		<RTFFile><![CDATA[RTF_00006.rtf]]></RTFFile>
+		<BelongsToChID>2</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>2</Status>
+		<WordCount>1526</WordCount>
+		<LetterCount>8985</LetterCount>
+		<Characters>
+			<CharID>2</CharID>
+			<CharID>12</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>6</ID>
+		<Title><![CDATA[Aspirante al mundial.]]></Title>
+		<RTFFile><![CDATA[RTF_00007.rtf]]></RTFFile>
+		<BelongsToChID>3</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>2</Status>
+		<WordCount>1258</WordCount>
+		<LetterCount>7231</LetterCount>
+		<Characters>
+			<CharID>4</CharID>
+			<CharID>5</CharID>
+			<CharID>13</CharID>
+			<CharID>14</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>7</ID>
+		<Title><![CDATA[Tralf, el stepmaker!]]></Title>
+		<RTFFile><![CDATA[RTF_00008.rtf]]></RTFFile>
+		<BelongsToChID>3</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>2</Status>
+		<WordCount>5649</WordCount>
+		<LetterCount>33421</LetterCount>
+		<Characters>
+			<CharID>4</CharID>
+			<CharID>7</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>8</ID>
+		<Title><![CDATA[Hikari]]></Title>
+		<Desc><![CDATA[Aca se encuentra lo que sucedió despues de conocer a Hikari.]]></Desc>
+		<RTFFile><![CDATA[RTF_00009.rtf]]></RTFFile>
+		<BelongsToChID>3</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>5047</WordCount>
+		<LetterCount>29933</LetterCount>
+		<Characters>
+			<CharID>4</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>9</ID>
+		<Title><![CDATA[El dia antes del torneo.]]></Title>
+		<RTFFile><![CDATA[RTF_00010.rtf]]></RTFFile>
+		<BelongsToChID>3</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>618</WordCount>
+		<LetterCount>3650</LetterCount>
+		<Characters>
+			<CharID>4</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	</SCENES>
+	<CHAPTERS>
+	<CHAPTER>
+		<ID>1</ID>
+		<Title><![CDATA[Capítulo 1]]></Title>
+		<Desc><![CDATA[Aqui es donde se da la bienvenida al jugador. 
+En el capítulo 1 es donde todo comienza. Se presenta a [Usui] como personaje principal. Se presenta ademas a [Aoi] como rival, a Rei como el experto, a Aika como la mujer, a Core como el guru, y a Mr Dark como villano. Se desarrolla en Onohedera justo antes de que Mr. Dark comenzara a invadir la ciudad. No se conoce aún las intenciones. Rei conoce algo, pero no se atreve a decir nada, solo dice que deben luchar contra él.]]></Desc>
+		<SortOrder>1</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>2</ScID>
+			<ScID>1</ScID>
+			<ScID>3</ScID>
+			<ScID>4</ScID>
+		</Scenes>
+	</CHAPTER>
+	<CHAPTER>
+		<ID>2</ID>
+		<Title><![CDATA[Capítulo 2]]></Title>
+		<Desc><![CDATA[En el capítulo 2 se muestra una breve historia acerca de Aika y Yui, su hermana. Yui ha sido una mujer perfecta en todo lo que hace. Se relata cuando Yui recién comenzó en el mundo de la PIU por influencia de Mr Dark (aunque este hecho no se mencione).]]></Desc>
+		<SortOrder>2</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>5</ScID>
+		</Scenes>
+	</CHAPTER>
+	<CHAPTER>
+		<ID>3</ID>
+		<Title><![CDATA[Capítulo 3]]></Title>
+		<Desc><![CDATA[En el capítulo 3 muestra el primer viaje que hizo Rei y Kei a Ciudad Pump para poder competir en los 3er juegos mundiales de PIU. En este momento fue cuando comenzó a circular por primera vez el sistema de niveles propuesto por Andamiro. En este capítulo muestra a Ciudad Pump como la ciudad más activa en lo que a PIU se refiere, una ciudad alegre, algo rara y muy profundizada en el tema. Durante su paseo para alcanzar el nivel requerido para participar, conocen a Tralf, un sub-lider del segundo club lider, ThunderStep, y StepMaker avanzado. Se procede a explicar la estructura de los clubes principales y se menciona a Mr Dark como alguien que no ha hecho nada aún. Mencionan al lider de ThunderStep como alguien que quiere ser el número uno gracias a su gran poder y nivel. Asi mismo conocen a Hikari, una Diseñadora que ayudará al propósito de Rei, ya que ella también quiere ser conocida como la mejor diseñadora. Es así entonces que consiguen un equipo suficiente para poder efectuar la inscripción al torneo mundial. 
+En medio de todos los viajes en esta ciudad, Rei y Hikari se conocen más. Desde el comienzo de éste capítulo, a Rei le dan flashbacks acerca de lo que puede ser un desastre en base a un sueño que tuvo ya hace mucho tiempo, temiendo que la PIU pueda ser destruida. Durante cierto tiempo en el capítulo se da cuenta que debe, más que subir nivel para poder inscribirse, debe llegar al fondo de todo para poder descansar su mente de esas imágenes. Hikari escucha la historia de Rei y, asi como decidió ayudarlo para llevarlo a la cima, también decide ayudarlo para llegar a saber que sucede. Dicho así, dejan los tramites de inscripción al resto del equipo, para poder investigar que sucede. Tralf apoyó la noción y Kei simplemente dice que debe tener cuidado. Casi al final del capítulo llegaron a un callejón sin salida (no literal) donde no pudieron avanzar más acerca de lo que investigaban, pero finalmente en ese mismo lugar donde no pudieron llegar a más, simplemente concluyeron que no pasaba nada. 
+Por todo lo que hicieron, Rei y Hikari se dieron cuenta que se gustaban y que les agradó el tiempo que pasaron juntos (aunque haya sido una pérdida de tiempo). 
+Ya con el nivel requerido, se procede a entrar al 3er torneo mundial, donde se encuentran con retos muy difíciles para todos. Después de todo, logran llegar a la etapa final, donde Rei tiene que enfrentarse contra el líder de ThunderStep, pero notan que éste mismo no es la misma persona que conocieron al comienzo. Hacen una apuesta de lo más extraña y, como Rei nunca dice "no" a un reto, aceptó. El reto era "El que gane, queda con los puntos de experiencia del otro, y el que pierda, por cosas del sistema, no puede volver a jugar en la PIU (es decir, quedar en 0 exp)". Con poderes fuera de lo normal (primera vez vistos), logran derrotar a Rei y por ende con su carrera como Experto. Kei y Tralf se muestran decepcionados y se alejan de Rei. Hikari, por otro lado, recoje a Rei  y lo lleva a su casa. Triste por verlo así, decide hacer un trato con Mr. Dark (Hikari logró ver quién estaba detras de todo). Le devolvería parte de la experiencia penalizada a cambio de que ella obedeciera fielmente sus órdenes. Hikari sale de CiudadPump por el puerto. Rei se despierta, se le hace extraño que aún tenga nivel de PIU, se va al puerto y huye de CiudadPump.
+Notas: En realidad Kei y Tralf no quisieron alejarse de Rei, pero fueron chantajeados por Mr Dark antes de que comenzara el reto final, cosa que se explicará en el capítulo 7.]]></Desc>
+		<SortOrder>3</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>6</ScID>
+			<ScID>7</ScID>
+			<ScID>8</ScID>
+			<ScID>9</ScID>
+		</Scenes>
+	</CHAPTER>
+	<CHAPTER>
+		<ID>4</ID>
+		<Title><![CDATA[Capítulo 4]]></Title>
+		<Desc><![CDATA[En el capítulo 4 se desarrolla en la ciudad de Onohedera. El recien formado club de "Revenge" liderado por Rei sale a la caza de máquinas modificadas por Mr Dark y poder ganar miembros para su club con el fin de liberar el chantaje hecho por él. Hay algunos que apoyan a Mr Dark ya que pueden ganar mucho dinero, los cuales son llamados "Corruptos", los otros son aquellos que no quisieron obedecer pero son "chantajeados", Y hay pequeños grupos como Revenge que vagan por la ciudad y no han sido alcanzados por la influencia de Mr Dark, los cuales son "Rebeldes". La misión es sencilla:
+- Derrotar a los corruptos
+- Salvar a los chantajeados
+- Reclutar a los rebeldes
+Por ende, tienen que viajar por todas las ciudades del país con el fin de efectuar la misión.
+Al comienzo se controla a Rei y lleva en grupo a [Usui], Aika y Core. Aoi simplemente se aparta de ellos diciendo "subiré de nivel, y derrotaré a [Usui]", aislandose así de Revenge. Ésto le afecta a Core en grán medida, ya que fue él quien presentó a Aoi como un amigo más. El primer pack de misiones será de controlar algunos corruptos que andan distribuyendo las máquinas de Andamiro. En éstas fábricas se encontrarán a muchos chantajeados. El jefe de este primer pack es un evento que hará que el grupo se divida en dos, ya que los corruptos derrotados se aliaron y, por un lado secuestraron a Core, y por otro secuestraron a Rei, quedando Aika y [Usui]. Ambos son de muy bajo nivel y les toca rescatarlos. No pueden hacerlo uno a uno (por miedo a lo que les puedan hacer), por lo que se separan para poder rescatarlos a los dos al tiempo. [Usui] acepta el reto, y Aika con su orgullo en alto dice que traerá primero a Core antes de que él traiga a Rei.
+Dependiendo del Usuario, decidirá si irse con Usui, o irse con Aika. (Terminará jugando con los dos igual, luego que termine con uno)
+Arco de Usui: En éste arco, Usui se encargará de ir a una pequeña conglomeración de Corruptos, los cuales no tienen mucho nivel, por ende para Usui, con su entrenamiento, es capaz de derrotarlos. El segundo jefe es alguien que posee mucho nivel para Usui, pero algo al final le ayudó a ganar, algo que él no es capaz de explicar. Luego de derrotar a éste, abre la celda donde se encuentra Rei.
+Arco de Aika: En éste arco, Aika no correo con tanta suerte. Las misiones son de nivel bajo (todas son trampas), pero contienen efectos. Todas las trampas fueron colocadas por chantajeados. El jefe resulta también ser un chantajeado, y por miedo que le quitaran todos sus dominios sobre la PIU, decidió hacer acopio de las órdenes de Mr Dark. Aika casi logra derrotarlo, pero el enemigo hace una jugada sucia y entonces logra atrapar a Aika junto con Core.
+Sale una propaganda hecha por los medios, que dice algo así:
+"Andamiro! Desde el principio AM ha apoyado sin igual a la PIU y sus patentes han sido distribuidas por todo el mundo! Gracias a la colaboración de su creador e impulsor, "Mr. Dark", estamos ahora viviendo el futuro de lo que será la PIU"
+Mr. Dark hace una aparición en la propaganda:
+"Por favor ayudenos a comenzar un nuevo futuro, nuestro futuro, pumpers!"
+Dicho así, promociona sus nuevas máquinas.
+Usui y Rei aún continuan en Onohedera. Luego de haber salido, se preguntan donde estarán Aika y Core. "Es posible que no hayan podido salir de las trampas" afirma Usui, pero Rei confiado dice que se encuentran con Core, y él encontrará la forma de salir. En este momento aparece Aoi. Les dice a los dos que los van a detener ahi mismo, cosa que despues Usui vuelve a derrotarle. Ofendido, Aoi abandona el lugar. Usui y Rei pronto se enteran que la fábrica de ensamble de las máquinas se encuentra en la parte norte de la ciudad. Pasando por un número de dificultades, llegan a dicha fábrica donde alberga un experimento dirigido por Mc. Queeze, un corrupto de muy alto nivel Guru que consiste en crear flechas imposibles para que el modo de misiones de las máquinas que se fabrican sea imposible de superar. En un intento desesperado, Rei se adelanta a Usui para intentar detener la amenaza, pero simplemente Rei fué derrotado. Usui es obligado de salir de su escondite (si, se encontraba escondido cuando Rei le dijo que se iba a adelantar) a pelear y detener dicha fabrica y su experimento secreto. En una de las misiones se le ve pasar a Hikari como una de las supervisoras del experimento, y sería el Pre-jefe para poder pasar al núcleo principal de la fábrica. En este punto es donde se encuentra Mc. Queeze y hace uso de su experimento fatal, pero por el poder que tenía internamente (si, el inexplicable), logra derrotar a éste enemigo. Victorioso, detiene y destruye la fábrica, saliendo junto con Rei. Al salir se dan cuenta que la influencia de Mr Dark a Onohedera de repente se esfuma, explicando así que, si se destruia la fábrica en una ciudad, se acabaría la influencia de Mr Dark. En ese momento es cuando llegan Core y Aika, diciendo que se pudieron liberar (no antes de que Aika cacheteara a Usui por no ir por su rescate).]]></Desc>
+		<SortOrder>4</SortOrder>
+		<Type>0</Type>
+	</CHAPTER>
+	<CHAPTER>
+		<ID>5</ID>
+		<Title><![CDATA[Capítulo 5]]></Title>
+		<Desc><![CDATA[En el capítulo 5 llegan a la ciudad de Shintopia.]]></Desc>
+		<SortOrder>5</SortOrder>
+		<Type>0</Type>
+	</CHAPTER>
+	<CHAPTER>
+		<ID>6</ID>
+		<Title><![CDATA[Capítulo 6]]></Title>
+		<Desc><![CDATA[En el capítulo 6 la guerra civil en la ciudad de Lindberg parece haber terminado. Antes no se podia ir a aquella ciudad por las revueltas que habían para que Mr Dark no influenciara el lugar.
+Cuando se entra a la ciudad, da un aire Bizantino. Desafortunadamente el otro bando de terroristas de repente ataca la ciudad, haciendo una explosión que aniquila la mitad de la ciudad (Y Ladania en la NXA).
+Las peleas aca son contra espectros, abobinaciones y zombies cuyos problemas darán un paso a pistas clave para poder salvar esta ciudad (lo poco que queda).]]></Desc>
+		<SortOrder>6</SortOrder>
+		<Type>0</Type>
+	</CHAPTER>
+	<CHAPTER>
+		<ID>7</ID>
+		<Title><![CDATA[Capítulo 7]]></Title>
+		<Desc><![CDATA[En el capítulo 7 se logra entrar a Ciudad Pump usando el pasadizo secreto de la Base Naval "Infinity".
+Pasan muchas cosas, se está definiendo el final.]]></Desc>
+		<SortOrder>7</SortOrder>
+		<Type>0</Type>
+	</CHAPTER>
+	</CHAPTERS>
+	<WCLog>
+	<WC>
+		<Date>2015-01-07</Date>
+		<Count>0</Count>
+		<TotalCount>0</TotalCount>
+	</WC>
+	<WC>
+		<Date>2015-01-08</Date>
+		<Count>12170</Count>
+		<TotalCount>12170</TotalCount>
+	</WC>
+	<WC>
+		<Date>2015-01-10</Date>
+		<Count>12170</Count>
+		<TotalCount>12170</TotalCount>
+	</WC>
+	<WC>
+		<Date>2015-01-11</Date>
+		<Count>12170</Count>
+		<TotalCount>12170</TotalCount>
+	</WC>
+	<WC>
+		<Date>2015-02-12</Date>
+		<Count>12687</Count>
+		<TotalCount>12687</TotalCount>
+	</WC>
+	<WC>
+		<Date>2015-02-28</Date>
+		<Count>14680</Count>
+		<TotalCount>14680</TotalCount>
+	</WC>
+	<WC>
+		<Date>2015-03-01</Date>
+		<Count>16518</Count>
+		<TotalCount>16518</TotalCount>
+	</WC>
+	<WC>
+		<Date>2015-03-04</Date>
+		<Count>17517</Count>
+		<TotalCount>17517</TotalCount>
+	</WC>
+	<WC>
+		<Date>2015-03-09</Date>
+		<Count>18333</Count>
+		<TotalCount>18333</TotalCount>
+	</WC>
+	<WC>
+		<Date>2015-03-11</Date>
+		<Count>18333</Count>
+		<TotalCount>18333</TotalCount>
+	</WC>
+	<WC>
+		<Date>2015-03-31</Date>
+		<Count>18321</Count>
+		<TotalCount>18321</TotalCount>
+	</WC>
+	<WC>
+		<Date>2015-07-25</Date>
+		<Count>18872</Count>
+		<TotalCount>18872</TotalCount>
+	</WC>
+	<WC>
+		<Date>2015-07-26</Date>
+		<Count>19490</Count>
+		<TotalCount>19490</TotalCount>
+	</WC>
+	<WC>
+		<Date>2016-02-28</Date>
+		<Count>19490</Count>
+		<TotalCount>19490</TotalCount>
+	</WC>
+	<WC>
+		<Date>2016-04-30</Date>
+		<Count>19490</Count>
+		<TotalCount>19490</TotalCount>
+	</WC>
+	</WCLog>
+</YWRITER5>

@@ -1,0 +1,687 @@
+Sinopsis: 
+
+Número de misiones: 
+Número de eventos: 
+Escenas (aprox): 
+
+// *******************************************************************************
+// AQUI COMIENZA EL CAPÍTULO
+// *******************************************************************************
+
+[Capitulo 3]
+[En un sitio de la última ciudad, Ciudad Pump, se libraba una batalla entre Rei y personas muy poderosas en la PIU]
+
+[Rei se encuentra jugando canciones de muy avanzado nivel, e incluso el aire es tan tenso e irradia tanto poder, que la euforia del publico apenas si hacia que la gente pudiera hablar entre sí]
+
+[Rei gana otro encuentro]
+
+Random_pumper_3: Vamos! Rei, al menos podrias dejar ganar una!
+Rei: Jajaja! El poder! Maestro!
+Kei: Pero igual solo es un reto que te pusieron.
+Rei: Igual no se pueden rechazar, Kei, eso podria bajar el nivel de mi status pumper y no podria ir a participar en el torneo final de triunfadores.
+Kei: [Se rie a carcajadas] en serio crees que podrias ganar ese torneo? Nadie de nosotros incluso ha podido avanzar a terceras rondas, la gente que allí participa prácticamente tiene su set de entrenamiento PIU en su propia casa. Nosotros somos pobres, Rei, solo podemos bailar aqui pese a todo.
+Rei: Ja! Kei, me tienes muy poca fé, mira hasta donde hemos llegado! Aunque estemos en el muelle de Ciudad Pump, aun así nos encontramos en la ciudad donde se celebrará el torneo mundial! Nadie de Onohedera hasta ahora habia podido clasificar!
+Kei: Bueno, tienes razón.
+Rei: Me estoy aburriendo, creo que aqui no hay ningun pumper que pueda desafiarme... verdad?
+
+Mission_open:
+26 // Reto! El pumper con 3 pies
+27 // Reto! Quieres la revancha?
+28 // Reto! A que no puedes con la canción más dificil.
+29 // Reto! Kei se muestra inseguro.
+30 // Reto! Tu batalla campal
+Mission_open
+
+{
+Mission 26: Reto! El pumper con 3 pies / Challenge! The 3-foot pumper
+Song: Another Truth - Novasonic
+Level_Basic: 4
+Level_Normal: 10
+Level_Epic: 17
+Objective: Supera con mas puntaje que tu oponente / Clear with more score than your opponent
+Break: No
+DefaultSpeedBasic: 1
+DefaultSpeedNormal: 2
+DefaultSpeedEpic: 2
+}
+
+Kei (anunciando): Vamos! Vamos! Algún otro que quiera desafiar a nuestro invicto? Está deseando ansiosamente su próximo encuentro.
+Nikita: Yo lo haré! (Voz grave y gruesa)
+
+[Desde tanta multitud se abre paso a un pumper gordo y que claramente tiene zapatos muy grandes]
+
+Nikita: Apostaré si es necesario, pero hasta yo se que mi técnica de 3-pies no es rival ante alguien tan cutre y presume su "poder"
+Rei: Jajaja! Me encanta alguien que cree que puede derrotarme con sus técnicas. Esta bién! Acepto tu reto!
+
+{On failure}
+Nikita: Jajajajajajaja! El invicto ha caido! Pobre iluso si creias vencer mi tecnica de 3-pies.
+
+{On sucess}
+Rei: Parece ser que tu tecnica no es suficiente para vencerme, mi maestro! 
+
+{
+Mission 27: Reto! Quieres la revancha? / Challenge! Do you want the
+Song: Another Truth - Novasonic
+Level_Basic: 4
+Level_Normal: 10
+Level_Epic: 17
+Objective: Supera con mas puntaje que tu oponente / Clear with more score than your opponent
+Break: No
+DefaultSpeedBasic: 1
+DefaultSpeedNormal: 2
+DefaultSpeedEpic: 2
+}
+
+Kei (anunciando): Ya lo han intentado al menos 20 pumpers diferentes! Y ninguno ha podido derrotar a nuestro contrincante! 
+
+[Kei mira a todos lados]
+
+Kei: En serio nadie?
+
+[Todo el mundo comienza a rebirar de la nada, hasta que un niño algo debil sale del publico, con una expresión de miedo pero su espiritu queriendo luchar]
+
+Kimura: Yo... yo quiero la revancha! Rei!!!
+
+[Rei voltea a mirar] 
+
+Rei_narrador: Quien es este mocoso? La verdad nunca recuerdo haberlo visto alguna vez. Que es eso de que quiere la revancha?
+Igual debe ser interesante poder aplastar un mocoso así.
+
+Rei: Dices que quieres la revancha? A poco si pudiste la otra vez!
+
+Kimura: Me da igual! Esto ya no es por las flechas ni el nivel [Se quita la bufanda]
+Es por mi honor.
+
+{On failure}
+Kimura: Es posible que yo.... haya... sido capaz?
+
+{On sucess}
+Rei: ja! Te falta 1 millón de años de entrenamiento para poder derrotarme!
+Kimura: Maldita sea! Yo... yo... volveré!
+
+{
+Mission 28: Reto! A que no puedes con la canción más dificil. / Challenge! you can't do this heavy-difficult song!
+Song: Vacumm - Doinn
+Level_Basic: 7
+Level_Normal: 19
+Level_Epic: 23
+Objective: Supera hasta el final de la canción / Clear until the end of song
+Break: No
+DefaultSpeedBasic: 2.5
+DefaultSpeedNormal: 3
+DefaultSpeedEpic: 3
+}
+
+Kimura: Tu te crees muy machito con tu nivel y todo eso! Pero hasta yo sé que nadie en este lugar puede con esta canción!
+Rei: Que canción?! Lanzala!
+
+[Despues de que Kimura inserta la canción, a Kei se le abren los ojos]
+
+Kei: Ohh... rayos.
+
+[Rapidamente Kei agarra a Rei y lo lleva a una esquina]
+
+Kei: Rei! Maldición!
+Rei: Que ocurre? Porque tanto alboroto? Deberias ser el único quien no deberia alterarse porque alguna canción aparezca de la nada
+Kei: Pero no es una canción, es LA CANCIÓN! No se de donde rayos la habrá sacado, pero esa canción es demasiado dificil y si la pierdes, las consecuencias serán nefastas
+Rei: Cómo es eso?
+Kei: He escuchado rumores. Ésa canción deja las personas practicamente sin ánimo de volver a jugar en su vida. Dicen que el nivel al que figura esa canción fue hackeada de tal forma que para el sistema clasificador te baje todos los niveles de zopetón!
+Rei: Es imposible que puedan hacer eso. Tiene que haber algún truco
+Kei: Pero, si he escuchado de alguien que ha podido superarla.
+Rei: Quien fué?
+Kei: No lo sé, pero de intentarlo tantas pero tantas veces pudo superarla, y al hacerlo, le devolvieron todos sus puntos de experiencia hasta tal punto que se sumaron con los que llevaba, dejandolo en nivel 29.
+
+[Rei piensa un poco, de Rei luego sale una risita]
+
+Rei: Jajaja! Tan fácil es llegar a los niveles altos?! Kei [Se monta en la máquina] Verás mi ascenso a nivel 28 en menos de nada!
+
+{On failure
+FLAG: 
+Level = 1 
+Exp = 0 
+BefExp = Exp
+FlgFail = true}
+
+Kei: Ohh, demonios!! Rei!!! Nooooo!
+
+[Rei queda flotando en un limbo]
+
+Voz_destino: Rei, lo siento, pero no puedo dejar que te derroten aqui por una canción hackeada. Deberás superarla.
+Te recomiendo que la bajes de nivel.
+
+{goto: Mission 28}
+
+{On sucess
+FLAG:
+if FlgFail = true
+Level = Calclvl(Exp)
+Exp = BefExp + Level*1000
+BefExp = nil
+FlgFail = nil
+FlgSuc = true
+else if FlgSuc = false
+Exp = Exp + 2^Level
+FlgSuc = true
+else
+Exp = Exp + Level*100}
+
+Kei: Ohh, mierda, Rei! Eres un infeliz! jajaja!
+
+[Kei abraza alegremente a Rei en un ataque de celebración]
+
+Kei: Como mierda hiciste eso?
+Rei: A saber! 
+
+{
+Mission 29: Reto! Kei se muestra inseguro. / Challenge! Kei shows insecure
+Song: I love you baby - Pandera
+Level_Basic: 3
+Level_Normal: 10
+Level_Epic: 16
+Objective: Obtén todos los corazones / Get all hearts
+Break: No
+DefaultSpeedBasic: 2.5
+DefaultSpeedNormal: 3
+DefaultSpeedEpic: 3
+}
+
+[Rei se queda mirando a todo el mundo presente]
+Rei: Oye, Kei, porque mierda no tienes novia?
+Kei: Jajaja! No todas las mujeres son tan raras como para aceptarme, Rei.
+Rei: Ohh vamos! que la tipa no tiene que ser rara para poder aceptar un tipo como tu!... Bueno, quizas, un poco...
+Kei: Ya quisieras, Rei. Las mujeres desean algo más que solo eso. Quieren a un tipo que las haga sentir bien y que sean todo para ellas...
+Rei: ... y se van con un tipo que ni su nivel ha pasado de 4 y las trata como una mierda! Jajajaja
+
+[Ambos sueltan la carcajada]
+Rei: Pero ya en serio! Detesto verlo con esa cara.
+[Rei coge la muñeca de Kei y lo impulsa al público]
+Vaya y diviertase! 
+
+{On failure}
+Rei: Jajaja! Kei! Puedes ser mas patetico que eso?
+Kei: Lo dudo [U|||-.-]
+
+{On sucess}
+Rei: Ves que solo te faltaba ser un poco más abierto?
+Kei: Jajaja! y vaya golpe que me llevé!
+Rei: Pero eso es la vida!!! Compañero, vivela! 
+
+{
+Mission 30: Reto! Tu batalla / Challenge! Your battle
+Song: Unique - SHK
+Level_Basic: 5
+Level_Normal: 11
+Level_Epic: 18
+Objective: Obten más pociones que minas (o igual) / Get more potions than mines (or equal)
+Break: No
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 3
+DefaultSpeedEpic: 4
+}
+
+[DADADA! DADADADADADA! (Sonido de trompetas)
+Un hombre con gabardina roja entra. En su bolsillo y en la punta de la manga tiene estampado el logo de ThunderStep
+Todo el mundo se aparta del camino y un silencio incómodo penetra toda la habitación]
+
+Tralf: Escuché........ que hay una fiesta en este cutre lugar.
+[Tralf camina un poco dirigiendose hacia Rei]
+Tralf: Ciudad pump no es un lugar... para fiestas.
+[Tralf chasquea los dedos! Inmediatamente algunos secuaces con el logo de ThunderStep agarran a Kei por los brazos. Este se intenta safar, pero es imposible
+Tralf se le acerca]
+Tralf: Es de mala educación disfrutar sin invitar a los altos rangos... es que no somos suficiente?
+[Tralf aparta la mirada de Kei y de nuevo mira hacia la habitación]
+Tralf: La pump es un deporte hermoso! Y aquella hermosura solo puede ser observada por unos pocos elegidos! Aquellos que simplemente viven para ello, sueñan con ello, e incluso piensan todo el tiempo en ello.
+[Tralf señala a Rei]
+Tralf: Pero no para personas que de repente creen que esto es meramente un juego de niños, y creen poder vencer cualquier obstáculo como cualquier baratija de RPG que se les cruza en el camino.
+[Rei sale de su oscuridad de cara]
+Rei: Pero tampoco es para los mediocres que arruinan la hermosura y la diversión que nos proporciona.
+[Tralf se voltea, Rei continua]
+Rei: Ustedes, los altos rangos ya me dan asco! Olvidaron como era la pump cuando solo era jugar y subir cada dia un nivel para solamente realizarse al ver que cada persona podia llegar a más, y más!
+Teniamos antes fiestas donde tantas personas como nosotros podriamos vivir asi y aun no han perdido esa escencia. Pero a gente como ustedes... hay que simplemente hacerlos caer!
+[Tralf se rie a carcajadas]
+Tralf: Tienes idea de a que es lo que te enfrentas? Mocoso? Me contaron simplemente que habia un perro ladrando, pero no pense que ladrara tanto. Yo soy Tralf! 5to al mando del club ThunderStep, club líder a nivel de todo el mundo! Y quien eres tu? Ladrador basura?
+Rei: Soy Rei, de la ciudad de Onohedera. Nivel 28. No tengo club porque no me interesa.
+Tralf: 28 y sin club? Ja! estas acabado! Te desafio a un duelo! Y espero tengas lista la lápida donde entierres la PIU en su vida!
+
+{On failure}
+Tralf: Ja! Si me lo permites, deningraré tu rango de tu ID y simplemente me largaré de este cutre lugar, ya que ni representas el nivel que llevabas.
+
+{On sucess}
+Tralf: Como... ha... sido posible?
+[Tralf se desploma sobre el panel]
+La pump... es... hermosa!
+HE AMADO TU HERMOSURA HASTA EL FINAL! PORQUE ME HACES ESTO?!
+[Rei se le acerca]
+Rei: Porque tu no te diviertes, principe.
+[Tralf mira con ojos abiertos a Rei, luego cabizbajo dice]
+Tralf: Debo admitir mi derrota. Hasta ahora simplemente me he resguardado bajo el título del 5to al mando del mejor club de Ciudad Pump, y simplemente no pude derrotar a un puablerino.
+Honestamente, ya es hora de tener otro rumbo con las cosas.
+Tralf (Narrador): Ionia... has tenido razon todo este tiempo. Lo siento.
+
+Tralf: Tengo un asuntillo que atender, pero ya no pertenezco más a ThunderStep. Desde ahora te seguiré, Rei.
+[Tralf se dirije a sus secuaces]
+Tralf: Avísenlen al líder que no pertenezco más a su club de porqueria! Nunca me entrenaron para algo así, me siento simplemente insultado! y además diganle al líder:
+"No te va a ser tan sencillo derrotarlo, esté preparado"
+[Los secuaces abandonan el recinto]
+Tralf: En fin! Jefe, a donde nos dirigimos ahora?
+Rei: Jefe?
+Rei (Narrador): Este hombre habla mucho, incluso me dice ahora Jefe... en fin! Necesito un equipo.
+Rei: Ahh... ok.... primero... necesito conseguir a un stepmaker, un codiseñador, un presentador, un alma y pues Kei es mi Técnico
+Kei: Hola! Soy el técnico de Rei, Nivel 17
+Tralf: Pues debo decirte que yo soy el stepmaker de ThunderStep!, perdon, era. Si necesitas pasos, solo dímelo y serán realidad.
+Rei: Que afortunados somos! Kei, en fin, ya era hora de acabar con esta fiesta, tenemos que conseguir a todas estas personas para poder presentarnos al torneo mundial.
+Tralf: Wow! El torneo mundial? Debo adelantarte de por si que no es tan sencillo. Solo han habido dos mundiales antes de este que se celebrara. Ya debes saber que el que gane un torneo así podrá por fin acceder al nivel 30, verdad?
+Rei: No me interesa del todo eso.
+Tralf: Entonces que es?
+Rei: ... he sentido algo hace ya tiempo. No se donde pero estoy seguro que algo anda mal en el mundo pump. Algo oscuro sé que está ocurriendo en todo esto y tengo el presentimiento de que ocurrirá en el mundial.
+Tralf: A que se refiere?
+Rei: Algo malo, algo que definitivamente un pumper normal no podrá manejar... Tralf, necesito que me lleves con alguien que sepa donde puede haber un codiseñador y un presentador.
+Tralf: Creo saber donde puedo conseguir un diseñador, sigueme entonces.
+
+mission_open:
+31 // Tangara
+32 // Las rarezas de Tralf
+33 // Gato!
+34 // En esta ciudad no se luce
+35 // Conoce a tu enemigo
+36 // Desarrollo monstruoso
+37 // Polybius 1
+38 // Nostalgia 1
+39 // Los que-haceres de un Stepmaker
+40 // Una chica de pocos tornillos
+
+{
+Mission 31: Tangara / Tangara
+Song: Pumptris Quattro - Yahpp
+Level_Basic: 4
+Level_Normal: 12
+Level_Epic: 19
+Objective: No pises minas / Don't get any mines
+Break: Yes
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 3
+DefaultSpeedEpic: 4
+}
+
+Tralf: Jmmm...
+Rei: Que sucede?
+Kei: Rei, este es un campo minado
+Rei: Y... como se supone que lo cruzaremos?
+Tralf: Estas trampas son de un stepmaker conocido, apodado "RIFO". Es muy infantil a decir verdad, sus steps no son mas sino imitaciones de juegos baratos.
+Kei: [Observa un poco la trampa] Pues... yo lo veo mas como una tangara.
+Rei: Me encantaba ese juego! Nunca perdía. Esperenmen aqui, voy a sortear las dificultades de esta "trampa infantil"
+
+[On failure]
+Rei: Jeje, parece que he fallado.
+
+[On sucess]
+Rei: Bien, ya podremos seguir con nuestro camino.
+
+{
+Mission 32: Las rarezas de Tralf / Tralf's [FIXME]
+Song: Be Alive (Raaban inc. Mix) - Stian K
+Level_Basic: 3
+Level_Normal: 10
+Level_Epic: 16
+Objective: Supera con un total de 10 flechas ocultas o más / Clear with 10 hidden step or more
+Break: Yes
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 3
+DefaultSpeedEpic: 4
+}
+
+Tralf: [Cantando] Turiruraru, lalayuuuuuu!!! turirarilaaaaa
+Rei: Tralf, llevas ya como 10 minutos haciendo esos ruidos raros con la boca, que mierda haces?
+Tralf: Ahh... esto? Simplemente ando visualizando pasos.
+Rei: Visualizandolos? No es mejor en una pantalla o en tu mini-PIU?
+Tralf: Por favor! La calidad en los steps que desarrollo es fuera de lo comun! No puedo simplemente coger el step y hacerlos. Hay que... sentir el ritmo!
+Rei: Ahhh...
+Tralf: De hecho, deberias hacerlo conmigo
+Rei: Y yo como porque tengo que hacer esas estupideces?
+Tralf: No son estupideces! Hacer este tipo de cosas te puede ayudar a mejorar tu nivel porque el hecho de hacer pasos te hace observarlos más allá.
+Rei: ... esta bien, y como se supone que le hago?
+Tralf: Solo imagina una cancion que te guste... e imaginale pasos que quisieras...
+
+[On failure]
+Rei: Esto definitivamente no es lo mio.
+
+[On sucess]
+Rei: Creo que comienzo a visualizarlo
+Tralf: En serio? Vaya, eso fue rápido.
+
+{
+Mission 33: Gato! / Cat!
+Song: Higgledy Piggledy - Banya Production
+Level_Basic: 3
+Level_Normal: 10
+Level_Epic: 16
+Objective: Supera con [FIXME] items / Clear with [FIXME] items
+Break: Yes
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 3
+DefaultSpeedEpic: 4
+}
+
+[Caminando por la via principal se encuentran un gato, Tralf se encontraba distraido]
+Kei: Ohhh, que bonito! Un gato de lo mas mono! Me encantan esos patrones de flechas que tiene.
+Rei: Jaja! pues hasta es graciocillo.
+
+[Kei coge al gato, de repente comienza a brillar]
+Tralf: ... pero que?! Que han hecho?
+Kei: Solo hemos cogido un gato
+Tralf: Como era el gato?
+Rei: Pues tenia flechas tatuadas en su cuerpo
+Tralf: Vaya! Pues se han encontrado con otra trampa, cortesia de CeilPIU.
+Rei: Ese otro club que no se deja ver?
+Tralf: El mismo, pero les comentaré después de haber superado la trampa.
+
+{
+Mission 34: Ciudad de los clubes / City of clubs
+Song: [FIXME]
+Level_Basic: 3
+Level_Normal: 10
+Level_Epic: 16
+Objective: Supera hasta el final de la canción / Clear until the end of song
+Break: Yes
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 3
+DefaultSpeedEpic: 4
+}
+
+Tralf: Bueno, como les decia. En esta ciudad habitan 3 clubes muy escenciales. Han sido fundados desde que esta ciudad fue fundada. Practicamente sus líderes en un pasado contruyeron esta ciudad bajo sus jurisdicciones.
+En un pasado eran todos un club, pero hace unos años los líderes actuales se pelearon y dividieron la ciudad en 3 partes.
+Los primeros son los de ThunderStep, que son los que controlan el norte. Su líder que se hace llamar Kurohige es un as para todos tipos de flechas que algún stepmaker pueda realizar. Fué el primero en alcanzar el nivel 30 cuando llegó el sistema de niveles puesto por [AM]. Es un tipo muy orgulloso y codicioso. Siempre ha querido gobernar toda CiudadPump. Su influencia en el mundo de la PIU es muy alta, pero de todas formas no pasa del tercio que puede controlar.
+Los siguientes son los de CeilPIU. Su líder es alguien muy... peligroso. Nadie sabe como se apoda o como se llama, solo se sabe que se le ha visto varias veces zurcando el cielo con un dispositivo pegado a su espalda que le permite volar. Se dice que puede bailar mejor que Kurohige, pero simplemente nunca se aparece en público, y el sistema [AM] no lo encuentra.
+Por último estan los de [FIXME]. Su lider es alguien muy raro, se hace llamar Mr. Dark. No hace mas que hablar todo el tiempo sobre el "destino del otro mundo". No es alguien del que te debas preocupar, el sistema no lo registra más allá de nivel 17.
+
+Recuerdo cuando aun no existian esos clubes. Recuerdo que todo era mas armónico y no habian competencias...
+
+{
+Mission 35: Conoce a tu enemigo / Know your enemy
+Song: Crashday - Crash
+Level_Basic: 5
+Level_Normal: 12
+Level_Epic: 20
+Objective: Conoce a tu enemigo / Know your enemy
+Break: Yes
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 3
+DefaultSpeedEpic: 4
+}
+
+[Rei, Kei y Tralf se encontraban avanzando por la densa ciudad, por donde viera habia mucha gente pese a ser de noche.]
+Kei: Toda la gente es muy activa en la PIU incluso a estas horas... no?
+Rei: Si, de donde venimos por lo general solo bailamos hasta la tarde.
+Tralf: Esto es ciudad pump, Rei. Aqui hay demasiada gente no solamente jugando para los concursos, tambien vendiendo mercancia o fomentando el deporte ya que es una sensación.
+Kei: Pues si recuerdo que antes la PIU no era muy famosa. En Onohedera no nos llegó la primera máquina hasta que...
+Kurohige: QUIETOS AHI!
+[Kurohige aparece en frente de Rei y compañia]
+Kurohige: Tralf!! Me has decepcionado de nuevo! Deberias estar haciendo muchos más pasos para mi... en lugar de estar vagabundeando con este incompetente!
+[Rei se enfada]
+Rei: I-N-C-O-M-P-E-T-E-N-T-E... me dijiste?!
+Kurohige: Apartate de aqui! Bicho! No eres más que un pobre jugador. Tralf! Vamonos.
+Rei: Lo siento... pero esta persona que dices conocer... me ha prometido hacer pasos para mi, fortachón.
+Kurohige: Ohhh... vamos! No hay mejor stepmaker en este asco de ciudad sino Tralf, que te hace pensar que un bicho como tu puede tenerlo sin costo alguno?! Ademas, el es un miembro legitimo de ThunderStep! El mejor club del mundo!
+Tralf: Estoy ya cansado de que me diga que hacer. Admitelo Kurohige, nunca estuve dispuesto a hacer parte de tu jueguito de "el mejor de todos".
+Kurohige: Nadie osa desafiar al lider de ThunderStep ni sale de una pieza en el intento.
+[Rei se interpone]
+Rei: Pues ahora yo te desafio a un duelo...
+[Kurohige lanza una carcajada]
+Kurohige: Ja... jaja.... jajajajajajajaja!!!! [Se acerca a Rei, observandolo cara a cara] Bien! Como tu quieras, insensato. Apuesta tu estúpido "nivel 28" que dices tener, y yo apostaré un cuarto del Nivel 30 más los puntos extra que llevo hasta ahora. Te parece bien? Capullo.
+... Estoy deseando convertirte en papilla...
+[La multitud se reune mientras todo esto ocurria]
+
+[On failure]
+Kurohige: Eres mas bajo que un insecto! Tralf, que "no lo podia derrotar?"
+
+[On sucess]
+Kurohige: Pero... como?
+Kei: [Salta de alegria junto con Tralf] Genial!! Por poco te vi al borde del abismo! Eso fue increible!
+Tralf: Ja! Yo sabia que no podia derrotarlo.
+Rei: Muchas gracias, chicos.
+Kei: Mira tu indicador de nivel!!! Rei.
+[Rei mira su indicador]
+Rei: Ohhh! Genial! Nivel 29!
+[Kurohige derrotado se acerca a Rei]
+Kurohige: Oye... insecto... de donde vienes?
+Rei: Vengo de Onohedera
+Kurohige: Como un insecto de esa ciudad con solo una máquina pudo derrotarme?
+Rei: Vine aqui con un solo propósito. A ganar el torneo del mundial!
+Kurohige: Jajajajajajaja!!! Vamos, insecto, en serio crees poder ganar allí? Ahora solamente estaba precalentando y fueron unos pasos muy sencillos.
+[Se acerca al oido de Rei] La proxima vez... no tendrás tanta suerte.
+
+[Rei se queda pensando]
+Rei_pensamiento: Que habrá querido decir con "no tendré tanta suerte"
+
+{
+Mission 36: Desarrollo monstruoso / Monstruos development
+Song: Xtree - Yahpp
+Level_Basic: 4
+Level_Normal: 10
+Level_Epic: 16
+Objective: Supera con más corazones que minas / Get more hearts than mines
+Break: Yes
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 3
+DefaultSpeedEpic: 4
+}
+
+[Nuestros heroes se encuentran caminando, pero de repente]
+Kei: Mierda! Rei! Apartate!
+[Kei aparta a Rei de el trayecto de un proyectil]
+Rei: Que fue eso?!
+Tralf: Miren! Allí!
+[Un monstruo godzilla... disfrazado]
+Kei: Es un... godzilla disfrazado?
+Rei: Aunque esté disfrazado, esta causando un haleo impresionante.
+Tralf: Hay que hacer algo al respecto.
+Rei: Que podemos hacer? Tralf.
+Tralf: Y a mi que me preguntas? Aunque...
+Rei: Si?
+Tralf: Es raro que el lider Kurohige no se encuentre peleando contra un monstruo, por lo general por sólo ganarse el corazón de la gente se la pasa haciendo de héroe.
+[De repente]
+Kurohige: Thuuuunder Step! Formación Delta! Ahora!
+[Secuaces de ThunderStep y Kurohige aparecen en escena, listos para combatir]
+Kurohige: Presenten sus máquinas portátiles.
+[Despliegan las máquinas portátiles]
+Rei: Woa! Yo no sabia que esas cosas existian.
+Tralf: Y no existen, es un invento de Kurohige, son máquinas que fácilemente se pueden desplegar en cualquier lugar.
+Rei: Necesito una de esas.
+Kurohige: Con que con esas tenemos, eh? Rei?
+Rei: Kurohige!
+Kurohige: Si tanto quieres que te regale una, porque no demuestras tu y tus amigotes tu habilidad ante este monstruo? Basta con que sigas mis instrucciones.
+Rei: Que me haría acaso confiar en ti? Quisiste llevarte a...
+Kurohige: Puedes alegar por eso despues, pero ahora tenemos problemas mayores...
+[Un choque se produce encima de ellos, un escudo pudo absorber el ataque]
+Rei: Pero que diablos?!
+Kurohige: Mi club no es solo parlamentaria, mi amigo. Ellos desplegaron este escudo. Asi que si no quieres terminar aplastado, mas te vale que ayudes!
+Rei: Muy bien, muchachos, todos atentos a las ordenes de Kurohige, acabaremos con esta bestia!
+Kei, Tralf: Si señor!
+Kurohige: Esta bien, nenazas, todos... a mi ritmo!
+
+[On failure]
+
+[On sucess]
+Rei: Lo hicimos.
+Kurohige: No estuvo mal, novato.
+Rei: A quien llamas novato?!!!
+Kei: Jajajaja! Vaya pelea.
+Tralf: Estalló! Yay!
+Kei: Vámonos ahora, antes de que despierte o algo.
+Rei: No podria estar más de acuerdo. Nos veremos de nuevo! "Gigantón"!
+Kurohige: Ven y me lo dices aca! Novato! Jajajaja!
+
+{
+Mission 37: Polybius 1 / Polybius 1
+Song: Ignis Fatuus ~DM Ashura Mix~ - DM Ashura & Banya
+Level_Basic: 5
+Level_Normal: 14
+Level_Epic: 23
+Objective: Supera hasta el final de la canción / Clear until the end of song
+Break: Yes
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 2
+DefaultSpeedEpic: 2
+Effect: Pol
+Comments: En esta mision, debe usarse el efecto circular: 0.2 para Basic, 0.6 para Normal, 1.0 para Epic
+}
+
+[Nuestros héroes se encuentran caminando, pero de repente]
+Tralf: Bueno, ya casi llegamos, y el camino ha estado muy limpio.
+Rei: Si, casi parece aburrido.
+Kei: Quizas estemos de buenas y no nos hayamos topado aun con alguna TRAAAAAAAAAAAAMPAAAAA....
+[Kei se cae en un hueco]
+Rei: Ohhh, rayos, esto no me lo esperaba. 
+Tralf: No tenemos de otra sino bajar a ayudarlo.
+Rei: Desearia que no hubiera ocurrido. Bueno, allá voy... AAAAAAAAA!!!
+Tralf: Cobarde... EEEEEIIIIINNNN!
+[Ya en el fondo del hoyo]
+Rei: Todos se encuentran bien?
+Tralf: Nada que reportar.
+Kei: Ando bien, pero que es eso de allí.
+[Una máquina se encuentra con un brillo singular]
+Tralf: No he visto algo así nunca en mi carrera.
+Kei: Sólo le hace falta el panel para jugarlo.
+Rei: Pues no tenemos alguna salida, creo que este sería un buen momento para el regalo que nos dejo Kurohige.
+Kei: De donde sacaste eso?!
+Rei: Pues se los quité a algunos secuaces mientras la batalla anterior concluia.
+Tralf: Sabes que Kurohige los buscará por doquier, verdad?
+Rei: Eso no importa ahora. Vamos a jugar.
+[Despliega el panel y lo conecta a la vieja máquina, ésta comienza a brillar intensamente]
+Kei: Ohhh.... cielos! Y ahora que?
+Rei: Pues a jugar! A que mas hemos venido a esta ciudad? Kei.
+Tralf: Deberían ser un poco más prudentes.
+
+[On failure]
+Rei: Que efecto más raro! No puedo distinguir muy bien las flechas.
+Kei: A mi me da mas miedo que diversión.
+Tralf: Concuerdo contigo...
+
+[On sucess]
+Rei: Vaya que dió problemas.
+Kei: Este juego da miedo.
+Tralf: Coincido, hermano. Salgamos de aquí.
+
+{
+Mission 38: Nostalgia 1 / Nostalgia 1
+Song: [FIXME]
+Level_Basic: 2
+Level_Normal: 8
+Level_Epic: 13
+Objective: Supera con A o mejor / Clear with A or better
+Break: Yes
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 3
+DefaultSpeedEpic: 4
+}
+
+[Un vendedor cerca de ellos ofrece canciones peculiares]
+Vendedor: Pasen, pasen! Tenemos las mejores canciones viejas que siempre han querido jugar! Adelante, adelante!
+Tralf: Woaaa!!! Miren cuantas canciones hay aquí!
+Rei: Todas estas canciones soy viejas, Tralf.
+Tralf: Lo sé, pero mira!!! Mira esta! Quisiera hacerle pasos nuevos a esta!
+Kei: Esa canción salió hace 5 años.
+Tralf: Sí... me trae recuerdos...
+
+[On failure]
+Tralf: Tal vez así no se bailaba.
+
+[On sucess]
+Tralf: Wow wow!! Me llevaré esta definitivamente.
+Rei: Eres un raro, tralf.
+
+{
+Mission 39: Los que-haceres de un Stepmaker / The stepmaker's horrible-tasks
+Song: My way - Banya
+Level_Basic: 4
+Level_Normal: 10
+Level_Epic: 17
+Objective: Supera con S / Clear with S
+Break: Yes
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 3
+DefaultSpeedEpic: 4
+}
+
+[Nuestros héroes se encuentran caminando por toda la ciudad, sin nada peculiar en el camino]
+Tralf: Descansemos un rato acá. [Señala un hotel]
+Rei: Sí, porque no? Ya se está haciendo muy tarde.
+[Dentro del hotel]
+Rei: Bueeeno, este hotel es un poco... pintorezco.
+Kei: Lo que sí parece es que los dueños quieren dejar muy en claro el concepto de PIU aquí.
+Tralf: Eso es por el lado de la ciudad donde estamos. Ésta área está siendo controlada por Kurohige, y pues el exige que "Ciudad Pump" tenga mucho de Pump.
+Kei: Honestamente, hay veces que siento que deberia descansar un poco de las flechas.
+Rei: Pero que dices? Kei. Practicamente todo en este mundo se mueve con eso.
+Kei: Lo sé! lo se...
+Tralf: Bueno, si me disculpan, tengo un trabajo que hacer.
+Rei: Trabajo?
+Tralf: Soy stepmaker, recuerdan? Tengo que perfeccionar un step que llevo ya tiempo haciendo, para el concurso de stepmakers que será 1 dia antes de tu torneo.
+Rei: Ya veo...
+[Se queda pensando]
+Rei: Y que tal si yo te ayudo a eso?
+Tralf: Jajaja! Ya te dije que hacer pasos no es para cualquiera, verdad?
+Rei: Y eso que importa? Vas a necesitar a alguien que los pruebe y les dé su bisto bueno, no?
+Tralf: Pues... en eso llevas razon. Vamos! Ayudame entonces.
+
+[On failure]
+Tralf: Creo que no eres capaz de "seguir mis pasos"... jaja!
+
+[On sucess]
+Tralf: Y bien... que opinas?
+Rei: Rayos, Tralf, de donde se inventa tanto step? Deberias ser Stepmaker oficial.
+Tralf: No lo creo, no me gusta trabajar para alguna empresa, soy mejor de los que me mandan a hacer trabajos individuales.
+Rei: Muy buen step!
+
+[Habiendo sorteado las dificultades, finalmente cae la hora de dormir]
+Kei: Allí parece haber un buen puesto para quedarnos.
+Rei: Siempre y cuando no hayan arañas.
+[Todos se rien secretamente]
+Rei: Que? no me gustan las arañas.
+
+{
+Mission 40: Una chica de pocos tornillos / A few screws girl
+Song: Watch out - Victoria
+Level_Basic: 3
+Level_Normal: 11
+Level_Epic: 16
+Objective: Supera con "estilo" / Clear with "Style"
+Break: Yes
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 3
+DefaultSpeedEpic: 4
+}
+
+[Luego de la estadía en el hotel, nuestros héroes llegan al lugar donde se encuentra el diseñador]
+[El lugar se encuentra pintado por doquier de manchas de pintura de muchos colores, todos indescriptibles. De repente una mujer comienza a gritar a lo lejos]
+Hikari: aaaaaAAAAAAA!
+Rei: Que diablos fue eso?!
+[Rei entra al establecimiento inmediatamente tratando de encontrar a la que gritó. Cuando llega encuentra a una mujer bañada en pintura]
+Hikari: Porque rayos a mi nunca me sale?! Diablos!!
+[La habitación es blanca, pero hay manchas de pintura por donde viera. En el centro de la habitación se encontraba una máquina]
+Hikari: [Queda mirando fijamente a los protagonistas] Quien rayos son ustedes? [Se acerca rápidamente] No los he visto nuuunca.
+Kei: [Alterado] ... está... muy... cerca...
+Tralf: Hikari! Elegante dama, por favor permitame presentartelos!
+Hikari: Tralf! Cuanto tiempo! Quienes son estos forasteros? ....... No son de aca, verdad?
+Kei: Tralf! Esta mujer... que le sucede?
+Hikari: Como que "que me sucede"? Estos forasteros son graciosos, Tralf. De donde los sacaste? Parecen aburridos.
+Rei: Aburrido... yo? Bueno, no es que sea algo muy interesante, pero...
+Tralf: Mira, Hikari. Que no querias ir al mundial algún dia?
+Hikari: Pero Tralf! Eso ya no viene al caso. Esos perros de los organizadores piden muchas cosas para tan solo mirar. No mas para empezar par aparticipar se necesita un Speeder y acá, por culpa de esos infames clubes, todos andan metidos a alguno tratando de simplemente llenar sus traseros de... dinero y privilegios. No es para mi! Tralf! Desde que te uniste al más infame de los clubes...
+Tralf: Hikari...
+Hikari: Basta! No quiero nada con esas... esas... ratas!
+Tralf: Yo ya abandoné ThunderStep, Hikari.
+Hikari: .... En serio? Pero... y tu situación... Entiendo que te metiste a esa infame...
+Tralf: Eso ya es pasado, Hikari. Hoy traigo una oportunidad. [Se acerca a Rei] Este chico de aca, Rei, es un Speeder muy bueno. Un forastero de Onohedera, una ciudad al sur de aca donde la pump se da muy poco.
+Hikari: Jmmm [Se acerca mucho a Rei, Rei apenas retrocede, Hikari lo mira de arriba a abajo] Y me dices que este forastero... que viene de una tierra lejana en la cual obviamente no llega la pump, puede incluso almenos con el más malo de esta ciudad?
+Rei: Un momento! He puesto a ese tal lider egoista contra las cuerdas, deme algo de credito por lo menos...
+Tralf: Y Kurohige se encontraba llorando... jeje
+Hikari: [Queda pensativa]... Wow, hacer llorar a ese infeliz tiene su mérito. Veamos de lo que eres capaz... Rei. Usa tu "estilo" y juega esta canción... Y veremos.
+Rei (pensamiento): Dios, cuantas pruebas más tendré que pasarle a esta gente rara...
+
+{On failure}
+Hikari: Jajajaja! No eres nada! Por poco me lo haces creer.
+
+{On success}
+Hikari: [Brillan sus ojos] Wow! Es genial! Eres genial!
+
+

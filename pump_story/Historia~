@@ -1,0 +1,814 @@
+[Prólogo]
+
+Toda la gente que ha comenzado a jugar... es porque la gente me ha mirado o ha mirado a otras personas jugar, y quieren y tienen las agallas de intentarlo así sea embarazoso. Pero la gente que domina este arte tiende a llamar mucho la atención. Alguien de un nivel decente puede atraer ya varias personas que van pasando por ahí a entablar conversación con otras personas hablando de  "uyy... y como lo hace?".
+
+Por el miedo escénico... muchas personas no se atreven siquiera a intentarlo...
+
+La verdad... cuando yo juego, mi mente solo se enfoca en las flechas y ya no hay algún publico que me mire... solo yo... y la canción.
+
+Pero pues... así mismo como yo empecé, así mismo comenzaron todos y la verdad... fue un desastre. Si! cuando comencé... y traté de jugar mi primera canción, como veía que todo el mundo jugaba canciones que para mi serian difíciles como si nada, yo me dije a mi mismo "esto debe ser sencillo"...
+ 
+... la realidad es otra
+
+[dibujo de varias veces que se cayó del panel]
+
+A medida de que practicaba, con cosas un poco mas amables que mi ambición, poco a poco aprendí a ubicarme en el panel y a no hacer esos... graciosos saltos que siempre uno hace cuando es principiante...
+
+... y sobre todo, a no caerme...
+
+A medida de que avanzaba fui conociendo personas agradables... tanto así que, hasta ahora, son los que siempre salgo por ahí, así sea solo para hablar
+
+Todo iba bien...
+
+... hasta que algo nubló mi mente ya varios días atrás
+
+No se si sea por los escasos eventos a los que he ido a ver a los competidores jugar, pero, el sueño de hace unos días, me hacia ver a mi... montado sobre el panel ya en la lucha definitiva, la que se suele llamar el "Final Match" de cada competición... pero... yo? parado en la última categoría? Y mi contrincante me miraba fijamente con unos ojos muy frívolos. Trataban de decirme "detente... abandona este deporte". Luego de eso... me pasaba una sensación parecida a la de jugar...
+
+... pero... de verdad a donde mirara... así no jugara en el tapete... todo se veía oscuro... y el anunciante ni todo el publico allí reunido se encontraba
+
+y la canción comenzó a sonar!
+
+[Mostrar titulo "A pump story"]
+
+[Capitulo 1]
+
+{
+Mission 1: Comienzo / Beggining
+Song: Take Out - SHK
+Level_Basic: 1
+Level_Normal: 6
+Level_Epic: 12
+Objective: Supera con un puntaje superior que tu oponente / Clear with better score than your opponent
+Break: No
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 2.5
+DefaultSpeedEpic: 3
+}
+
+[Despierta de repente de su sueño]
+
+(Jadeo)
+[Coge el reloj de la mesa de noche]
+Usui: Mierda! Voy tarde
+
+Usui_narrador: No me he presentado, verdad?
+Mi nombre es [Usui], tengo 17 años y dentro de unos pocos meses cumpliré 18
+ahora mismo iba a encontrarme con unos amigos para entrenar, me ayudas? [USB]
+
+[Mostrar tutorial de como moverse]
+Guide: Hola! Mi nombre es Kashia y seré tu guia por el mundo del modo aventura.
+
+Si crees que has caido por accidente en esta sección o simplemente te cansaste de jugar en el modo aventura, presiona centro y a continuación, presiona las flechas diagonales azules hasta que se situes en la opcion de salida.
+
+Para moverte por este mundo, debes presionar las flechas diagonales del panel donde te encuentres jugando.
+[Usui] Se moverá en la dirección que le indiques.
+
+Adelante! Luego de salir de la casa de [Usui], debes llegar al norte. La flecha dorada te guiará por ahora, pero recuerda que no siempre estará allí, de todas formas, esto es un mundo libre.
+
+/*
+El jugador debe hacer que Usui salga de su cuarto, luego al salir de su casa, caminar 2 cuadras hacia el norte a encontrarse con sus amigos
+*/
+
+[Encuentro con sus amigos]
+Rei: Jajaja... llega jadeando... no?
+Usui: Iba retrasado
+Rei: Ni tanto, nadie mas aparte de ti ha llegado
+Usui: Bueno... me alivia
+
+Usui_narrador: Este es mi amigo, Rei. Es un tipo normal pero me ha enseñado un par de trucos de como jugar en la Pump. Su nivel es muy decente y apenas si tiene 18. No hay mucho que decir de él...
+
+Rei: Bueno, [Usui], ya es hora de que me muestre un poco como ha ido su entrenamiento... no cree?
+Usui: ¿Como es eso?
+Rei: Sencillo, si quiere entrene un poco antes de comenzar, apenas creas que estas listo, entonces ven a buscarme y te pondré una prueba definitiva
+Usui: Vale.
+
+[Mostrar tutorial de como aceptar misiones]
+
+Mission_open:
+2 // Entrena basicamente
+3 // Entrena esquivar minas
+4 // Entrena supervivencia con minas y pociones
+5 // Entrena steps con efectos
+6 // Entrena steps que desaparecen
+7 // Entrena derrotar a un rival
+8 // Entrena misiones con canciones aleatorias
+9 // Entrena brain shower
+10 // Entrena steps con items especiales
+Mission_open
+
+Info_open:
+1 // Ayuda de tu nivel y la experiencia
+2 // Ayuda de las dificultades de misión
+3 // Ayuda sobre los desbloqueos
+4 // Ayuda acerca de un boss
+5 // Ciertos topics que debes tener en cuenta (parte 1)
+6 // ¿MSD Points?
+7 // La barra de vida y el ¡Stage break!
+Info_open
+
+Event_open:
+1 // Desafia a Rei
+Event_open
+
+{
+Mission 2: Entrena basicamente / Basic training
+Song: Beethoven virus - Banya
+Level_Basic: 1
+Level_Normal: 5
+Level_Epic: 9
+Objective: Supera hasta el final de la canción / Clear until the end of song
+Break: Yes
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 2.5
+DefaultSpeedEpic: 3
+}
+
+Guide: Hola! Te voy a enseñar como va esto de las misiones.
+
+Basicamente, te aparecerá un rectángulo de opciones proporcionando informacion acerca de la misión. Si quieres jugar esta misión, bastará con que presiones dos veces Centro.
+
+Pero si buscas un desafio, puede que explorar las opciones te interese. Mueve el menú de opciones con las flechas diagonales azules.
+
+Si no quieres jugar esta misión, presiona cualquiera de las dos flechas diagonales rojas.
+
+El objetivo aparece en el centro, asegurate de memorizartelo! En este caso solo se trata de superar una cancion hasta el final, no dejes que la barra de vida se acabe!
+
+{
+Mission 3: Entrena esquivar minas / Mine avoid training
+Song: Xtreme - Banya
+Level_Basic: 1
+Level_Normal: 6
+Level_Epic: 13
+ObjectiveBasic: No cojas más de 50 minas / Don't get 50 mines or more
+ObjectiveNormal: No cojas más de 30 minas / Don't get 30 mines or more
+ObjectiveEpic: No cojas más de 8 minas / Don't get 8 mines or more
+Break: Yes
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 3
+DefaultSpeedEpic: 4
+}
+
+Guide: Hola! Te voy a enseñar a esquivar minas
+Es sencillo si las puedes ver, simplemente no las presiones, aunque si se te da por confundir un cuadrado con una flecha, estamos algo perdidos.
+Los ítems como las minas solo se activan cuando se presionen, es decir, si habias mantenido presionada otra flecha y una mina pasa por la guía, entonces no ocurrirá nada.
+
+{
+Mission 4: Entrena supervivencia con minas y pociones / Survival training with mines and potions
+Song: Crazy - Gyfted
+Level_Basic: 1
+Level_Normal: 4
+Level_Epic: 10
+Objective: Supera hasta el final de la canción / Clear until the end of song
+Break: Yes
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 3
+DefaultSpeedEpic: 4
+}
+
+Guide: Hola! Te voy a enseñar a sobrevivir con minas y pociones
+
+Las minas hacen disminuir tu barra de vida. Vigila que esta no se vacíe. Por lo general este tipo de misiones hacen estallar la misión si tu barra de vida llega a 0. Puede que el objetivo diga una cosa, pero también vigila si la misión tiene activado el Stage Break, es este ícono de aquí.
+
+Las pociones son lo opuesto y estas si que te ayudan. Si te ves corto de la barra de vida, no duda en cogerlas.
+
+Los ítems como las pociones o las minas solo se activan cuando se presionen, es decir, si habias mantenido presionada otra flecha y una mina pasa por la guía, entonces no ocurrirá nada.
+Esto es todo lo que debes saber de las minas y las pociones.
+
+{
+Mission 5: Entrena steps con efectos / Step training with effects
+Song: U got to know
+Level_Basic: 1
+Level_Normal: 4
+Level_Epic: 8
+Objective: Supera hasta el final de la canción / Clear until the end of song
+Break: Yes
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 3
+DefaultSpeedEpic: 4
+}
+
+Guide: Hola! Te enseñaré un poco sobre los efectos
+Todos los efectos son visuales, pueden que fastidien, pero le dan un poco de vida a las flechas.
+Existen los stops, que las flechas aparentemente se detienen por un momento y luego continuan.
+También estan los cambios de velocidad, que "alargan" las flechas y las hace mas rápidas o mas lentas.
+Los cambios de BPM que solo las hace mas rapidas o mas lentas.
+Y por ultimo los saltos, que hacen que las flechas aparezcan en una posición mas adelantada de repente.
+
+La clave para poder pasar a traves de estos efectos, es guiarse por el ritmo de la canción.
+
+{
+Mission 6: Entrena steps que desaparecen / Vanishing step training 
+Song: Witch doctor #1 - Yahpp
+Level_Basic: 2
+Level_Normal: 7
+Level_Epic: 12
+ObjectiveBasic: Supera hasta el final de la canción / Clear until the end of song
+ObjectiveNormal: Coge al menos 1 flecha oculta / Get at least 1 hidden step
+ObjectiveEpic: Coge 10 flechas ocultas o más / Get 10 hidden steps or more
+Break: Yes
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 3
+DefaultSpeedEpic: 4
+}
+
+Guide: Hola! Te enseñaré un poco sobre las flechas que desaparecen
+Hay flechas que desaparecen de repente, pero que aun asi debes presionar.
+Hay flechas que, aunque se encuentren allí, no se presionan ya sea porque estas hacen parte del diseño o simplemente el diseñador del step quiere jugar contigo.
+Y como nuestros diseñadores de este tipo de steps tienen muy buen sentido del humor, también hay flechas que nunca aparecen y debes presionar.
+Ánimo! Este tipo de steps por lo general se suelen jugar entre 5 personas presionando intensamente el panel, pero hay pistas por todo el mundo de acerca como coger las flechas ocultas. Procura prestar atención.
+
+{
+Mission 7: Entrena derrotar a un rival / Defeat a rival training
+Song: Just a wish - CYO
+Level_Basic: 2
+Level_Normal: 7
+Level_Epic: 12
+Objective: Supera con un puntaje superior que tu oponente / Clear with better score than your opponent
+Break: No
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 3
+DefaultSpeedEpic: 4
+}
+
+Guide: Hola! Te enseñaré un poco sobre cómo derrotar a un rival.
+No tiene mucha ciencia, basta con bailar mejor que tu oponente.
+Presta atención al objetivo, en esta ocasión dice que superes con mayor puntaje, pero a veces el objetivo será diferente.
+
+{
+Mission 8: Entrena misiones con canciones aleatorias / Mission training with random songs
+Song: [Random]
+Level_Basic: 1-3
+Level_Normal: 5-8
+Level_Epic: 12-14
+Objective: Supera hasta el final de la canción / Clear until the end of song
+Break: Yes
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 3
+DefaultSpeedEpic: 4
+}
+
+Guide: Hola! Te enseñaré sobre las misiones con canciones aleatorias.
+Siempre que este tipo de misiones aparezcan, se escogerá entre un catalogo que puede que sean steps ya incluidos, o los steps para una misión.
+Basicamente es lo mismo que superar cualquier misión, ten en cuenta siempre el objetivo.
+
+{
+Mission 9: Entrena brain shower / Brain shower training
+Song: Bouken desho desho? - Aya hirano
+Level_Basic: 1
+Level_Normal: 4
+Level_Epic: 8
+Objective: Supera con mas respuestas correctas que incorrectas / Clear with more correct answers than incorrect
+Break: No
+DefaultSpeedBasic: 1
+DefaultSpeedNormal: 1
+DefaultSpeedEpic: 1
+}
+
+Guide: Hola! Te enseñaré sobre el brain shower.
+¿Si has jugado antes este modo en el juego? Debes saber que es exactamente igual, solo que tendrá algun objetivo asociado.
+¿No lo has jugado? Bueno, aprovecharé para explicar, pero en serio deberias jugar este modo en el juego.
+Muy brevemente, se trata de responder preguntas. Hay 4 tipos de preguntas: Matemáticas, Memoria, Observación y Análisis.
+Por lo general sale un enunciado diciendo lo que tiene que hacer, luego aparece la pregunta (como resolver alguna operación, ordenar, encontrar parejas) y responde en el panel.
+Es divertido! ya comenté que deberias jugar esto en el modo original?
+
+{
+Mission 10: Entrena steps con items especiales / Step training with special items
+Song: Starian - Duke
+Level_Basic: 1
+Level_Normal: 5
+Level_Epic: 11
+Objective: Supera con todos los items / Clear with all items
+Break: No
+DefaultSpeedBasic: 1
+DefaultSpeedNormal: 2
+DefaultSpeedEpic: 2
+}
+
+Guide: Hola! Te enseñaré sobre Los items especiales.
+Hay muchos items, y este texto es muy corto, trataré de ser breve.
+Flash: Hace que los steps parpadeen
+U/L/R Attack: Dependiendo de cual flecha presiones, las flechas cambiarán de dirección hacia abajo, izquierda o derecha.
+Items de velocidad: Cambian la velocidad de las flechas de acuerdo al número que haya en su interior.
+Normalizar: Vuelve el step a su normalidad.
+Snake: El step comienza a serpentear... a que es lindo.. no?
+Corazon: Un item que estorba, no sirve para nada.
+Y obviamente las minas y las pociones se incluyen entre los items. Espero haya quedado claro.
+
+{
+Info 1: Ayuda de tu nivel y la experiencia
+}
+
+Splash: Tu nivel y tu experiencia es algo que debes tener presente en este mundo.
+
+Este mismo te juzgará que tan bueno eres en el juego y además permitirá desbloquear partes del mundo, asi como canciones y ganancias en el mismo.
+
+La experiencia la puedes consultar cada vez que termines una misión, al principio del juego, o al usar el "MSD Profile" en tu PC.
+
+Lo mismo se dice del nivel, pero este mismo aparece al lado de tu login de USB en todo el juego.
+
+Jugar las misiones dan más experiencia que jugar canciones en el Song Start, Brain shower y demás. 
+
+Las reglas de la experiencia aplican con el nivel, por ejemplo si juegas una mision de nivel 6 siendo nivel 1, la experiencia se multiplica varias veces. Tambien ocurre en visceversa.
+
+¡Diviertete y compite por ser el mejor!
+
+{
+Info 3: Ayuda sobre los desbloqueos
+}
+
+Splash: Si aceptas el desafio de Rei, él te dará un regalo una vez lo derrotes.
+
+Que será? Que será? Solo soy un aviso, no puedo decirtelo.
+
+Pero si te puedo decir que habrán misiones (por lo general jefes) que desbloquean items especiales para el modo aventura, y tambien desbloquean canciones, modos de canciones, steps, entre otros.
+
+Animo! derrota a todos los jefes.
+
+{
+Info 2: Ayuda de las dificultades de misión
+}
+
+Splash: Entre todas las opciones que aparecen al momento de seleccionar una misión, tenemos la de seleccionar la dificultad.
+
+Por lo general, las misiones cuentan con 3 dificultades: Básico, Normal y Épico
+
+¡Si! Si incluso estas apenas aprendiendo a jugar Pump, puedes completar el modo historia sin hacer las maromas que gente mas experta hace.
+
+Pero es de obviar que las recompenzas de la gente que se atreva a pasar las misiones en "Épico" seran mejores.
+
+Entrena duro!
+
+{
+Info 4: Ayuda acerca de un boss
+}
+
+Splash: El aviso de al lado te decia que derrotaras todos los jefes. Bueno! debo decir que conozco este mundo como mi propio poste y no es una tarea sencilla.
+
+Los jefes son misiones con un poco mas de dificultad que las misiones normales.
+
+Al derrotarlos, puedes desbloquear cosas del juego, asi como desbloquear más misiones y el hilo de la historia.
+
+Los jefes pueden jugarte malas pasadas, procura estar bien preparado antes de ir por uno.
+
+{
+Info 5: Ciertos topics que debes tener en cuenta (parte 1)
+}
+
+Splash: Hay cosas que quizas sepas o puedes deducir, pero me pagan por poner este aviso acá, asi que no tengo mas remedio.
+
+Las misiones se pueden navegar un poco más facil que solo caminar usando las flechas, si presionas centro y te ubicas en la opción de "Ir a la misión más cercana" el sistema automáticamente te llevará a la misión que mas cerca se encuentre.
+
+Superar misiones que ya hayas superado no es del todo una pérdida de tiempo, le ayuda a ganar experiencia y MSD Points
+
+Los jefes suelen ser canciones en full version y por lo general no las verás en otros modos. Disfruta hasta el final.
+
+Apenas si esta historia comienza, ¡Ánimo! ¡Sé el mejor jugando!
+
+{
+Info 6: ¿MSD Points?
+}
+
+Splash: Ya has visto tu indicador de MSD Points en la esquina superior? Este mismo es válido en muchos modos del juego.
+
+Es considerado "el dinero de este juego". Por cada mision que superes, este dinero irá a parar a tu cuenta donde puedes usarlo para comprar items del modo historia, desbloquear canciones o modos, o simplemente alardear... quizás.
+
+Ahorra y demuestra que puedes apoderarte de todo el juego! (como el monopolio)
+
+{
+Info 7: La barra de vida y el ¡Stage break!
+}
+
+Splash: Tu barra de vida se encuentra en la parte superior cuando juegas en cualquier modo.
+
+En el modo historia, esta barra de vida es muy importante, ya que la mayoria de las misiones tienen activado el Stage Break, que trata de que si dejas que esa barra llegue a 0, entonces ocasiona que se explote y no puedas jugarla más.
+
+Las minas y perder flechas hacen que este indicador baje. Las pociones y coger las flechas hacen que esta suba.
+
+Cuando veas el indicador de stage break apagado, significa que no tienes que preocuparte por esa vida. TIENES UN MODO INVENCIBLE ACTIVADO!
+
+{
+Event 1: Desafia a Rei
+}
+
+Rei: ¿Ya terminaste de entrenar? Bién.
+
+[Se cierran las puertas donde se encuentran las misiones de entrenamiento]
+
+Rei: No dejaré que escapes, espero se encuentre preparado.
+
+Mission_open:
+11: // Derrota a Rei
+
+{
+Mission 11: Derrota a Rei / Defeat Rei
+Song: Mario Castle Team #4 - Nylithia
+Level_Basic: 3
+Level_Normal: 9
+Level_Epic: 15
+Objective: Supera con mas puntaje que tu oponente / Clear with more score than your opponent
+Break: No
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 2.5
+DefaultSpeedEpic: 3
+}
+
+Rei: No te dejaré escapar.
+Usui: ¿Que? Rei, ¿porque haces esto?
+Rei: He visto como poco a poco has ido mejorando, y se que tienes demasiado potencial. Quiero que este reto sea oficial.
+Usui: ¡¿Como?!
+Usui_narrador: Permiteme explicarlo. Cuando un reto es oficial, se tiene en juego la reputación del mismo jugador.
+Es muy arriesgado, aqui puedo perder MSD Points y experiencia. Y si me niego a un desafio igual me los quitan, aunque mas poco.
+Rei: Sé que no vas a huir, ¿entonces? ¿comenzamos ahora?
+
+{On failure}
+
+Rei: Esperaba un poco mas de este reto.
+
+{On sucess}
+
+[Rei se encuentra impresionado]
+[Usui esta respirando muy agitadamente]
+[Rei toma aire]
+Rei: Parece que ya has salido del cascarón, [Usui]. Te felicito.
+Usui: ¿Ahh?
+Rei: Es obvio que no ibas a mejorar si no te ponia algo de motivación.
+
+[Varios pumpers llegan de repente]
+
+Aika: Vaya, vaya, ¿que tenemos aqui? "El gran y poderoso Rei, derrotado por el principiante de [Usui]", eso si es algo nuevo.
+Rei: Jajaja, me ganó justamente.
+Core: Y vaya que le dejaste cancha, no? Rei, si mal no recuerdo, hoy habias comido de más en mi casa y estabas yendo todo el dia al baño ya que cuando llamé hoy a tu casa, tu madre me dijo eso.
+
+[Rei hace una cara de "me pillaron"]
+
+Usui: ¿Eso es cierto? entonces... ¿Jugabas con dolor de estómago?
+Rei: Que puedo decir *suspiro*, me han pillado.
+Aika: Tu no eres así, Rei. Aqui ninguno de nosotros puede ganarte. Debiste ser un poco menos mentiroso, lo que le acabas de regalar a [Usui] no fue mas sino un poquito de experiencia y su ascenso a nivel [Level_player]
+Core: Eso me recuerda, que traigo un nuevo amigo! Al tonto ya lo he pillado unas cuantas veces tratando de ganarle a Rei apenas jugando en nivel [Level_player - 1]. Ven! Ven aca!
+
+[La silueta de un chico rebelde se asoma]
+
+Core: Les presento a [Aoi]
+
+[Aoi mira fijamente a Usui con aire desafiante]
+
+Aoi: ¿Como rayos pudo un principiante como él incluso ganarle a Rei? Es inaudito!
+Usui: ¿Ahh?
+Core: Oye, oye, no seas descortés y almenos presentate.
+Aoi: *Sigh*
+
+[Aoi se para en frente de todos]
+
+Aoi: Soy [Aoi] y no estoy encantado de conocerlos...
+
+[Aoi mira fijamente a Usui]
+
+Aoi: Y a ti... te voy a derrotar.
+
+Mission_open:
+12 // El reto de Aika
+13 // Core! Ya basta!
+14 // El desafiante [Aoi]
+15 // El verdadero Rei
+16 // Conseguir pastillas para el dolor de estómago
+17 // ¡Pagas o debes!
+18 // ¿Es mi imaginación?
+Mission_open
+
+Event_open:
+2 // La aparición de M. Dark
+Event_open
+
+{
+Mission 12: El reto de Aika / Aika's challenge
+Song: Enter the dragon - JTL
+Level_Basic: 2
+Level_Normal: 8
+Level_Epic: 13
+Objective: X / X
+ObjectiveHidden: Supera con una acurrancia mayor a 95% y al menos baja la barra de vida al 50% / Clear with an acurrancy greather than 95% and at least get down the life bar down to 50%
+Break: Yes
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 3
+DefaultSpeedEpic: 4
+}
+
+Aika: Tengo un reto para ti, "Señor principiante"
+Intenta hacer algo especial en esta canción.
+Usui: Cómo asi "especial"?
+Aika: Si! Sorprendeme con algo. ¿Ahora vas a decir que no sabes armar un show? ¿Y que me dices de derrotar a Rei?
+
+{On failure}
+Aika: Vamos! Eso no es lo que buscaba.
+
+{On sucess}
+Aika: Parece que tienes algo mas que solo "suerte", ¿no? "principiante"
+
+{
+Mission 13: Core! Ya basta! / Core! Stop it!
+Song: Typhoon - DO
+Level_Basic: 3
+Level_Normal: 6
+Level_Epic: 10
+ObjectiveBasic: Conecta un combo de 150 o más / Connect 150 or more combo
+ObjectiveNormal: Conecta un combo de 310 o más / Connect 310 or more combo
+ObjectiveEpic: Conecta un combo de 560 o más / Connect 560 or more combo
+Break: Yes
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 3
+DefaultSpeedEpic: 4
+}
+
+Core: Si sabes que yo creo steps... verdad?
+Usui: Pero...
+[Usui se preocupa... U-.-]
+Usui: Tus steps son algo...
+Core: Algo que?
+[Core irradia un aura de desafio negra]
+Usui: *Sigh*
+Core: Solo prueba mi step para esta canción! Esta vez si lograré convencer a los del juego para que lo coloquen!
+
+{On failure}
+Core: Eso no es pumpear, los steps son algo que debes ver más alla de solo pisar!!!
+
+{On sucess}
+Core: A...a...aaaaAAAAAAH! Mis steps son los mejores! jajaja
+[Rie a carcajadas triunfante]
+Usui_narrador: Espero no tenga que volver a probar algún step de Core.
+
+{
+Mission 14: El desafiante [Aoi] / [Aoi] the dessafiant
+Song: Beat the ghost - Banya Production
+Level_Basic: 3
+Level_Normal: 9
+Level_Epic: 14
+Objective: Supera con una respuesta correcta y con una nota de A o superior / Clear with one right answer and A grade or better
+Break: No
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 3
+DefaultSpeedEpic: 4
+}
+
+Aoi: [Usui], verdad?
+Usui: Si, y tu eres...
+Aoi: [Aoi]! El único e inigualable! Soy mejor que cualquier pumper de esta zona.
+Usui: Pero... Rei...
+Aoi: SILENCIO!! Lo tuyo con Rei no acabó siendo más sino suerte! Te crees digno de poder mover las piernas? Piensalo dos veces! 
+Juega esto! Es lo que he usado ultimamente para entrenar. Requiere cerebro y coordinación! Cosas que tu obviamente no tienes.
+
+{On failure}
+Aoi: El entrenamiento es un camino dificil, no lo crees? [Usui].
+
+{On sucess}
+Aoi: Sigue siendo suerte de principiante.
+Usui_narrador: Pero si tienes el mismo nivel que yo!!
+
+{
+Mission 15: El verdadero Rei / The real Rei
+Song: Mario castle team #4 - Nylithia
+Level_Basic: 6
+Level_Normal: 14
+Level_Epic: 22
+Objective: Supera con mas puntaje que tu oponente / Clear with more score than your opponent
+Break: No
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 3
+DefaultSpeedEpic: 3.5
+}
+
+Aika: Oye! Rei. ¿En serio harás que este principiante que se quede con tu honor?
+Rei: Jajaja! Alguna vez has visto de que a mi me interesen cosas como esas?
+Aika: Vamos! Almenos haz que llore. Hasta yo puedo jugar con dolor de estómago!!
+Rei: Bueno, ya que insistes...
+[Rei se dirije a Usui]
+Rei: Que dices? [Usui], vamos a por todas?
+
+{On failure}
+Rei: No te desesperes, esto no es más sino entrenamiento.
+
+{On sucess}
+Rei: Vaya! Esto ha sido sorprendente.
+Aoi: Ohh.. vamos! Si hasta yo noté que se le fueron algunas partes por el dolor!
+Aika: Jajaja! [Usui] se ha desempeñado bién, denle algo de crédito de todas formas.
+[Aika aplaude el esfuerzo de Usui]
+
+{
+Mission 16: Conseguir pastillas para el dolor de estómago / Get pills for stomach ache
+Song: Terminal depository - Urbu project
+Level_Basic: 2 [DP]
+Level_Normal: 7 [DP]
+Level_Epic: 12 [DP]
+Objective: Obtén un total de 5 pociones, no pises ninguna mina y no dejes escapar más de 4 items (exceptuando minas y pociones) / Get a total of 5 potions, don't step any mine and don't muff more than 4 items (excepting mines and potions)
+Break: Yes
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 2
+DefaultSpeedEpic: 2.5
+}
+
+Rei: Oye! [Usui], ya me duele mucho el estómago, necesito algún medicamento.
+Aika: Yo te acompaño, [Usui]. Core, cuida de Rei mientras tanto.
+
+{On sucess}
+Rei: Gracias! por fin me libero de este escarmiento.
+
+Te voy a dar algo muy importante, lo vas a valorar mucho de ahora en adelante... de acuerdo?
+
+[Usui recibe su primera asistencia-zapato]
+Usui: Wow!! No se que decir.
+
+{
+Mission 17: ¡Pagas o debes! / ¡Pay or get debt!
+Song: Money - Banya Production
+Level_Basic: 1
+Level_Normal: 1
+Level_Epic: 1
+Objective: Obtén mucho dinero / Get much money
+Break: Yes
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 2
+DefaultSpeedEpic: 2
+OnSuccessClose: Yes
+OnFailureClose: Yes
+}
+
+// Comentarios
+// Esta mision tiene pasos especiales en forma de monedas
+// Esta mezclada con pasos normales, la version epica debe tener dificultad y un monton de dinero
+// Es una mision bonus! y sólo se juega una vez. Dependiendo de que tantas monedas atrapes, llenará tu indicador de MSD Points
+
+{
+Mission 18: ¿Es mi imaginación? / ¿Is my imagination?
+Song: Just a girl - No Doubt
+Level_Basic: 1
+Level_Normal: 3
+Level_Epic: 5
+Objective: Supera con 3 pasos ocultos y un combo de 2000 o mayor / Clear with 3 hidden steps and combo greather than 2000
+Break: Yes
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 3
+DefaultSpeedEpic: 4
+}
+
+{
+Event 2: La aparición de M. Dark / M. Dark appearing
+TakePlace: 
+Mission: 12, 13, 14, 16
+}
+
+Rei: Bueno! ya es hora de ir a casa, hemos entrenado hoy duro!
+Usui: Si, estuvo bueno.
+Aoi: Pude haber resistido mas.
+Aika: Necesito un baño.
+Core: Tengo sed, si! descansemos.
+
+Mdark: ¿Tan pronto se retiran?
+
+[Aparece detrás de todos un hombre vestido de negro, chaqueta de cuero, la cara es dificil de reconocer. Parece que la oculta con su sombrero y su bufanda larga, habla con una voz un tanto siniestra]
+
+Mdark: La diversión apenas comienza.
+
+[Mdark chasquea los dedos]
+[Todo el lugar queda sin electricidad, pero por alguna razon, la pump aun se encuentra en funcionamiento]
+
+Aoi: Oye! Oye! No se quien eres, pero definitivamente largo de mi vista! Estamos acá jugando y no puede venir aca como si nada a...
+[MDark pisa fuertemente el piso, haciendo alumbrar algo parecido a la silueta de una diagonal de pump. Apenas esto ocurre, Aoi sale disparado lejos. Cae encima de Rei, el resto queda atónito.]
+
+MDark: Un principiante como tu no tiene nada que hacer ante mi nivel
+Aika: Oye! A ti que te pasa?! Acaso puedes venir aca a hacer de las tuyas como si el universo fuera tuyo?
+
+[MDark saca un dispositivo de su manga izquierda y lo teclea un poco]
+MDark: ... ya veo... Aika, ¿verdad?
+[Aika queda sorprendida]
+Aika: ... como sabe mi nombre?
+MDark: Sé más que solo tu nombre, se que tu nivel es de apenas 13 aunque has trabajado duro para subir a 14, pero ese desempeño apenas si lo has logrado en unos escasos 2 meses... eres una genio o más bien se exige mucho. De todas formas, me pregunto porque?
+[MDark da un paso al frente, Aika toma posición defensiva]
+Aika: Te lo advierto... puedo llegar a jugar mas allá que ese simple nivel...
+[Rei se atraviesa]
+Rei: Espera! Aika... este tipo no es de tomar a la ligera...
+MDark: Ja-ja, aprecio tu buen sentido de observación, Rei.
+Rei: Quien rayos eres? Y que coño quieres?
+MDark: Mi nombre ahora no tiene importancia, aunque pueden apodarme como todos los que me suelen ver cuando les arrebato la máquina de pump.
+Todos en coro: ¡¿Que?!
+Rei: Me temo que no puedes hacer eso.
+MDark: ¿Que no puedo? Sabes como funciona este mundo, verdad Rei? Mi querido nivel 19.
+
+{Todo el mundo voltea a mirar a Rei, este se encuentra nervioso}
+Core: Rei, que tú no eras nivel 30?
+Usui: Si Rei, que ha sucedido? Acaso este hombre está loco?
+Aika: Rei! Eso es mentira! partele el hocico!
+
+[Rei baja la cabeza]
+Rei: Lo siento chicos, pero es verdad. El sistema me degradó en estos dos últimos años luego de ganar el inter-pump de ciudades. Yo era antes nivel 30, pero entonces vine a esta ciudad buscando un poco mas de relajo y diversión mas allá de pisar solo flechas. Perdía los retos que periodicamente el sistema me ponia y entonces, acabé bajando niveles.
+MDark: Y todo por una tonta promesa que le hiciste tiempo atras a una... muy querida amiga que en ese momento te apoyó, verdad Rei?
+[Rei se encuentra en shock]
+Rei: Como... como sabes acerca de Hikari?
+[MDark da mas pasos al frente, mientras el da cada paso, el piso alumbra con un singular brillo, este mismo tiene forma de flechas de pump]
+MDark: Rei, Rei, Rei... Sabes? Si ibas a escoger la vida que tenia ella, debiste ir con ella en lugar de escoger tu orgullo. 
+Tu orgullo.. ha sido lo que ha hecho que ahora tu querida Hikari esté en manos del club ThunderStep, cuyo lider es nada mas y nada menos que tu oponente al final de ese torneo... y ademas de no mencionar que es...
+Rei: DETENTE!!!!
+[Luego de un silencio...]
+MDark: ... su amante.
+
+[Rei cae al piso]
+[Rei mira fijamente con odio a MDark]
+
+Rei: No dejaré que se lleve esta máquina.
+MDark: No es una opción, mi prepotente amigo.
+
+{
+Mission 19: Un bocadillo de golpes, Mr. Dark ataca! / A hit sneak, Mr. Dark attacks!
+Song: Crashday - Crash
+Level_Basic: 4
+Level_Normal: 16
+Level_Epic: 23
+Objective: Supera hasta el final de la canción / Clear until the end of song
+Break: No
+DefaultSpeedBasic: 2
+DefaultSpeedNormal: 3
+DefaultSpeedEpic: 3.5
+}
+
+[Rei se atraviesa en el camino]
+Rei: Tendrás que pasar por encima de mi sudoroso y acabado cuerpo antes de llevartela
+MDark: Bien... como tu quieras... Hace mucho que no me divertia.
+Primero, dejaré que tengas algo de esperanza al intentar ganarme... luego... dejaré que supliques piedad al momento de ver que el sistema no mentía.
+[El indicador de nivel en el aparato de MDark es 25]
+
+{On sucess}
+
+MDark: Que sucede? Rei, parece que te has quedado...
+sin aliento... je... jeje... je
+
+[El indicador de nivel de Rei bajo a nivel 18]
+
+Rei: No es posible... quien rayos eres?
+MDark: No te dije que usaras el nombre que me solian colocar? Solo dime... el señor oscuro...
+[MDark se aleja del lugar]
+
+Rei: Maldita sea! Ya no podremos jugar aqui. Lo siento, amigos, les he decepcionado.
+[Usui se siente impotente]
+Usui: Rayos, quien se cree ese idiota para hacer que nosotros dejemos de jugar
+Necesito mas poder. No puedo permitir que personas como el nos digan que hacer o no.
+Aika: Calmadito! [Usui], Pongase un momento los ojos en la cabeza y no en su arrechera.
+Acaso no viste como volvio ese hombre a Rei? Nosotros ni siquiera podemos ganarle a Rei... Esto no es algo que podamos manejar.
+Rei: jajaja... Aika... desde cuando te has vuelto tan negativa? Acaso ya se te ha olvidado cuando me llamaste ese dia a decirme que te entrenara para que fueras la mejor pumper femenina?
+Te recuerdo que incluso Yui te puede ganar con mucha facilidad.
+Aika: Tsk. Vale, vale. 
+Core: Yo igual los puedo ayudar. Ya saben que pienso que la pump no es solo pisar steps, sino tambien hacerlos!
+Usui: Pero entonces desde ahora debemos entrenar mas duro que lo de costumbre. Todo sea por el bien de que no cierren mas maquinas.
+Rei: Estoy de acuerdo. 
+Desde ahora nos vamos a llamar "revenge" que ante todos los pumpers del mundo significara que tomaremos venganza por habernos quitado nuestro lugar de juego.
+Usui: Pero ahora donde vamos a entrenar? 
+Rei: Eso dejamelo a mi. Nos reunimos manana para ir a mi antiguo sitio de entrenamiento. 
+
+[Capitulo 2]
+
+/*La escena comieza desde la casa de Aika*/
+
+Aika_narrador: Ja! Seguro me has visto antes. Mi nombre es Aika y soy una pumper de aqui, onohedera.
+Tengo 16 anos y aun me falta mucho para cumplir los 17. 
+Mi nivel siempre por alguna razon va a la par con el principiante de [Usui], pero llevo mas tiempo jugando.
+Eso es porque hubo un tiempo durante no jugue.
+Pero no estoy preocupada por subir nivel, excepto por mi hermana
+
+[Escenas sobre su hermana]
+
+Siempre ella se ha destacado por ser mejor que yo en casi cualquier cosa.
+Me daba alegria que en un principio yo le ganaba... almenos en algo.
+
+Mission_open:
+20 // Entrenamiento double-performance
+21 // Aika, el demonio de pelo castano
+22 // Trato!
+23 // Ver mas alla de lo que los ojos
+24 // Mision superada?
+25 // Yui, la hermana perfecta
+Mission_open
+
+{
+Mission 20: 
+Song: 
+Level_Basic: 1
+Level_Normal: 5
+Level_Epic: 11
+Objective: Supera con todos los items / Clear with all items
+Break: No
+DefaultSpeedBasic: 1
+DefaultSpeedNormal: 2
+DefaultSpeedEpic: 2
+}
+
+Guide: Hola! 
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{FE23644B-3A3E-415A-A5F0-E08D251CD75E}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>PIU2</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120_xp</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120_xp</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Include;D:\usr\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Lib\x86;D:\usr\lib;$(LibraryPath)</LibraryPath>
+    <OutDir>$(SolutionDir)\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Include;D:\usr\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Lib\x86;D:\usr\lib;$(LibraryPath)</LibraryPath>
+    <OutDir>$(SolutionDir)\</OutDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>PIUMAX_2;WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>E:\PIUMaX\extinc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>E:\PIUMaX\extlib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>zlib.lib;libpng.lib;Shell32.lib;x86\sdl2.lib;fmodex_vc.lib;avcodec.lib;avformat.lib;swscale.lib;avutil.lib;OpenGL32.lib;glu32.lib;glew32.lib;libiconv.lib;libcharset.lib;pcre.lib;lua51.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <ImageHasSafeExceptionHandlers>false</ImageHasSafeExceptionHandlers>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>PIUMAX_2;WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>E:\PIUMaX\extinc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalLibraryDirectories>E:\PIUMaX\extlib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>zlib.lib;libpng.lib;Shell32.lib;x86\sdl2.lib;fmodex_vc.lib;avcodec.lib;avformat.lib;swscale.lib;avutil.lib;OpenGL32.lib;glu32.lib;glew32.lib;libiconv.lib;libcharset.lib;pcre.lib;lua51.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <ImageHasSafeExceptionHandlers>false</ImageHasSafeExceptionHandlers>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\src\AccReader.cpp" />
+    <ClCompile Include="..\src\basutil.cpp" />
+    <ClCompile Include="..\src\cmnpiu.cpp" />
+    <ClCompile Include="..\src\eventdef.cpp" />
+    <ClCompile Include="..\src\GLFont.cpp" />
+    <ClCompile Include="..\src\GLFont2.cpp" />
+    <ClCompile Include="..\src\GraphMain.cpp" />
+    <ClCompile Include="..\src\GraphTexture.cpp" />
+    <ClCompile Include="..\src\libc_max_common.cpp" />
+    <ClCompile Include="..\src\MainTheme.cpp" />
+    <ClCompile Include="..\src\MaxInterface.cpp" />
+    <ClCompile Include="..\src\MaxInterfaceConfig.cpp" />
+    <ClCompile Include="..\src\MaxInterfaceGame.cpp" />
+    <ClCompile Include="..\src\MaxInterfaceGameIS.cpp" />
+    <ClCompile Include="..\src\MaxInterfaceGameMission.cpp" />
+    <ClCompile Include="..\src\MaxInterfaceGameMission3D.cpp" />
+    <ClCompile Include="..\src\MaxInterfaceGameSong.cpp" />
+    <ClCompile Include="..\src\MaxInterfaceStep.cpp" />
+    <ClCompile Include="..\src\MaxInterfaceStepEval.cpp" />
+    <ClCompile Include="..\src\MaxInterfaceUnlocker.cpp" />
+    <ClCompile Include="..\src\MaxInterfaceUSB.cpp" />
+    <ClCompile Include="..\src\MaxInterfaceWelcome.cpp" />
+    <ClCompile Include="..\src\MaxInterface_2.cpp" />
+    <ClCompile Include="..\src\Maxinterface_3.cpp" />
+    <ClCompile Include="..\src\MaxInterface_LUA_EVENT.cpp" />
+    <ClCompile Include="..\src\MaxInterface_LUA_INIT.cpp" />
+    <ClCompile Include="..\src\MaxLua.cpp" />
+    <ClCompile Include="..\src\MaxLuaCommonMethods.cpp" />
+    <ClCompile Include="..\src\MaxMenu.cpp" />
+    <ClCompile Include="..\src\MaxScreen.cpp" />
+    <ClCompile Include="..\src\MaxScreen_2.cpp" />
+    <ClCompile Include="..\src\MaxScreen_3.cpp" />
+    <ClCompile Include="..\src\MovieStream2.cpp" />
+    <ClCompile Include="..\src\OGLSprite.cpp" />
+    <ClCompile Include="..\src\OperStr.cpp" />
+    <ClCompile Include="..\src\piu.cpp" />
+    <ClCompile Include="..\src\PlayerStatus.cpp" />
+    <ClCompile Include="..\src\PortBuf.cpp" />
+    <ClCompile Include="..\src\SoundChannel.cpp" />
+    <ClCompile Include="..\src\SoundRes.cpp" />
+    <ClCompile Include="..\src\SoundStream.cpp" />
+    <ClCompile Include="..\src\SoundSys.cpp" />
+    <ClCompile Include="..\src\SpriteRes.cpp" />
+    <ClCompile Include="..\src\stdafx.cpp" />
+    <ClCompile Include="..\src\StdInput.cpp" />
+    <ClCompile Include="..\src\VideoRes.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\src\AccReader.h" />
+    <ClInclude Include="..\src\basutil.h" />
+    <ClInclude Include="..\src\cmnpiu.h" />
+    <ClInclude Include="..\src\cmnpiu_ex.h" />
+    <ClInclude Include="..\src\defbas.h" />
+    <ClInclude Include="..\src\defcomp.h" />
+    <ClInclude Include="..\src\eventdef.h" />
+    <ClInclude Include="..\src\GLFont.h" />
+    <ClInclude Include="..\src\GLFont2.h" />
+    <ClInclude Include="..\src\GraphMain.h" />
+    <ClInclude Include="..\src\GraphTexture.h" />
+    <ClInclude Include="..\src\intdef.h" />
+    <ClInclude Include="..\src\libc_max_common.h" />
+    <ClInclude Include="..\src\MainTheme.h" />
+    <ClInclude Include="..\src\MaxInterface.h" />
+    <ClInclude Include="..\src\MaxInterfaceConfig.h" />
+    <ClInclude Include="..\src\MaxInterfaceGame.h" />
+    <ClInclude Include="..\src\MaxInterfaceGameIS.h" />
+    <ClInclude Include="..\src\MaxInterfaceGameMission.h" />
+    <ClInclude Include="..\src\MaxInterfaceGameMission3D.h" />
+    <ClInclude Include="..\src\MaxInterfaceGameSong.h" />
+    <ClInclude Include="..\src\MaxInterfaceStep.h" />
+    <ClInclude Include="..\src\MaxInterfaceStepEval.h" />
+    <ClInclude Include="..\src\MaxInterfaceUnlocker.h" />
+    <ClInclude Include="..\src\MaxInterfaceUSB.h" />
+    <ClInclude Include="..\src\MaxInterfaceWelcome.h" />
+    <ClInclude Include="..\src\MaxLua.h" />
+    <ClInclude Include="..\src\MaxLuaCommonMethods.h" />
+    <ClInclude Include="..\src\MaxMenu.h" />
+    <ClInclude Include="..\src\MaxScreen.h" />
+    <ClInclude Include="..\src\MID.h" />
+    <ClInclude Include="..\src\MovieStream2.h" />
+    <ClInclude Include="..\src\OGLSprite.h" />
+    <ClInclude Include="..\src\OperStr.h" />
+    <ClInclude Include="..\src\piu.h" />
+    <ClInclude Include="..\src\PlayerStatus.h" />
+    <ClInclude Include="..\src\PortBuf.h" />
+    <ClInclude Include="..\src\resdef.h" />
+    <ClInclude Include="..\src\SoundChannel.h" />
+    <ClInclude Include="..\src\SoundRes.h" />
+    <ClInclude Include="..\src\SoundStream.h" />
+    <ClInclude Include="..\src\SoundSys.h" />
+    <ClInclude Include="..\src\SpriteRes.h" />
+    <ClInclude Include="..\src\stdafx.h" />
+    <ClInclude Include="..\src\StdInput.h" />
+    <ClInclude Include="..\src\StdString.h" />
+    <ClInclude Include="..\src\VideoRes.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

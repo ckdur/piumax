@@ -1,0 +1,52 @@
+﻿Build started 01/07/2015 03:20:34 p.m..
+     1>Project "D:\piumax2\PIUMaX-LINUX\piumax\piumax.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\src\USBsys.cpp
+         USBsys.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\piumax2\PIUMaX-LINUX\piumax\Debug\piumax.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win32" zlib.lib swscale.lib swresample.lib SDL.lib pthreadVC2.lib postproc.lib libpng.lib libiconv.lib glew32.lib fmodex_vc.lib avutil.lib avformat.lib avfilter.lib avdevice.lib avcodec.lib opengl32.lib glu32.lib libusb.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\piumax2\PIUMaX-LINUX\piumax\Debug\piumax.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\piumax2\PIUMaX-LINUX\piumax\Debug\piumax.lib" /MACHINE:X86 Debug\Anu.obj
+         Debug\cmnpiu.obj
+         Debug\config.obj
+         Debug\game1.obj
+         Debug\Game1Res.obj
+         Debug\Game2.obj
+         Debug\Game2Res.obj
+         Debug\Game3.obj
+         Debug\Game3Res.obj
+         Debug\Game4.obj
+         Debug\Game4Res.obj
+         Debug\Game5.obj
+         Debug\Game5Res.obj
+         Debug\GLFont.obj
+         Debug\GLFont2.obj
+         Debug\History.obj
+         Debug\HistoryLoader.obj
+         Debug\libc_max_common.obj
+         Debug\MissionLoader.obj
+         Debug\MovieStream.obj
+         Debug\MovieStream2.obj
+         Debug\MWayLoader.obj
+         Debug\OGLSprite.obj
+         Debug\OperStr.obj
+         Debug\piu.obj
+         Debug\PortBuf.obj
+         Debug\Skin.obj
+         Debug\SkinBS.obj
+         Debug\SkinCommon.obj
+         Debug\stdafx.obj
+         Debug\stepeval.obj
+         Debug\StepEvalRes.obj
+         Debug\stepsmu.obj
+         Debug\UnlockLoader.obj
+         Debug\UnlockRes.obj
+         Debug\UnlockSys.obj
+         Debug\UsbRes.obj
+         Debug\USBsys.obj
+         Debug\welcome.obj
+         Debug\WelcomeRes.obj
+         piumax.vcxproj -> D:\piumax2\PIUMaX-LINUX\piumax\Debug\piumax.exe
+     1>Done Building Project "D:\piumax2\PIUMaX-LINUX\piumax\piumax.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.87

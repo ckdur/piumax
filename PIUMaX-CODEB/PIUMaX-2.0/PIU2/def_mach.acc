@@ -1,0 +1,48 @@
+*Este archivo contiene en texto el guardado del archivo MAXmsave.bin
+*No usar MAXmsave.bin en los sistemas USB
+*No modificar este archivo, no servirá de nada modificarlo
+#SIZE_SONGLOCKNEW 5
+#SONGLOCKNEW
+0:	2	2	2	2	2
+1:	2	2	2	2	2
+2:	2	2	2	2	2
+3:	2	2	2	2	2
+4:	2	2	2	2	2
+*#SIZE_SONGLOCKRETRO 5
+*#SONGLOCKRETRO
+*0:	2	2	2	2	2
+*1:	2	2	2	2	2
+*2:	2	2	2	2	2
+*3:	2	2	2	2	2
+*4:	2	2	2	2	2
+#SIZE_SPECLOCKNEW 5
+#SPECLOCKNEW
+0:	2	2	2	2	2
+2:	2	2	2	2	2
+2:	2	2	2	2	2
+3:	2	2	2	2	2
+4:	2	2	2	2	2
+#SIZE_SPECLOCKRETRO 5
+#SPECLOCKRETRO
+0:	2	2	2	2	2
+1:	2	2	2	2	2
+2:	2	2	2	2	2
+3:	2	2	2	2	2
+4:	2	2	2	2	2
+#SIZE_BRAINSHOWERLOCK 5
+#BRAINSHOWERLOCK
+0:	2
+1:	2
+2:	2
+3:	2
+4:	2
+#SIZE_WAYUNLOCKED 2
+#WAYUNLOCKED
+1
+12
+#SIZE_MISSIONUNLOCKED 4
+#MISSIONUNLOCKED
+0
+2
+9
+10

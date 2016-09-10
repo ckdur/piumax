@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="piumax" />
+		<Option platforms="Windows;Unix;" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="../../../../PIUMaX/PIUMaX/piumax" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-I/home/ckdur/Descargas/ffmpeg-2.2.1/" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="../../../../PIUMaX/PIUMaX/piumax" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+			<Target title="HOS">
+				<Option output="/mnt/hd/contents/piumax/piumax_hos" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="/mnt/hd/contents/piumax" />
+				<Option object_output="obj/HOS/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-DPIUMAX_HOS_SUPPORT" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-std=c++11" />
+			<Add directory="/home/ckdur/Descargas/ffmpeg-0.8" />
+		</Compiler>
+		<Linker>
+			<Add option="~/Descargas/ffmpeg-0.8/libavformat/libavformat.a" />
+			<Add option="~/Descargas/ffmpeg-0.8/libavcodec/libavcodec.a" />
+			<Add option="~/Descargas/ffmpeg-0.8/libswscale/libswscale.a" />
+			<Add option="~/Descargas/ffmpeg-0.8/libavutil/libavutil.a" />
+			<Add option="-lpcre -lGL -lGLU -L/usr/local/lib -lSDL -lpng -lz -lusb -lX11 -lpthread" />
+			<Add option="-lfmodex" />
+		</Linker>
+		<Unit filename="src/Anu.cpp" />
+		<Unit filename="src/Anu.h" />
+		<Unit filename="src/GLFont.cpp" />
+		<Unit filename="src/GLFont.h" />
+		<Unit filename="src/GLFont2.cpp" />
+		<Unit filename="src/GLFont2.h" />
+		<Unit filename="src/Game1Res.cpp" />
+		<Unit filename="src/Game1Res.h" />
+		<Unit filename="src/Game2.cpp" />
+		<Unit filename="src/Game2Res.cpp" />
+		<Unit filename="src/Game2Res.h" />
+		<Unit filename="src/Game3.cpp" />
+		<Unit filename="src/Game3.h" />
+		<Unit filename="src/Game3Res.cpp" />
+		<Unit filename="src/Game3Res.h" />
+		<Unit filename="src/Game4.cpp" />
+		<Unit filename="src/Game4.h" />
+		<Unit filename="src/Game4Res.cpp" />
+		<Unit filename="src/Game4Res.h" />
+		<Unit filename="src/Game5.cpp" />
+		<Unit filename="src/Game5.h" />
+		<Unit filename="src/Game5Res.cpp" />
+		<Unit filename="src/Game5Res.h" />
+		<Unit filename="src/History.cpp" />
+		<Unit filename="src/History.h" />
+		<Unit filename="src/HistoryLoader.cpp" />
+		<Unit filename="src/HistoryLoader.h" />
+		<Unit filename="src/MWayLoader.cpp" />
+		<Unit filename="src/MWayLoader.h" />
+		<Unit filename="src/MissionLoader.cpp" />
+		<Unit filename="src/MissionLoader.h" />
+		<Unit filename="src/MovieStream2.cpp" />
+		<Unit filename="src/MovieStream2.h" />
+		<Unit filename="src/OGLSprite.cpp" />
+		<Unit filename="src/OGLSprite.h" />
+		<Unit filename="src/OperStr.cpp" />
+		<Unit filename="src/OperStr.h" />
+		<Unit filename="src/PortBuf.cpp" />
+		<Unit filename="src/PortBuf.h" />
+		<Unit filename="src/Skin.cpp" />
+		<Unit filename="src/Skin.h" />
+		<Unit filename="src/SkinBS.cpp" />
+		<Unit filename="src/SkinBS.h" />
+		<Unit filename="src/SkinCommon.cpp" />
+		<Unit filename="src/SkinCommon.h" />
+		<Unit filename="src/StdString.h" />
+		<Unit filename="src/StepEvalRes.cpp" />
+		<Unit filename="src/StepEvalRes.h" />
+		<Unit filename="src/USBsys.cpp" />
+		<Unit filename="src/USBsys.h" />
+		<Unit filename="src/UnlockLoader.cpp" />
+		<Unit filename="src/UnlockLoader.h" />
+		<Unit filename="src/UnlockRes.cpp" />
+		<Unit filename="src/UnlockRes.h" />
+		<Unit filename="src/UnlockSys.cpp" />
+		<Unit filename="src/UnlockSys.h" />
+		<Unit filename="src/UsbRes.cpp" />
+		<Unit filename="src/UsbRes.h" />
+		<Unit filename="src/WelcomeRes.cpp" />
+		<Unit filename="src/WelcomeRes.h" />
+		<Unit filename="src/cmnpiu.cpp" />
+		<Unit filename="src/cmnpiu.h" />
+		<Unit filename="src/cmnpiu_ex.h" />
+		<Unit filename="src/config.cpp" />
+		<Unit filename="src/config.h" />
+		<Unit filename="src/defbas.h" />
+		<Unit filename="src/deflate.h" />
+		<Unit filename="src/eventdef.h" />
+		<Unit filename="src/game1.cpp" />
+		<Unit filename="src/game1.h" />
+		<Unit filename="src/game2.h" />
+		<Unit filename="src/intdef.h" />
+		<Unit filename="src/libc_max_common.cpp" />
+		<Unit filename="src/libc_max_common.h" />
+		<Unit filename="src/piu.cpp" />
+		<Unit filename="src/resdef.h" />
+		<Unit filename="src/stdafx.cpp" />
+		<Unit filename="src/stdafx.h" />
+		<Unit filename="src/stepeval.cpp" />
+		<Unit filename="src/stepeval.h" />
+		<Unit filename="src/stepsmu.cpp" />
+		<Unit filename="src/stepsmu.h" />
+		<Unit filename="src/welcome.cpp" />
+		<Unit filename="src/welcome.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

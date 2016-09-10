@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1432672008 source:/mnt/hd/piumax2/maxsrv/main.cpp
+	"stdafx.h"
+
+1432671957 /mnt/hd/piumax2/maxsrv/stdafx.h
+	<iostream>
+	<ctime>
+	<string>
+	<boost/array.hpp>
+	<boost/bind.hpp>
+	<boost/shared_ptr.hpp>
+	<boost/enable_shared_from_this.hpp>
+	<boost/asio.hpp>
+

@@ -1,0 +1,62 @@
+﻿Compilación iniciada a las 27/07/2014 23:41:20.
+     1>Proyecto "D:\PIUMaX2\git\piumax2\maxedit\maxeditwin.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Z7 /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _CRT_SECURE_NO_WARNINGS /D _USING_V110_SDK71_ /D _MBCS /Gm- /EHsc /MTd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MaxStepSmu.cpp
+         MaxStepSmu.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\PIUMaX2\git\piumax2\maxedit\maxeditwin.exe" /INCREMENTAL:NO /NOLOGO "glib-2.0.lib" "gtk-win32-2.0.lib" "gdk-win32-2.0.lib" "gobject-2.0.lib" "gdk_pixbuf-2.0.lib" "gthread-2.0.lib" "gmodule-2.0.lib" "pango-1.0.lib" "atk-1.0.lib" zdll.lib cairo.lib libpng.lib Shell32.lib sdl2.lib fmodex_vc.lib avcodec.lib avformat.lib swscale.lib avutil.lib glew32.lib OpenGL32.lib glu32.lib libiconv.lib libcharset.lib pcre.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\PIUMaX2\git\piumax2\maxedit\maxeditwin.pdb" /SUBSYSTEM:CONSOLE,"5.01" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\PIUMaX2\git\piumax2\maxedit\maxeditwin.lib" /MACHINE:X86 /SAFESEH:NO Release\BeatSplitDlg.obj
+         Release\ChangeBPMDlg.obj
+         Release\ChangeVelDlg.obj
+         Release\cmnpiu.obj
+         Release\ComandOptionsDlg.obj
+         Release\IncrStepDlg.obj
+         Release\libc_max_common.obj
+         Release\main_document.obj
+         Release\main_document_conv.obj
+         Release\main_view.obj
+         Release\main_window.obj
+         Release\main_window2.obj
+         Release\MaxDataExchange.obj
+         Release\MaxDialog.obj
+         Release\maxedit.obj
+         Release\MaxSMConvChoose.obj
+         Release\MaxStepSmu.obj
+         Release\MaxStepSmuBS.obj
+         Release\MaxStepSmuBSDraw.obj
+         Release\MaxStepSmuBSRekon.obj
+         Release\MaxStepSmuDraw.obj
+         Release\MaxStepSmuRekon.obj
+         Release\basutil.obj
+         Release\GLFont.obj
+         Release\GLFont2.obj
+         Release\GraphMain.obj
+         Release\GraphTexture.obj
+         Release\MaxLua.obj
+         Release\MovieStream2.obj
+         Release\OGLSprite.obj
+         Release\Skin.obj
+         Release\SkinBS.obj
+         Release\SkinCommon.obj
+         Release\SoundChannel.obj
+         Release\SoundRes.obj
+         Release\SoundStream.obj
+         Release\SoundSys.obj
+         Release\StdInput.obj
+         Release\SetSizeDlg.obj
+         Release\signals.obj
+         Release\signalst.obj
+         Release\signalstr.obj
+         Release\stdafx.obj
+         Release\MsdFile.obj
+         Release\StepOptionsDlg.obj
+         Release\TickCountDlg.obj
+         Release\TypeNoteDlg.obj
+            Creando biblioteca D:\PIUMaX2\git\piumax2\maxedit\maxeditwin.lib y objeto D:\PIUMaX2\git\piumax2\maxedit\maxeditwin.exp
+         Generando código
+         Generación de código finalizada
+         maxeditwin.vcxproj -> D:\PIUMaX2\git\piumax2\maxedit\maxeditwin.exe
+     1>Compilación del proyecto terminada "D:\PIUMaX2\git\piumax2\maxedit\maxeditwin.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:33.50

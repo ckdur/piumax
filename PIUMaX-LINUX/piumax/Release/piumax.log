@@ -1,0 +1,60 @@
+﻿Build started 01/07/2015 03:29:20 p.m..
+     1>Project "D:\piumax2\PIUMaX-LINUX\piumax\piumax.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\src\piu.cpp
+         piu.cpp
+     1>..\src\piu.cpp(59): warning C4800: 'const uint32_t' : forcing value to bool 'true' or 'false' (performance warning)
+                 ..\src\piu.cpp(1672) : see reference to function template instantiation 'bool IsBitSet<uint32_t>(const T &,int)' being compiled
+                 with
+                 [
+                     T=uint32_t
+                 ]
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\piumax2\PIUMaX-LINUX\piumax\Release\piumax.exe" /NOLOGO /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win32" zlib.lib swscale.lib swresample.lib SDL.lib pthreadVC2.lib postproc.lib libpng.lib libiconv.lib glew32.lib fmodex_vc.lib avutil.lib avformat.lib avfilter.lib avdevice.lib avcodec.lib opengl32.lib glu32.lib libusb.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\piumax2\PIUMaX-LINUX\piumax\Release\piumax.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\piumax2\PIUMaX-LINUX\piumax\Release\piumax.lib" /MACHINE:X86 /SAFESEH:NO Release\Anu.obj
+         Release\cmnpiu.obj
+         Release\config.obj
+         Release\game1.obj
+         Release\Game1Res.obj
+         Release\Game2.obj
+         Release\Game2Res.obj
+         Release\Game3.obj
+         Release\Game3Res.obj
+         Release\Game4.obj
+         Release\Game4Res.obj
+         Release\Game5.obj
+         Release\Game5Res.obj
+         Release\GLFont.obj
+         Release\GLFont2.obj
+         Release\History.obj
+         Release\HistoryLoader.obj
+         Release\libc_max_common.obj
+         Release\MissionLoader.obj
+         Release\MovieStream.obj
+         Release\MovieStream2.obj
+         Release\MWayLoader.obj
+         Release\OGLSprite.obj
+         Release\OperStr.obj
+         Release\piu.obj
+         Release\PortBuf.obj
+         Release\Skin.obj
+         Release\SkinBS.obj
+         Release\SkinCommon.obj
+         Release\stdafx.obj
+         Release\stepeval.obj
+         Release\StepEvalRes.obj
+         Release\stepsmu.obj
+         Release\UnlockLoader.obj
+         Release\UnlockRes.obj
+         Release\UnlockSys.obj
+         Release\UsbRes.obj
+         Release\USBsys.obj
+         Release\welcome.obj
+         Release\WelcomeRes.obj
+         Generating code
+         Finished generating code
+         piumax.vcxproj -> D:\piumax2\PIUMaX-LINUX\piumax\Release\piumax.exe
+     1>Done Building Project "D:\piumax2\PIUMaX-LINUX\piumax\piumax.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:23.66
